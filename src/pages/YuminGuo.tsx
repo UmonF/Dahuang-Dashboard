@@ -1,115 +1,82 @@
 import { motion } from 'framer-motion'
 import { useState, useMemo } from 'react'
 import PageLayout from '../components/layout/PageLayout'
-import { getInsights, type Insight } from '../data'
+import { getInsights } from '../data'
 
-const categoryLabels: Record<Insight['category'], string> = {
-  'tech-ai': 'Tech & AI',
-  'game-ux': 'Game UX',
-  'design': '设计',
-}
-
-const sourceEmojis: Record<string, string> = {
-  'Twitter': '🐦',
-  'Blog': '📝',
-  'Paper': '📄',
-  'Newsletter': '📬',
-  'Video': '🎬',
-}
+const TABS = [
+  { key: 'all', label: '全部' },
+  { key: 'tech-ai', label: 'Tech & AI' },
+  { key: 'game-ux', label: 'Game UX' },
+  { key: 'design', label: '设计案例' },
+]
 
 function YuminGuo() {
   const allInsights = getInsights()
-  const [activeCategory, setActiveCategory] = useState<Insight['category'] | 'all'>('all')
+  const [activeTab, setActiveTab] = useState('all')
 
-  const categories: (Insight['category'] | 'all')[] = ['all', 'tech-ai', 'game-ux', 'design']
-
-  const filteredInsights = useMemo(() => {
-    if (activeCategory === 'all') return allInsights
-    return allInsights.filter(item => item.category === activeCategory)
-  }, [allInsights, activeCategory])
+  const filtered = useMemo(() => {
+    if (activeTab === 'all') return allInsights
+    return allInsights.filter(i => i.category === activeTab)
+  }, [allInsights, activeTab])
 
   return (
-    <PageLayout title="羽民国" subtitle="Feeds 资讯库" color="yuminGuo">
-      {/* Category Filter */}
-      <div className="flex gap-2 mb-8 flex-wrap">
-        {categories.map(cat => (
-          <button
-            key={cat}
-            onClick={() => setActiveCategory(cat)}
-            className={`px-4 py-2 rounded-full text-sm transition-all ${
-              activeCategory === cat
-                ? 'bg-yuminGuo text-white'
-                : 'bg-white/60 text-dahuang-ink/70 hover:bg-yuminGuo/20'
-            }`}
+    <PageLayout title="羽民国" subtitle="四方采集" stamp="羽">
+      <section className="sub-intro">
+        <p className="intro-text">
+          羽民国在其东南，其为人长头，身生羽。
+        </p>
+        <p className="intro-source">《山海经·海外南经》</p>
+      </section>
+
+      <section className="filter-bar">
+        {TABS.map(tab => (
+          <button 
+            key={tab.key}
+            className={`filter-btn ${activeTab === tab.key ? 'active' : ''}`}
+            onClick={() => setActiveTab(tab.key)}
           >
-            {cat === 'all' ? '全部' : categoryLabels[cat]}
+            {tab.label}
           </button>
         ))}
-      </div>
+      </section>
 
-      {/* Insights Grid */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {filteredInsights.map((insight, i) => (
-          <motion.div
-            key={insight.id}
-            className="bg-white/60 rounded-lg p-6 shadow-sm border border-yuminGuo/30 hover:shadow-md transition-shadow"
-            initial={{ opacity: 0, y: 20 }}
+      <section className="entry-list">
+        {filtered.map((item, i) => (
+          <motion.a
+            key={item.id}
+            href={item.sourceUrl || '#'}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="entry-item entry-link"
+            initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: i * 0.05 }}
+            transition={{ delay: i * 0.03 }}
           >
-            {/* Header */}
-            <div className="flex items-center justify-between mb-3">
-              <span className="text-xs px-2 py-1 bg-yuminGuo/20 rounded-full">
-                {categoryLabels[insight.category]}
+            <div className="entry-header">
+              <span className="entry-date">{item.date?.replace(/-/g, '.')}</span>
+              <span className="entry-type">
+                {item.category === 'tech-ai' ? 'AI' : item.category === 'game-ux' ? 'UX' : 'Design'}
               </span>
-              <span className="text-xs text-dahuang-ink/40">{insight.date}</span>
+              {item.source && <span className="entry-source">{item.source}</span>}
             </div>
-
-            {/* Title */}
-            <h3 className="font-serif-cn text-lg mb-2 line-clamp-2">{insight.title}</h3>
-
-            {/* Summary */}
-            <p className="text-sm text-dahuang-ink/70 mb-4 line-clamp-3">
-              {insight.summary}
-            </p>
-
-            {/* Footer */}
-            <div className="flex items-center justify-between">
-              <div className="flex items-center gap-1 text-xs text-dahuang-ink/50">
-                <span>{sourceEmojis[insight.source] || '🔗'}</span>
-                <span>{insight.source}</span>
-              </div>
-              {insight.sourceUrl && (
-                <a
-                  href={insight.sourceUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-xs text-yuminGuo hover:underline"
-                >
-                  阅读原文 →
-                </a>
-              )}
-            </div>
-
-            {/* Tags */}
-            {insight.tags.length > 0 && (
-              <div className="flex gap-1 mt-3 flex-wrap">
-                {insight.tags.slice(0, 3).map(tag => (
-                  <span key={tag} className="text-xs px-2 py-0.5 bg-dahuang-ink/5 rounded">
-                    {tag}
-                  </span>
+            <h3 className="entry-title">{item.title}</h3>
+            {item.summary && (
+              <p className="entry-excerpt">{item.summary}</p>
+            )}
+            {item.tags.length > 0 && (
+              <div className="entry-tags">
+                {item.tags.slice(0, 3).map(tag => (
+                  <span key={tag} className="entry-tag">{tag}</span>
                 ))}
               </div>
             )}
-          </motion.div>
+          </motion.a>
         ))}
-      </div>
+      </section>
 
-      {filteredInsights.length === 0 && (
-        <div className="text-center text-dahuang-ink/40 py-12">
-          暂无资讯
-        </div>
-      )}
+      <footer className="page-footer">
+        <p className="footer-note">共 {filtered.length} 条</p>
+      </footer>
     </PageLayout>
   )
 }

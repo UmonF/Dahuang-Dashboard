@@ -429,6 +429,16 @@ body {
   display: block;
 }
 
+.entry-quote {
+  font-size: 0.85rem;
+  color: var(--ink-light);
+  font-style: italic;
+  border-left: 2px solid var(--vermilion);
+  padding-left: 1rem;
+  margin-top: 1rem;
+  line-height: 1.7;
+}
+
 .page-footer {
   margin-top: 3rem;
   padding-top: 2rem;

@@ -3,7 +3,7 @@ import { useState, useMemo } from 'react'
 import PageLayout from '../components/layout/PageLayout'
 import { getReadingNotes, type ReadingNote } from '../data'
 
-const categoryLabels: Record<ReadingNote['category'], string> = {
+const CATEGORY_LABELS: Record<ReadingNote['category'], string> = {
   'folklore': '民俗',
   'science': '科学',
   'zhiguai': '志怪',
@@ -12,110 +12,77 @@ const categoryLabels: Record<ReadingNote['category'], string> = {
   'other': '其他',
 }
 
-const categoryEmojis: Record<ReadingNote['category'], string> = {
-  'folklore': '🏮',
-  'science': '🔬',
-  'zhiguai': '👻',
-  'design': '🎨',
-  'tech': '💻',
-  'other': '📚',
-}
-
 function KunlunQiu() {
   const allNotes = getReadingNotes()
-  const [activeCategory, setActiveCategory] = useState<ReadingNote['category'] | 'all'>('all')
+  const [activeCategory, setActiveCategory] = useState<string | null>(null)
 
-  const categories: (ReadingNote['category'] | 'all')[] = ['all', 'zhiguai', 'folklore', 'design', 'tech', 'science', 'other']
+  // 获取实际存在的分类
+  const existingCategories = [...new Set(allNotes.map(n => n.category))]
 
-  const filteredNotes = useMemo(() => {
-    if (activeCategory === 'all') return allNotes
-    return allNotes.filter(item => item.category === activeCategory)
+  const filtered = useMemo(() => {
+    if (!activeCategory) return allNotes
+    return allNotes.filter(n => n.category === activeCategory)
   }, [allNotes, activeCategory])
 
   return (
-    <PageLayout title="昆仑丘" subtitle="读书笔记" color="kunlunQiu">
-      {/* Category Filter */}
-      <div className="flex gap-2 mb-8 flex-wrap">
-        {categories.map(cat => (
-          <button
+    <PageLayout title="昆仑丘" subtitle="百川之源" stamp="崑">
+      <section className="sub-intro">
+        <p className="intro-text">
+          昆仑之丘，是实惟帝之下都。
+        </p>
+        <p className="intro-source">《山海经·海内西经》</p>
+      </section>
+
+      <section className="filter-bar">
+        <button 
+          className={`filter-btn ${!activeCategory ? 'active' : ''}`}
+          onClick={() => setActiveCategory(null)}
+        >
+          全部
+        </button>
+        {existingCategories.map(cat => (
+          <button 
             key={cat}
+            className={`filter-btn ${activeCategory === cat ? 'active' : ''}`}
             onClick={() => setActiveCategory(cat)}
-            className={`px-4 py-2 rounded-full text-sm transition-all flex items-center gap-1 ${
-              activeCategory === cat
-                ? 'bg-kunlunQiu text-white'
-                : 'bg-white/60 text-dahuang-ink/70 hover:bg-kunlunQiu/20'
-            }`}
           >
-            {cat !== 'all' && <span>{categoryEmojis[cat]}</span>}
-            {cat === 'all' ? '全部' : categoryLabels[cat]}
+            {CATEGORY_LABELS[cat] || cat}
           </button>
         ))}
-      </div>
+      </section>
 
-      {/* Notes List */}
-      <div className="space-y-6 max-w-3xl">
-        {filteredNotes.map((note, i) => (
+      <section className="entry-list">
+        {filtered.map((item, i) => (
           <motion.article
-            key={note.id}
-            className="bg-white/60 rounded-lg p-8 shadow-sm border border-kunlunQiu/30"
-            initial={{ opacity: 0, y: 20 }}
+            key={item.id}
+            className="entry-item"
+            initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: i * 0.1 }}
+            transition={{ delay: i * 0.05 }}
           >
-            {/* Header */}
-            <div className="flex items-center gap-3 mb-4">
-              <span className="text-2xl">{categoryEmojis[note.category]}</span>
-              <div>
-                <span className="text-xs px-2 py-1 bg-kunlunQiu/20 rounded-full">
-                  {categoryLabels[note.category]}
-                </span>
-                <span className="text-xs text-dahuang-ink/40 ml-2">{note.date}</span>
-              </div>
-              {note.rating && (
-                <div className="ml-auto text-yellow-500">
-                  {'★'.repeat(note.rating)}{'☆'.repeat(5 - note.rating)}
-                </div>
-              )}
+            <div className="entry-header">
+              <span className="entry-date">{item.date?.replace(/-/g, '.')}</span>
+              <span className="entry-category">
+                {CATEGORY_LABELS[item.category] || item.category}
+              </span>
+              {item.author && <span className="entry-source">{item.author}</span>}
             </div>
-
-            {/* Title & Author */}
-            <h2 className="font-serif-cn text-2xl mb-2">{note.title}</h2>
-            {note.author && (
-              <p className="text-sm text-dahuang-ink/50 mb-4">— {note.author}</p>
+            <h3 className="entry-title">{item.title}</h3>
+            {item.summary && (
+              <p className="entry-excerpt">{item.summary}</p>
             )}
-
-            {/* Summary */}
-            <p className="text-dahuang-ink/70 leading-relaxed mb-4">
-              {note.summary}
-            </p>
-
-            {/* Highlights */}
-            {note.highlights.length > 0 && (
-              <div className="border-l-2 border-kunlunQiu/40 pl-4 space-y-2 mb-4">
-                {note.highlights.map((highlight, j) => (
-                  <p key={j} className="text-sm text-dahuang-ink/60 italic">
-                    "{highlight}"
-                  </p>
-                ))}
-              </div>
-            )}
-
-            {/* Thoughts */}
-            {note.thoughts && (
-              <div className="bg-kunlunQiu/10 rounded p-4 text-sm">
-                <span className="text-dahuang-ink/40">💭 </span>
-                {note.thoughts}
-              </div>
+            {item.highlights.length > 0 && (
+              <blockquote className="entry-quote">
+                "{item.highlights[0]}"
+              </blockquote>
             )}
           </motion.article>
         ))}
-      </div>
+      </section>
 
-      {filteredNotes.length === 0 && (
-        <div className="text-center text-dahuang-ink/40 py-12">
-          暂无笔记
-        </div>
-      )}
+      <footer className="page-footer">
+        <p className="footer-note">共 {filtered.length} 篇</p>
+      </footer>
     </PageLayout>
   )
 }

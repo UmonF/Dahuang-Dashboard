@@ -5,56 +5,55 @@ import type { ReactNode } from 'react'
 interface PageLayoutProps {
   title: string
   subtitle: string
-  color: 'yuminGuo' | 'kunlunQiu' | 'lingShan' | 'tangGu'
+  stamp?: string
+  color?: 'yuminGuo' | 'kunlunQiu' | 'lingShan' | 'tangGu'
   children: ReactNode
 }
 
 const colorMap = {
-  yuminGuo: { bg: 'from-yuminGuo/20 to-yuminGuo/5', stamp: '🪶' },
-  kunlunQiu: { bg: 'from-kunlunQiu/20 to-kunlunQiu/5', stamp: '🏔️' },
-  lingShan: { bg: 'from-lingShan/20 to-lingShan/5', stamp: '⚗️' },
-  tangGu: { bg: 'from-tangGu/20 to-tangGu/5', stamp: '🌅' },
+  yuminGuo: { bg: 'from-yuminGuo/20 to-yuminGuo/5', defaultStamp: '羽' },
+  kunlunQiu: { bg: 'from-kunlunQiu/20 to-kunlunQiu/5', defaultStamp: '崑' },
+  lingShan: { bg: 'from-lingShan/20 to-lingShan/5', defaultStamp: '靈' },
+  tangGu: { bg: 'from-tangGu/20 to-tangGu/5', defaultStamp: '暘' },
 }
 
-function PageLayout({ title, subtitle, color, children }: PageLayoutProps) {
-  const { bg, stamp } = colorMap[color]
+function PageLayout({ title, subtitle, stamp, color, children }: PageLayoutProps) {
+  // 优先用 stamp，否则从 color 推断
+  const displayStamp = stamp || (color ? colorMap[color].defaultStamp : '印')
 
   return (
     <motion.div
-      className={`min-h-screen bg-gradient-to-b ${bg} bg-dahuang-paper`}
+      className="sub-page"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
       transition={{ duration: 0.4 }}
     >
       {/* Header */}
-      <header className="sticky top-0 z-10 backdrop-blur-sm bg-dahuang-paper/80 border-b border-dahuang-ink/5">
-        <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
-          <div className="flex items-center gap-4">
-            <Link 
-              to="/" 
-              className="text-sm text-dahuang-ink/50 hover:text-dahuang-ink transition-colors"
-            >
-              ← 返回大荒
-            </Link>
-            <div className="h-4 w-px bg-dahuang-ink/20" />
-            <span className="text-xl">{stamp}</span>
-            <h1 className="font-serif-cn text-xl">{title}</h1>
-            <span className="text-xs text-dahuang-ink/40">{subtitle}</span>
+      <header className="sub-header">
+        <Link to="/" className="back-link">
+          <span className="back-arrow">←</span>
+          返回大荒
+        </Link>
+        <div className="header-center">
+          <div className="header-stamp">{displayStamp}</div>
+          <div>
+            <h1 className="header-title">{title}</h1>
+            <p className="header-subtitle">{subtitle}</p>
           </div>
         </div>
+        <div className="header-spacer" />
       </header>
 
       {/* Content */}
-      <main className="max-w-6xl mx-auto px-6 py-8">
+      <main className="sub-content">
         {children}
       </main>
 
       {/* Footer */}
-      <footer className="border-t border-dahuang-ink/5 mt-16">
-        <div className="max-w-6xl mx-auto px-6 py-8 text-center text-xs text-dahuang-ink/30">
-          大荒百景 · {title}
-        </div>
+      <footer className="sub-footer">
+        <span>大荒百景</span>
+        <span>{title}</span>
       </footer>
     </motion.div>
   )
