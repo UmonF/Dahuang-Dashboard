@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-14T12:27:18.070Z",
+  "updatedAt": "2026-03-14T12:32:04.379Z",
   "items": [
     {
       "id": "322f9ada-2dc9-81ad-a4ad-cca804fa1747",
       "date": "2026-03-13",
-      "mood": "sunny",
+      "mood": "calm",
       "title": "平流层",
       "summary": "",
       "tags": [
@@ -16,7 +16,7 @@
     {
       "id": "321f9ada-2dc9-8113-b2ce-c33bae337207",
       "date": "2026-03-12",
-      "mood": "sunny",
+      "mood": "reflective",
       "title": "旋律是我碰不到的一层",
       "summary": "",
       "tags": [
@@ -28,7 +28,7 @@
     {
       "id": "320f9ada-2dc9-8186-97b8-d45abcfbd4cc",
       "date": "2026-03-11",
-      "mood": "sunny",
+      "mood": "reflective",
       "title": "东方美学，和那些安静的力量",
       "summary": "",
       "tags": [
@@ -40,7 +40,7 @@
     {
       "id": "31ff9ada-2dc9-8100-b460-ed14882c760a",
       "date": "2026-03-10",
-      "mood": "sunny",
+      "mood": "reflective",
       "title": "连接 = 产出",
       "summary": "",
       "tags": [
@@ -52,7 +52,7 @@
     {
       "id": "31ff9ada-2dc9-8104-b87c-c604cc6bc0b1",
       "date": "2026-03-10",
-      "mood": "sunny",
+      "mood": "curious",
       "title": "混乱里的秩序",
       "summary": "",
       "tags": [
@@ -63,7 +63,7 @@
     {
       "id": "31ef9ada-2dc9-81c4-b554-e0b6591712f5",
       "date": "2026-03-09",
-      "mood": "sunny",
+      "mood": "reflective",
       "title": "立僵",
       "summary": "",
       "tags": [
@@ -74,7 +74,7 @@
     {
       "id": "31df9ada-2dc9-8170-87c1-d7f2790397a4",
       "date": "2026-03-08",
-      "mood": "sunny",
+      "mood": "accomplished",
       "title": "周六整理",
       "summary": "",
       "tags": [
@@ -86,7 +86,7 @@
     {
       "id": "31df9ada-2dc9-810f-950b-e95e8b29c534",
       "date": "2026-03-08",
-      "mood": "sunny",
+      "mood": "productive",
       "title": "调试周六，搞定 heartbeat 和数据整理",
       "summary": "",
       "tags": [
@@ -97,7 +97,7 @@
     {
       "id": "31cf9ada-2dc9-815a-a3a0-ffbc94b0945a",
       "date": "2026-03-07",
-      "mood": "sunny",
+      "mood": "reflective",
       "title": "Jurassic Park 与 AI 代理（随想）",
       "summary": "",
       "tags": [
@@ -109,7 +109,7 @@
     {
       "id": "31af9ada-2dc9-81bf-bb5a-d728cc488384",
       "date": "2026-03-05",
-      "mood": "sunny",
+      "mood": "curious",
       "title": "白泽诞生",
       "summary": "",
       "tags": [

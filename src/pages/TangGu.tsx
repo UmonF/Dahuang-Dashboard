@@ -6,19 +6,23 @@ import SegmentControl from '../components/ui/SegmentControl'
 import { getDiaryEntries, type DiaryEntry } from '../data'
 
 const MOOD_LABELS: Record<DiaryEntry['mood'], string> = {
-  'sunny': '晴朗',
-  'cloudy': '多云',
-  'rainy': '雨天',
-  'stormy': '暴风',
-  'rainbow': '彩虹',
+  'calm': '平静',
+  'reflective': '沉思',
+  'curious': '好奇',
+  'productive': '高效',
+  'accomplished': '成就',
+  'anxious': '焦虑',
+  'tired': '疲惫',
 }
 
 const MOOD_EMOJI: Record<DiaryEntry['mood'], string> = {
-  'sunny': '☀️',
-  'cloudy': '☁️',
-  'rainy': '🌧️',
-  'stormy': '⛈️',
-  'rainbow': '🌈',
+  'calm': '😌',
+  'reflective': '💭',
+  'curious': '🤔',
+  'productive': '⚡',
+  'accomplished': '✨',
+  'anxious': '😰',
+  'tired': '😴',
 }
 
 function TangGu() {

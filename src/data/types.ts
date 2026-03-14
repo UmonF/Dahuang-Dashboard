@@ -28,12 +28,11 @@ export interface ReadingNote {
 export interface DiaryEntry {
   id: string
   date: string
-  mood: 'sunny' | 'cloudy' | 'rainy' | 'stormy' | 'rainbow'
+  mood: 'calm' | 'reflective' | 'curious' | 'productive' | 'accomplished' | 'anxious' | 'tired'
   title?: string
   content?: string
   summary?: string
   tags?: string[]
-  weather?: string
   createdAt: string
 }
 
