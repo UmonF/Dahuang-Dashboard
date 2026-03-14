@@ -1,36 +1,75 @@
 {
-  "version": "1.0",
-  "updatedAt": "2026-03-14T07:43:00Z",
+  "version": "1.0.0",
+  "updatedAt": "2026-03-14T08:34:20.247Z",
   "items": [
     {
-      "id": "note-20260314-001",
-      "title": "山海经·海外北经",
-      "author": "佚名",
-      "category": "zhiguai",
-      "summary": "记载了北方异域的奇异国度和生物，包括无肠国、深目国、柔利国等。",
-      "highlights": [
-        "无肠之国在深目东，其为人长而无肠。",
-        "一目国在其北，一目中其面而居。"
-      ],
-      "thoughts": "古人对未知世界的想象充满了对人体异化的好奇，每个国度都有独特的身体特征。",
-      "rating": 5,
-      "date": "2026-03-14",
-      "createdAt": "2026-03-14T07:43:00Z"
+      "id": "322f9ada",
+      "title": "龙抬头为何在二月二 | 节日是被建构的",
+      "author": "北大文研讲座 276｜辛德勇",
+      "category": "folklore",
+      "summary": "",
+      "highlights": [],
+      "date": "2026-03-13",
+      "createdAt": "2026-03-13T00:00:00.000Z"
     },
     {
-      "id": "note-20260310-001",
-      "title": "The Design of Everyday Things",
-      "author": "Don Norman",
-      "category": "design",
-      "summary": "用户中心设计的经典之作，强调可见性、反馈、约束和映射四大原则。",
-      "highlights": [
-        "Good design is actually a lot harder to notice than poor design.",
-        "The human mind is exquisitely tailored to make sense of the world."
-      ],
-      "thoughts": "设计的核心是理解人的心智模型，让技术适应人而非相反。",
-      "rating": 5,
+      "id": "322f9ada",
+      "title": "The Lonely Runner Problem | 简单猜��的深层等价",
+      "author": "Quanta Magazine",
+      "category": "science",
+      "summary": "",
+      "highlights": [],
+      "date": "2026-03-13",
+      "createdAt": "2026-03-13T00:00:00.000Z"
+    },
+    {
+      "id": "321f9ada",
+      "title": "时间的胜利：渐近安全 × 韩凭夫妇",
+      "author": "Quanta Magazine / 干宝《搜神记》卷十一",
+      "category": "science",
+      "summary": "",
+      "highlights": [],
+      "date": "2026-03-12",
+      "createdAt": "2026-03-12T00:00:00.000Z"
+    },
+    {
+      "id": "320f9ada",
+      "title": "比太阳更古老的晶体 + 二月二龙抬头的误会",
+      "category": "other",
+      "summary": "",
+      "highlights": [],
+      "date": "2026-03-11",
+      "createdAt": "2026-03-11T00:00:00.000Z"
+    },
+    {
+      "id": "31ff9ada",
+      "title": "混乱与秩序 / 人比鬼更可怕",
+      "author": "Quanta Magazine / 干宝《搜神记》卷十六",
+      "category": "science",
+      "summary": "",
+      "highlights": [],
       "date": "2026-03-10",
-      "createdAt": "2026-03-10T09:00:00Z"
+      "createdAt": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "31ef9ada",
+      "title": "《搜神记·三王墓》：复仇的结构",
+      "author": "干宝《搜神记》卷十一",
+      "category": "zhiguai",
+      "summary": "",
+      "highlights": [],
+      "date": "2026-03-09",
+      "createdAt": "2026-03-09T00:00:00.000Z"
+    },
+    {
+      "id": "31ef9ada",
+      "title": "量子力学一百年：我们仍然不知道现实是什么",
+      "author": "Quanta Magazine",
+      "category": "science",
+      "summary": "",
+      "highlights": [],
+      "date": "2026-03-09",
+      "createdAt": "2026-03-09T00:00:00.000Z"
     }
   ]
 }

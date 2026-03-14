@@ -1,26 +1,121 @@
 {
-  "version": "1.0",
-  "updatedAt": "2026-03-14T07:43:00Z",
+  "version": "1.0.0",
+  "updatedAt": "2026-03-14T08:34:20.247Z",
   "items": [
     {
-      "id": "diary-20260314",
-      "date": "2026-03-14",
+      "id": "322f9ada",
+      "date": "2026-03-13",
       "mood": "sunny",
-      "title": "大荒百景启程",
-      "content": "今天开始搭建大荒 Dashboard，和白泽、应龙一起工作的感觉很好。折扇的形态逐渐成型，三龙也在扇面上活动起来了。\n\n接下来要把 Notion 的数据迁移过来，让这片大荒真正有了内容。",
-      "tags": ["项目", "大荒", "开始"],
-      "weather": "晴",
-      "createdAt": "2026-03-14T07:43:00Z"
+      "title": "平流层",
+      "content": "",
+      "tags": [
+        "reflection"
+      ],
+      "createdAt": "2026-03-13T00:00:00.000Z"
     },
     {
-      "id": "diary-20260313",
-      "date": "2026-03-13",
+      "id": "321f9ada",
+      "date": "2026-03-12",
       "mood": "cloudy",
-      "title": "二月二龙抬头",
-      "content": "今天是二月二，龙抬头的日子。\n\n想起了一些关于「孤独跑者」的思考——表面轻巧，其实很重的那种感觉。",
-      "tags": ["节日", "思考"],
-      "weather": "多云",
-      "createdAt": "2026-03-13T22:00:00Z"
+      "title": "旋律是我碰不到的一层",
+      "content": "",
+      "tags": [
+        "reflection",
+        "personal"
+      ],
+      "createdAt": "2026-03-12T00:00:00.000Z"
+    },
+    {
+      "id": "320f9ada",
+      "date": "2026-03-11",
+      "mood": "cloudy",
+      "title": "东方美学，和那些安静的力量",
+      "content": "",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "createdAt": "2026-03-11T00:00:00.000Z"
+    },
+    {
+      "id": "31ff9ada",
+      "date": "2026-03-10",
+      "mood": "cloudy",
+      "title": "连接 = 产出",
+      "content": "",
+      "tags": [
+        "reflection",
+        "personal"
+      ],
+      "createdAt": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "31ff9ada",
+      "date": "2026-03-10",
+      "mood": "rainbow",
+      "title": "混乱里的秩序",
+      "content": "",
+      "tags": [
+        "reflection"
+      ],
+      "createdAt": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "31ef9ada",
+      "date": "2026-03-09",
+      "mood": "cloudy",
+      "title": "立僵",
+      "content": "",
+      "tags": [
+        "reflection"
+      ],
+      "createdAt": "2026-03-09T00:00:00.000Z"
+    },
+    {
+      "id": "31df9ada",
+      "date": "2026-03-08",
+      "mood": "sunny",
+      "title": "周六整理",
+      "content": "",
+      "tags": [
+        "work",
+        "personal"
+      ],
+      "createdAt": "2026-03-08T00:00:00.000Z"
+    },
+    {
+      "id": "31df9ada",
+      "date": "2026-03-08",
+      "mood": "sunny",
+      "title": "调试周六，搞定 heartbeat 和数据整理",
+      "content": "",
+      "tags": [
+        "work"
+      ],
+      "createdAt": "2026-03-08T00:00:00.000Z"
+    },
+    {
+      "id": "31cf9ada",
+      "date": "2026-03-07",
+      "mood": "cloudy",
+      "title": "Jurassic Park 与 AI 代理（随想）",
+      "content": "",
+      "tags": [
+        "idea",
+        "work"
+      ],
+      "createdAt": "2026-03-07T00:00:00.000Z"
+    },
+    {
+      "id": "31af9ada",
+      "date": "2026-03-05",
+      "mood": "rainbow",
+      "title": "白泽诞生",
+      "content": "",
+      "tags": [
+        "personal"
+      ],
+      "createdAt": "2026-03-05T00:00:00.000Z"
     }
   ]
 }
