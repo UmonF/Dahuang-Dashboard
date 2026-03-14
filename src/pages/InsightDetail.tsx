@@ -37,6 +37,11 @@ function InsightDetail() {
     : item.category === 'game-ux' ? 'Game UX' 
     : '设计案例'
 
+  // 只显示外部链接（YouTube、文章等），不显示 Notion 链接
+  const externalUrl = item.sourceUrl && !item.sourceUrl.includes('notion.so') 
+    ? item.sourceUrl 
+    : null
+
   return (
     <motion.div
       className="sub-page"
@@ -88,15 +93,15 @@ function InsightDetail() {
             </div>
           )}
 
-          {item.sourceUrl && (
+          {externalUrl && (
             <footer className="detail-footer">
               <a 
-                href={item.sourceUrl} 
+                href={externalUrl} 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="detail-link"
               >
-                查看原文 →
+                查看来源 →
               </a>
             </footer>
           )}

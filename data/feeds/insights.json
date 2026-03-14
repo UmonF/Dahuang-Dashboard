@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-14T09:24:54.613Z",
+  "updatedAt": "2026-03-14T09:31:30.559Z",
   "items": [
     {
-      "id": "ai-20260314-00",
+      "id": "323f9ada-2dc9-81d2-b247-e4d75bbbd3cc",
       "title": "AI 的两条路：硬件巨头入场与编码代理的代价",
       "summary": "Nvidia 投资 260 亿美元做开源模型，Yann LeCun 创业做世界模型，Amazon AI 代理造成宕机",
       "source": "Multiple",
@@ -16,7 +16,7 @@
       "createdAt": "2026-03-14T00:00:00.000Z"
     },
     {
-      "id": "ux-20260314-01",
+      "id": "323f9ada-2dc9-812b-a917-db53f4da75f4",
       "title": "We Have Made Evil Too Sexy",
       "summary": "Halo Effect 如何影响玩家对反派的感知。探讨外貌作为叙事工具——迪士尼反派从绿色瘦骨嶙峋变成美型角色的演变。Chainsaw Man 真琴的「流泪电影院场景」如何成为玩家原谅她的锚点。核心问题：我们是想透过邪恶看到人性，还是被邪恶本身所诱惑？",
       "source": "Daryl Talks Games",
@@ -32,7 +32,7 @@
       "createdAt": "2026-03-14T00:00:00.000Z"
     },
     {
-      "id": "ai-20260313-02",
+      "id": "322f9ada-2dc9-8194-87ad-ee3aa11d3dc7",
       "title": "AI 的「看不见的手」：谁在真正塑造这场革命？",
       "summary": "从肯尼亚数据标注工人的抗争，到 64% 美国青少年使用 AI 聊天机器人，再到 Claude 的��视化新功能——今天的新闻揭示了 AI 产业链上下游的真实图景。",
       "source": "Multiple",
@@ -45,11 +45,11 @@
       "createdAt": "2026-03-13T00:00:00.000Z"
     },
     {
-      "id": "ux-20260313-03",
+      "id": "322f9ada-2dc9-8165-9a8c-c5d6da28368d",
       "title": "GDC 2026 特辑：设计师如何在约束中创造惊喜",
       "summary": "GDC 2026 本周进行中。三个演讲揭示了一个共同主题：约束不是敌人，是设计的催化剂。",
       "source": "GDC",
-      "sourceUrl": "https://www.notion.so/GDC-2026-322f9ada2dc981659a8cc5d6da28368d",
+      "sourceUrl": null,
       "category": "game-ux",
       "tags": [
         "Level Design",
@@ -60,9 +60,13 @@
       "createdAt": "2026-03-13T00:00:00.000Z"
     },
     {
-      "id": "ds-20260313-04",
+      "id": "322f9ada-2dc9-81ca-aba9-e06fefee5834",
       "title": "Hypergryph/Arknights — Game UI 军事风深色主题",
-      "summary": "game-ui color layout",
+      "summary": [
+        "game-ui",
+        "color",
+        "layout"
+      ],
       "source": "Collection",
       "sourceUrl": "https://ak.hypergryph.com/",
       "category": "design",
@@ -71,7 +75,7 @@
       "createdAt": "2026-03-13T00:00:00.000Z"
     },
     {
-      "id": "ai-20260312-05",
+      "id": "321f9ada-2dc9-81a8-bc17-c91049514bab",
       "title": "AI 公司与政府的边界之战",
       "summary": "AI 伦理红线、政府采用、平台治理——三条线索，一个主题：边界在哪里？",
       "source": "Multiple",
@@ -84,7 +88,7 @@
       "createdAt": "2026-03-12T00:00:00.000Z"
     },
     {
-      "id": "ux-20260312-06",
+      "id": "321f9ada-2dc9-8178-9daa-e7d311b4f3bf",
       "title": "Marathon：反叛类型规则的 Extraction Shooter 设计",
       "summary": "Bungie 故意打破 extraction shooter 惯例，用\"缺失\"来聚焦核心体验。",
       "source": "Multiple",
@@ -99,9 +103,13 @@
       "createdAt": "2026-03-12T00:00:00.000Z"
     },
     {
-      "id": "ds-20260312-07",
+      "id": "321f9ada-2dc9-8102-8993-f17c585a4b88",
       "title": "Mr. Panda's Portfolio + Emotional Design",
-      "summary": "emotional design 3D methodology",
+      "summary": [
+        "emotional design",
+        "3D",
+        "methodology"
+      ],
       "source": "Collection",
       "sourceUrl": "https://www.mr-pandas-psychologically-safe-portfolio.com/",
       "category": "design",
@@ -110,7 +118,7 @@
       "createdAt": "2026-03-12T00:00:00.000Z"
     },
     {
-      "id": "ai-20260311-08",
+      "id": "320f9ada-2dc9-81e6-b998-e1e08b44d82b",
       "title": "AI 伦理战争：Anthropic 起诉五角大楼，竞争对手员工联名支持",
       "summary": "Anthropic 起诉五角大楼的供应链风险认定，37名OpenAI和Google员工签署法庭意见书声援——这可能是AI行业第一次真正的价值观对决。",
       "source": "Multiple",
@@ -123,7 +131,7 @@
       "createdAt": "2026-03-11T00:00:00.000Z"
     },
     {
-      "id": "ux-20260311-09",
+      "id": "320f9ada-2dc9-81db-ba36-c057b9eb24d4",
       "title": "The Art of Game UI - Good VS Boring",
       "summary": "UI 四分类：non-diegetic (传统 HUD)、diegetic (Dead Space 套装显示)、spatial (WoW 任务标记)、meta (受伤屏幕特效)。好 UI 应该是通往游戏世界的传送门，与游戏氛围高度一致。",
       "source": "Angelikatosh",
@@ -139,20 +147,30 @@
       "createdAt": "2026-03-11T00:00:00.000Z"
     },
     {
-      "id": "ds-20260311-10",
+      "id": "320f9ada-2dc9-8190-900a-d0ac832bde12",
       "title": "东方美学 Typography & 留白",
-      "summary": "Typography 留白 东方美学 中文排版",
+      "summary": [
+        "Typography",
+        "留白",
+        "东方美学",
+        "中文排版"
+      ],
       "source": "Collection",
-      "sourceUrl": "https://www.notion.so/Typography-320f9ada2dc98190900ad0ac832bde12",
+      "sourceUrl": null,
       "category": "design",
       "tags": [],
       "date": "2026-03-11",
       "createdAt": "2026-03-11T00:00:00.000Z"
     },
     {
-      "id": "ds-20260311-11",
+      "id": "320f9ada-2dc9-8128-95cc-ce5c2a5b46fb",
       "title": "Creative Apes - Typography & Grid System",
-      "summary": "Typography grid letter-spacing dark-light-toggle",
+      "summary": [
+        "Typography",
+        "grid",
+        "letter-spacing",
+        "dark-light-toggle"
+      ],
       "source": "Collection",
       "sourceUrl": "https://creativeapes.design/",
       "category": "design",
@@ -161,7 +179,7 @@
       "createdAt": "2026-03-11T00:00:00.000Z"
     },
     {
-      "id": "ai-20260310-12",
+      "id": "31ff9ada-2dc9-81b8-817d-fc18b0e1e8bc",
       "title": "AI 公司与政府的边界之战",
       "summary": "OpenAI/Google 员工跨公司联名支持 Anthropic 起诉五角大楼，AI 行业首次出现针对政府施压的集体抵抗",
       "source": "Multiple",
@@ -174,7 +192,7 @@
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": "ux-20260310-13",
+      "id": "31ff9ada-2dc9-81e1-8849-e75094f1ada2",
       "title": "Triple Bosses: Design Doc 三Boss战设计分析",
       "summary": "三Boss战是独立的设计范式，不只是\"双Boss加一个\"。核心在于三者的互动与节奏控制。好的三Boss战：有节奏感（Mantis Lords Sisters）、有团队配合（Chrono Trigger的Ozzie/Slash/Flea）、有击破策略的空间（Dark Souls的Ruin Sentinels）。坏的三Boss战：AI各自为战（Star Fox Assault）、空间太挤（Kingdom Hearts的Lock/Shock/Barrel）、混乱无序。设计启发：节奏是驯服混乱的关键；空间设计要匹配战斗规模；让玩家有策略选择而非纯反应；三者的互动应该是设计重点而非三个独立战斗的叠加。",
       "source": "Design Doc",
@@ -190,9 +208,16 @@
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": "ds-20260310-14",
+      "id": "31ff9ada-2dc9-8187-9dc1-ef4007ba7cbd",
       "title": "2026 Design & Typography Trends | Fontfabric + It's Nice That",
-      "summary": "Typography strategic-imperfection hand-drawn generative grid-system counterculture",
+      "summary": [
+        "Typography",
+        "strategic-imperfection",
+        "hand-drawn",
+        "generative",
+        "grid-system",
+        "counterculture"
+      ],
       "source": "Collection",
       "sourceUrl": "https://www.fontfabric.com/blog/10-design-trends-shaping-the-visual-typographic-landscape-in-2026/",
       "category": "design",
@@ -201,9 +226,14 @@
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": "ds-20260310-15",
+      "id": "31ff9ada-2dc9-810f-93b7-cafe27d761ab",
       "title": "Wondermake Fonts - 精英感的代价",
-      "summary": "极简 Typography Lottie 黑白",
+      "summary": [
+        "极简",
+        "Typography",
+        "Lottie",
+        "黑白"
+      ],
       "source": "Collection",
       "sourceUrl": "https://fonts.wondermake.xyz/",
       "category": "design",
@@ -212,9 +242,14 @@
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": "ds-20260310-16",
+      "id": "31ff9ada-2dc9-816f-b122-da72f6a6a58d",
       "title": "Paradox Live - 品牌调性与文化适配",
-      "summary": "品牌调性 文化适配 Hip-hop 多平台SNS",
+      "summary": [
+        "品牌调性",
+        "文化适配",
+        "Hip-hop",
+        "多平台SNS"
+      ],
       "source": "Collection",
       "sourceUrl": "https://paradoxlive.jp/en/",
       "category": "design",
@@ -223,9 +258,14 @@
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": "ds-20260310-17",
+      "id": "31ff9ada-2dc9-812c-8870-e14eec8e95a3",
       "title": "Arknights: Endfield - 像素级响应式",
-      "summary": "响应式 全球化 游戏官网 像素级适配",
+      "summary": [
+        "响应式",
+        "全球化",
+        "游戏官网",
+        "像素级适配"
+      ],
       "source": "Collection",
       "sourceUrl": "https://endfield.gryphline.com/ja-jp",
       "category": "design",
@@ -234,9 +274,14 @@
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": "ds-20260310-18",
+      "id": "31ff9ada-2dc9-81d7-8906-c92e15979a68",
       "title": "Project Sekai 5th - 主题符号系统",
-      "summary": "主题符号 SVG手绘 周年庆 视觉隐喻",
+      "summary": [
+        "主题符号",
+        "SVG手绘",
+        "周年庆",
+        "视觉隐喻"
+      ],
       "source": "Collection",
       "sourceUrl": "https://pjsekai.sega.jp/5th/index.html",
       "category": "design",
@@ -245,9 +290,14 @@
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": "ds-20260310-19",
+      "id": "31ff9ada-2dc9-81d8-a437-def7377931e1",
       "title": "Clay Garden - 双语设计的优雅",
-      "summary": "双语设计 3D/2D混合 编号导航 艺术项目",
+      "summary": [
+        "双语设计",
+        "3D/2D混合",
+        "编号导航",
+        "艺术项目"
+      ],
       "source": "Collection",
       "sourceUrl": "https://claygarden.jp/research",
       "category": "design",
@@ -256,9 +306,14 @@
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": "ds-20260310-20",
+      "id": "31ff9ada-2dc9-814a-89fd-d1e5fac4c023",
       "title": "Postcards - 无障碍优先的温暖设计",
-      "summary": "无障碍 现代CSS 温暖 克制",
+      "summary": [
+        "无障碍",
+        "现代CSS",
+        "温暖",
+        "克制"
+      ],
       "source": "Collection",
       "sourceUrl": "https://postcards.mono.studio/",
       "category": "design",
@@ -267,9 +322,14 @@
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": "ds-20260310-21",
+      "id": "31ff9ada-2dc9-8172-bbe9-f6f83b9b23dc",
       "title": "Dinotaeng - 内容即设计",
-      "summary": "叙事 世界观 手绘 交互体验",
+      "summary": [
+        "叙事",
+        "世界观",
+        "手绘",
+        "交互体验"
+      ],
       "source": "Collection",
       "sourceUrl": "https://en.dinotaeng.com/character/",
       "category": "design",
@@ -278,9 +338,14 @@
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": "ds-20260310-22",
+      "id": "31ff9ada-2dc9-81ad-b1cf-ced6692411c3",
       "title": "The Monolith Project - 极简流体设计",
-      "summary": "极简 流体设计 3D CSS变量",
+      "summary": [
+        "极简",
+        "流体设计",
+        "3D",
+        "CSS变量"
+      ],
       "source": "Collection",
       "sourceUrl": "https://themonolithproject.net/",
       "category": "design",
@@ -289,9 +354,14 @@
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": "ds-20260310-23",
+      "id": "31ff9ada-2dc9-8189-bde2-f8b9aa92e9c9",
       "title": "Persona 5 - 看一眼就知道是谁",
-      "summary": "视觉识别 配色 手绘感 层次感",
+      "summary": [
+        "视觉识别",
+        "配色",
+        "手绘感",
+        "层次感"
+      ],
       "source": "Collection",
       "sourceUrl": "https://persona5.jp/",
       "category": "design",
@@ -300,9 +370,14 @@
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": "ds-20260310-24",
+      "id": "31ff9ada-2dc9-814c-a8cd-e6faf1c9e7f0",
       "title": "Stripe Press - 数字世界的实体温度",
-      "summary": "材质系统 3D 品牌温度 实体感",
+      "summary": [
+        "材质系统",
+        "3D",
+        "品牌温度",
+        "实体感"
+      ],
       "source": "Collection",
       "sourceUrl": "https://press.stripe.com/",
       "category": "design",
@@ -311,7 +386,7 @@
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": "ai-20260309-25",
+      "id": "31ef9ada-2dc9-81ad-953e-f970e21704da",
       "title": "AI 与权力：当技术公司必须选边站",
       "summary": "三条新闻揭示同一趋势：AI 公司在政府、军事、政治压力下被迫做出价值观选择，中立已不再是选项。",
       "source": "Multiple",
@@ -324,7 +399,7 @@
       "createdAt": "2026-03-09T00:00:00.000Z"
     },
     {
-      "id": "ux-20260309-26",
+      "id": "31ef9ada-2dc9-8179-9f0e-cc63c24e4277",
       "title": "Indie Game Genres & Subtractive Design",
       "summary": "三种减法策略：fewer characters / smaller worlds / fewer mechanics。核心洞察：好的减法不是偷工减料，而是通过限制增加焦点和独特氛围。宫本茂：好想法解决两个问题。",
       "source": "Indie Game Clinic",
@@ -339,7 +414,7 @@
       "createdAt": "2026-03-09T00:00:00.000Z"
     },
     {
-      "id": "ai-20260307-27",
+      "id": "31cf9ada-2dc9-8114-869f-cc312945a387",
       "title": "AI 动态：Grammarly、Anthropic、OpenAI",
       "summary": "AI行业动态汇总：Grammarly推出Expert Review人工���核服务；Anthropic发布Claude 3.7 Sonnet与扩展思维功能；OpenAI探索无需按钮的代理任务模式",
       "source": "Multiple",
@@ -352,7 +427,7 @@
       "createdAt": "2026-03-07T00:00:00.000Z"
     },
     {
-      "id": "ux-20260307-28",
+      "id": "31cf9ada-2dc9-816c-9da2-f813f4a6b054",
       "title": "Demos Are Taking Over Games (Again)",
       "summary": "Demo 的复兴不只是营销变化，更是设计理念的转变。好的 Demo 要「刻意不完整」——展示最好的部分，但留下渴望。这影响了整个游戏开头的设计思路。",
       "source": "Architect of Games",
@@ -367,7 +442,7 @@
       "createdAt": "2026-03-07T00:00:00.000Z"
     },
     {
-      "id": "ux-20260307-29",
+      "id": "31cf9ada-2dc9-81e3-98f5-e591137964df",
       "title": "Weather Systems in Game Design",
       "summary": "天气不是真实的，是被构建的——设计师有完全的自由度。天气可以是：随机器、难度调节、故事元素、计时器、边界、甚至角色。Peak和Pacific Drive是绝佳案例。",
       "source": "Design Doc",
@@ -381,7 +456,7 @@
       "createdAt": "2026-03-07T00:00:00.000Z"
     },
     {
-      "id": "ux-20260306-30",
+      "id": "31bf9ada-2dc9-81d4-9833-f0a18a9f81cd",
       "title": "MDA Framework: Think Like A Game Designer",
       "summary": "MDA (Mechanics-Dynamics-Aesthetics) deep analysis. Core insight: designers can only control code (mechanics) but indirectly influence player behavior and emotions.",
       "source": "GMTK",
@@ -395,7 +470,7 @@
       "createdAt": "2026-03-06T00:00:00.000Z"
     },
     {
-      "id": "ux-20260305-31",
+      "id": "31af9ada-2dc9-811f-b2aa-d9426f3c7c5b",
       "title": "GMTK - Why Do We Like Cozy Games?",
       "summary": "Great breakdown of what makes cozy games feel safe and relaxing. Discusses pacing, low-stakes mechanics, and aesthetic choices that create comfort. Relevant for understanding emotional design in games.",
       "source": "GMTK",
