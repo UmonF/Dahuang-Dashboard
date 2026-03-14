@@ -10,100 +10,109 @@ interface PixelSpriteProps {
   onClick?: () => void
 }
 
-// 16×16 像素画 SVG 数据
-// 设计风格：GBA/NDS 时代 Q 版像素画，3-4色，大眼睛，黑色轮廓
+// 16×16 像素画 — 参考伊布进化系风格
+// 关键：圆润轮廓、大眼睛、颜色层次（高光/主色/阴影）
 const PIXEL_SPRITES: Record<string, { 
-  pixels: string[]  // 16 rows, each is a 16-char string
+  pixels: string[]
   palette: Record<string, string>
 }> = {
   baize: {
-    // 白泽：白色狮子，金角，红眼
+    // 白泽：白色狮子，圆润可爱，大眼睛
     palette: {
       '.': 'transparent',
-      'o': '#1a1a1a',     // outline - black
-      'w': '#f8f6f1',     // white - main body
-      's': '#e8e4db',     // shadow - light gray
+      'o': '#2d2a26',     // outline - dark brown
+      'w': '#faf8f5',     // white - highlight
+      'm': '#e8e4db',     // cream - main body
+      's': '#d4cfc4',     // shadow
       'g': '#c9a959',     // gold - horn
+      'h': '#dfc978',     // gold highlight
       'r': '#c84b31',     // vermilion - eye
-      'p': '#ffb5b5',     // pink - inner ear/nose
+      'k': '#1a1a1a',     // black - pupil
+      'p': '#f5cdc9',     // pink - inner ear
     },
     pixels: [
-      '................',
-      '......ogo.......',
+      '......ohho......',
       '.....ogggo......',
       '....owwwwwo.....',
-      '...owwwwwwwo....',
-      '..owwswwwswwo...',
-      '..owsrwwwrswwo..',
-      '..owwwwpwwwwwo..',
-      '..owwwwwwwwwwo..',
-      '...owwswswwo....',
-      '...owwwwwwwo....',
-      '....owwwwwo.....',
-      '...owwoowwwo....',
-      '...owo..owo.....',
-      '..owo....owo....',
+      '...owwmmmwwo....',
+      '..owwmmmmwwwo...',
+      '..owmkwwwkwwo...',
+      '..owmrwwwrmwo...',
+      '..owmmmmmmmwo...',
+      '...owmmpmmwo....',
+      '...owmmmmmmwo...',
+      '....owmmmmwo....',
+      '....owmwwmwo....',
+      '...owmo.omwo....',
+      '...owo...owo....',
+      '................',
       '................',
     ]
   },
   goumang: {
-    // 句芒：绿色植物精灵，叶子头发
+    // 句芒：绿色植物精灵，叶子头，圆脸
     palette: {
       '.': 'transparent',
-      'o': '#1a1a1a',     // outline
-      'g': '#7cb342',     // green - main
-      'd': '#558b2f',     // dark green - shadow
-      'l': '#aed581',     // light green - highlight
-      'y': '#c9a959',     // yellow - eyes
-      'p': '#ffcc80',     // peach - face
+      'o': '#2d2a26',     // outline
+      'l': '#a5d6a7',     // light green - highlight
+      'g': '#66bb6a',     // green - main
+      'd': '#43a047',     // dark green - shadow
+      'L': '#c8e6c9',     // pale green - leaf highlight
+      'f': '#ffe4c9',     // flesh - face
+      'h': '#ffeedd',     // face highlight
+      'p': '#ffb5b5',     // pink - cheek
+      'k': '#1a1a1a',     // black - eye
     },
     pixels: [
-      '......ooo.......',
-      '.....olllo......',
-      '....ollllo......',
-      '...ogllllgo.....',
-      '...oggggggo.....',
-      '..ogggdgggggo...',
-      '..oggdgggdggo...',
-      '..opppppppppo...',
-      '..opyppppyppo...',
-      '..opppppppppo...',
-      '...opppppppo....',
-      '....oppppo......',
-      '.....oppo.......',
-      '....opo.opo.....',
-      '...opo...opo....',
+      '.....oLLo.......',
+      '....oLllLo......',
+      '...oLlggllo.....',
+      '...olgggglo.....',
+      '....ogggo.......',
+      '...ohhhhho......',
+      '..ohhhhhhhho....',
+      '..ohkhhhhkho....',
+      '..ohhphhhpho....',
+      '..ohhhhhhhho....',
+      '...ohhhhho......',
+      '....ofhhfo......',
+      '...ofo..ofo.....',
+      '..ofo....ofo....',
+      '................',
       '................',
     ]
   },
   yinglong: {
-    // 应龙：青色东方龙，有翅膀
+    // 应龙：青色龙，圆润身体，小翅膀
     palette: {
       '.': 'transparent',
-      'o': '#1a1a1a',     // outline
-      'c': '#4db6ac',     // cyan - main body
-      'd': '#00897b',     // dark cyan - shadow
+      'o': '#2d2a26',     // outline
       'l': '#80cbc4',     // light cyan - highlight
-      'w': '#f8f6f1',     // white - belly
-      'r': '#c84b31',     // red - eye/whisker
+      'c': '#4db6ac',     // cyan - main
+      'd': '#00897b',     // dark cyan - shadow
+      'w': '#faf8f5',     // white - belly
+      'b': '#e8e4db',     // belly shadow
       'g': '#c9a959',     // gold - horn
+      'h': '#dfc978',     // gold highlight
+      'r': '#c84b31',     // red - whisker
+      'k': '#1a1a1a',     // black - eye
     },
     pixels: [
-      '..og..........og',
-      '.oggo........ogd',
-      '.olllo......olll',
+      '..ohho......ohho',
+      '.ohggo.....oggho',
+      '.ollll....ollllo',
       '..occcoooooccco.',
-      '..occccccccccco.',
-      '..occdcccccdcco.',
-      '.occcrccccrcccco',
-      '.occcccwwccccco.',
-      '.occccwwwwcccco.',
-      '..occccwwcccco..',
-      '...occcccccco...',
-      '....occccccco...',
-      '.....occccco....',
-      '.....oco.oco....',
-      '....oco...oco...',
+      '..olcccccccclo..',
+      '.olcckccckcclo..',
+      '.olccrcccrccclo.',
+      '.occcwwwwwccco..',
+      '..occwwwwwcco...',
+      '...occwwwcco....',
+      '....occcccco....',
+      '....occlcco.....',
+      '....oco.oco.....',
+      '...oco...oco....',
+      '................',
       '................',
     ]
   },
@@ -133,8 +142,8 @@ const PixelArtSVG = ({
             key={`${x}-${y}`}
             x={x * pixelSize}
             y={y * pixelSize}
-            width={pixelSize}
-            height={pixelSize}
+            width={pixelSize + 0.5}  // 微小重叠消除缝隙
+            height={pixelSize + 0.5}
             fill={sprite.palette[cell]}
           />
         )
@@ -158,7 +167,7 @@ const PixelArtSVG = ({
   )
 }
 
-// 状态指示器组件
+// 状态指示器
 const StateIndicator = ({ state }: { state: AgentState }) => {
   if (state === 'active') {
     return (
@@ -233,10 +242,7 @@ const PixelFrames = ({ agent, state }: { agent: string; state: AgentState }) => 
       }}
     >
       <div className="relative">
-        {/* 像素画 SVG */}
         <PixelArtSVG agentId={agent} size={48} state={state} />
-        
-        {/* 状态指示器 */}
         <StateIndicator state={state} />
       </div>
 
@@ -248,7 +254,6 @@ const PixelFrames = ({ agent, state }: { agent: string; state: AgentState }) => 
           height: '6px',
           background: 'radial-gradient(ellipse, rgba(45,42,38,0.15) 0%, transparent 70%)',
           opacity: state === 'offline' ? 0.3 : 0.8,
-          transition: 'opacity 0.3s',
         }}
       />
     </motion.div>
