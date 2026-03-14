@@ -591,6 +591,106 @@ body {
   line-height: 1.8;
 }
 
+.timeline-content {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+/* ============================================
+   详情页
+   ============================================ */
+
+.detail-article {
+  max-width: 700px;
+}
+
+.detail-header {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--paper-dark);
+}
+
+.detail-meta {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.detail-title {
+  font-family: var(--font-title);
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.05em;
+}
+
+.detail-body {
+  margin-bottom: 2rem;
+}
+
+.detail-content {
+  font-size: 1rem;
+  line-height: 2;
+  color: var(--ink-light);
+}
+
+.detail-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.detail-highlights {
+  margin-bottom: 2rem;
+}
+
+.detail-section-title {
+  font-size: 0.8rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.1em;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+}
+
+.detail-thoughts {
+  background: var(--paper-dark);
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.detail-rating {
+  color: var(--gold);
+  font-size: 1.2rem;
+  letter-spacing: 0.1em;
+  margin-bottom: 2rem;
+}
+
+.detail-footer {
+  padding-top: 2rem;
+  border-top: 1px solid var(--paper-dark);
+}
+
+.detail-link {
+  font-size: 0.85rem;
+  color: var(--vermilion);
+  text-decoration: none;
+  transition: opacity 0.2s;
+}
+
+.detail-link:hover {
+  opacity: 0.7;
+}
+
+.diary-mood {
+  color: var(--gold);
+}
+
+.diary-content {
+  white-space: pre-line;
+}
+
 /* ============================================
    响应式
    ============================================ */

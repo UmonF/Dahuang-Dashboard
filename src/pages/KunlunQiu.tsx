@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion'
 import { useState, useMemo } from 'react'
+import { Link } from 'react-router-dom'
 import PageLayout from '../components/layout/PageLayout'
 import { getReadingNotes, type ReadingNote } from '../data'
 
@@ -53,30 +54,34 @@ function KunlunQiu() {
 
       <section className="entry-list">
         {filtered.map((item, i) => (
-          <motion.article
+          <motion.div
             key={item.id}
-            className="entry-item"
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: i * 0.05 }}
           >
-            <div className="entry-header">
-              <span className="entry-date">{item.date?.replace(/-/g, '.')}</span>
-              <span className="entry-category">
-                {CATEGORY_LABELS[item.category] || item.category}
-              </span>
-              {item.author && <span className="entry-source">{item.author}</span>}
-            </div>
-            <h3 className="entry-title">{item.title}</h3>
-            {item.summary && (
-              <p className="entry-excerpt">{item.summary}</p>
-            )}
-            {item.highlights.length > 0 && (
-              <blockquote className="entry-quote">
-                "{item.highlights[0]}"
-              </blockquote>
-            )}
-          </motion.article>
+            <Link
+              to={`/kunlun/${item.id}`}
+              className="entry-item entry-link"
+            >
+              <div className="entry-header">
+                <span className="entry-date">{item.date?.replace(/-/g, '.')}</span>
+                <span className="entry-category">
+                  {CATEGORY_LABELS[item.category] || item.category}
+                </span>
+                {item.author && <span className="entry-source">{item.author}</span>}
+              </div>
+              <h3 className="entry-title">{item.title}</h3>
+              {item.summary && (
+                <p className="entry-excerpt">{item.summary}</p>
+              )}
+              {item.highlights.length > 0 && (
+                <blockquote className="entry-quote">
+                  "{item.highlights[0]}"
+                </blockquote>
+              )}
+            </Link>
+          </motion.div>
         ))}
       </section>
 

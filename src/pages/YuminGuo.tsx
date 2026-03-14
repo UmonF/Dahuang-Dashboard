@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion'
 import { useState, useMemo } from 'react'
+import { Link } from 'react-router-dom'
 import PageLayout from '../components/layout/PageLayout'
 import { getInsights } from '../data'
 
@@ -42,35 +43,36 @@ function YuminGuo() {
 
       <section className="entry-list">
         {filtered.map((item, i) => (
-          <motion.a
+          <motion.div
             key={item.id}
-            href={item.sourceUrl || '#'}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="entry-item entry-link"
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: i * 0.03 }}
           >
-            <div className="entry-header">
-              <span className="entry-date">{item.date?.replace(/-/g, '.')}</span>
-              <span className="entry-type">
-                {item.category === 'tech-ai' ? 'AI' : item.category === 'game-ux' ? 'UX' : 'Design'}
-              </span>
-              {item.source && <span className="entry-source">{item.source}</span>}
-            </div>
-            <h3 className="entry-title">{item.title}</h3>
-            {item.summary && (
-              <p className="entry-excerpt">{item.summary}</p>
-            )}
-            {item.tags.length > 0 && (
-              <div className="entry-tags">
-                {item.tags.slice(0, 3).map(tag => (
-                  <span key={tag} className="entry-tag">{tag}</span>
-                ))}
+            <Link
+              to={`/yumin/${item.id}`}
+              className="entry-item entry-link"
+            >
+              <div className="entry-header">
+                <span className="entry-date">{item.date?.replace(/-/g, '.')}</span>
+                <span className="entry-type">
+                  {item.category === 'tech-ai' ? 'AI' : item.category === 'game-ux' ? 'UX' : 'Design'}
+                </span>
+                {item.source && <span className="entry-source">{item.source}</span>}
               </div>
-            )}
-          </motion.a>
+              <h3 className="entry-title">{item.title}</h3>
+              {item.summary && (
+                <p className="entry-excerpt">{item.summary}</p>
+              )}
+              {item.tags.length > 0 && (
+                <div className="entry-tags">
+                  {item.tags.slice(0, 3).map(tag => (
+                    <span key={tag} className="entry-tag">{tag}</span>
+                  ))}
+                </div>
+              )}
+            </Link>
+          </motion.div>
         ))}
       </section>
 

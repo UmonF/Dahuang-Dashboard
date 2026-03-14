@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion'
 import { useState, useMemo } from 'react'
+import { Link } from 'react-router-dom'
 import PageLayout from '../components/layout/PageLayout'
 import { getDiaryEntries, type DiaryEntry } from '../data'
 
@@ -73,7 +74,7 @@ function TangGu() {
                 {MOOD_EMOJI[item.mood]} {MOOD_LABELS[item.mood] || item.mood}
               </span>
             </div>
-            <div className="timeline-content">
+            <Link to={`/tanggu/${item.id}`} className="timeline-content">
               <h3 className="timeline-title">{item.title}</h3>
               {item.content && (
                 <p className="timeline-text">{item.content}</p>
@@ -85,7 +86,7 @@ function TangGu() {
                   ))}
                 </div>
               )}
-            </div>
+            </Link>
           </motion.article>
         ))}
       </section>
