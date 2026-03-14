@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-14T09:52:54.944Z",
+  "updatedAt": "2026-03-14T09:54:36.106Z",
   "items": [
+    {
+      "id": "note-20260314-mmq59vwv",
+      "title": "Nth Country Experiment: 三个学生如何设计出原子弹",
+      "author": "Jake Currie (Nautilus)",
+      "category": "other",
+      "summary": "1964年五角大楼的绝密实验：三个不懂核物理的博士后从零设计原子弹，三年后成功。证明核扩散的真正壁垒不是知识，而是材料。",
+      "highlights": [
+        "The big advantage we had over Fermi and Teller was that we knew it could work.",
+        "If it had been constructed, it would have made a pretty impressive bang — on the same order of magnitude as Hiroshima."
+      ],
+      "thoughts": "知识民主化是双刃剑。Atoms for Peace 的信息公开帮助了和平核能，也帮助了这三个学生。",
+      "rating": 5,
+      "date": "2026-03-14",
+      "createdAt": "2026-03-14T09:50:01.423Z"
+    },
     {
       "id": "322f9ada-2dc9-8111-b4c2-dc1cbe73f24f",
       "title": "龙抬头为何在二月二 | 节日是被建构的",
