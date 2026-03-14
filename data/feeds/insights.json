@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-03-14T07:43:00Z",
+  "items": [
+    {
+      "id": "insight-20260314-001",
+      "title": "Claude's Character Training",
+      "summary": "Anthropic 发布了关于 Claude 性格训练的技术文档，展示了如何通过 Constitutional AI 方法塑造 AI 助手的行为特征。",
+      "source": "Blog",
+      "sourceUrl": "https://anthropic.com/research",
+      "category": "tech-ai",
+      "tags": ["AI", "Anthropic", "Claude", "Training"],
+      "date": "2026-03-14",
+      "createdAt": "2026-03-14T07:43:00Z"
+    },
+    {
+      "id": "insight-20260313-001",
+      "title": "游戏中的负面情绪设计",
+      "summary": "探讨如何在游戏设计中有意使用负面情绪（挫败、焦虑、悲伤）来增强玩家体验和叙事深度。",
+      "source": "Newsletter",
+      "category": "game-ux",
+      "tags": ["Game Design", "UX", "Emotion", "Narrative"],
+      "date": "2026-03-13",
+      "createdAt": "2026-03-13T10:00:00Z"
+    },
+    {
+      "id": "insight-20260312-001",
+      "title": "Spatial UI in Vision Pro",
+      "summary": "Apple Vision Pro 的空间界面设计原则分析，包括深度层次、注视交互和手势操作的最佳实践。",
+      "source": "Video",
+      "sourceUrl": "https://developer.apple.com/videos",
+      "category": "design",
+      "tags": ["Spatial", "VisionOS", "UI", "Apple"],
+      "date": "2026-03-12",
+      "createdAt": "2026-03-12T14:30:00Z"
+    }
+  ]
+}

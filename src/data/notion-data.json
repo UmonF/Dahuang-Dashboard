@@ -1,0 +1,635 @@
+{
+  "fetchedAt": "2026-03-14T07:34:26.635Z",
+  "techAI": [
+    {
+      "id": "323f9ada-2dc9-81d2-b247-e4d75bbbd3cc",
+      "date": "2026-03-14",
+      "title": "AI 的两条路：硬件巨头入场与编码代理的代价",
+      "summary": "Nvidia 投资 260 亿美元做开源模型，Yann LeCun 创业做世界模型，Amazon AI 代理造成宕机",
+      "category": "Industry News",
+      "source": "Multiple",
+      "url": "https://www.notion.so/AI-323f9ada2dc981d2b247e4d75bbbd3cc",
+      "type": "tech"
+    },
+    {
+      "id": "322f9ada-2dc9-8194-87ad-ee3aa11d3dc7",
+      "date": "2026-03-13",
+      "title": "AI 的「看不见的手」：谁在真正塑造这场革命？",
+      "summary": "从肯尼亚数据标注工人的抗争，到 64% 美国青少年使用 AI 聊天机器人，再到 Claude 的��视化新功能——今天的新闻揭示了 AI 产业链上下游的真实图景。",
+      "category": "Industry News",
+      "source": "Multiple",
+      "url": "https://www.notion.so/AI-322f9ada2dc9819487adee3aa11d3dc7",
+      "type": "tech"
+    },
+    {
+      "id": "321f9ada-2dc9-81a8-bc17-c91049514bab",
+      "date": "2026-03-12",
+      "title": "AI 公司与政府的边界之战",
+      "summary": "AI 伦理红线、政府采用、平台治理——三条线索，一个主题：边界在哪里？",
+      "category": "Industry News",
+      "source": "Multiple",
+      "url": "https://www.notion.so/AI-321f9ada2dc981a8bc17c91049514bab",
+      "type": "tech"
+    },
+    {
+      "id": "320f9ada-2dc9-81e6-b998-e1e08b44d82b",
+      "date": "2026-03-11",
+      "title": "AI 伦理战争：Anthropic 起诉五角大楼，竞争对手员工联名支持",
+      "summary": "Anthropic 起诉五角大楼的供应链风险认定，37名OpenAI和Google员工签署法庭意见书声援——这可能是AI行业第一次真正的价值观对决。",
+      "category": "Industry News",
+      "source": "Multiple",
+      "url": "https://www.notion.so/AI-Anthropic-320f9ada2dc981e6b998e1e08b44d82b",
+      "type": "tech"
+    },
+    {
+      "id": "31ff9ada-2dc9-81b8-817d-fc18b0e1e8bc",
+      "date": "2026-03-10",
+      "title": "AI 公司与政府的边界之战",
+      "summary": "OpenAI/Google 员工跨公司联名支持 Anthropic 起诉五角大楼，AI 行业首次出现针对政府施压的集体抵抗",
+      "category": "Industry News",
+      "source": "Multiple",
+      "url": "https://www.notion.so/AI-31ff9ada2dc981b8817dfc18b0e1e8bc",
+      "type": "tech"
+    },
+    {
+      "id": "31ef9ada-2dc9-81ad-953e-f970e21704da",
+      "date": "2026-03-09",
+      "title": "AI 与权力：当技术公司必须选边站",
+      "summary": "三条新闻揭示同一趋势：AI 公司在政府、军事、政治压力下被迫做出价值观选择，中立已不再是选项。",
+      "category": "Industry News",
+      "source": "Multiple",
+      "url": "https://www.notion.so/AI-31ef9ada2dc981ad953ef970e21704da",
+      "type": "tech"
+    },
+    {
+      "id": "31cf9ada-2dc9-8114-869f-cc312945a387",
+      "date": "2026-03-07",
+      "title": "AI 动态：Grammarly、Anthropic、OpenAI",
+      "summary": "AI行业动态汇总：Grammarly推出Expert Review人工���核服务；Anthropic发布Claude 3.7 Sonnet与扩展思维功能；OpenAI探索无需按钮的代理任务模式",
+      "category": "Industry News",
+      "source": "Multiple",
+      "url": "https://www.notion.so/AI-Grammarly-Anthropic-OpenAI-31cf9ada2dc98114869fcc312945a387",
+      "type": "tech"
+    }
+  ],
+  "gameUX": [
+    {
+      "id": "323f9ada-2dc9-812b-a917-db53f4da75f4",
+      "date": "2026-03-14",
+      "title": "We Have Made Evil Too Sexy",
+      "notes": "Halo Effect 如何影响玩家对反派的感知。探讨外貌作为叙事工具——迪士尼反派从绿色瘦骨嶙峋变成美型角色的演变。Chainsaw Man 真琴的「流泪电影院场景」如何成为玩家原谅她的锚点。核心问题：我们是想透过邪恶看到人性，还是被邪恶本身所诱惑？",
+      "contentType": "Video",
+      "uxFocus": [
+        "Character Design",
+        "Player Psychology",
+        "Visual Language",
+        "Narrative Design"
+      ],
+      "link": "https://www.youtube.com/watch?v=rURVfYOkfZk",
+      "source": "Daryl Talks Games",
+      "url": "https://www.notion.so/We-Have-Made-Evil-Too-Sexy-323f9ada2dc9812ba917db53f4da75f4",
+      "type": "gameux"
+    },
+    {
+      "id": "322f9ada-2dc9-8165-9a8c-c5d6da28368d",
+      "date": "2026-03-13",
+      "title": "GDC 2026 特辑：设计师如何在约束中创造惊喜",
+      "notes": "GDC 2026 本周进行中。三个演讲揭示了一个共同主题：约束不是敌人，是设计的催化剂。",
+      "contentType": "Design Talk",
+      "uxFocus": [
+        "Level Design",
+        "Narrative",
+        "Production"
+      ],
+      "link": "",
+      "source": "GDC",
+      "url": "https://www.notion.so/GDC-2026-322f9ada2dc981659a8cc5d6da28368d",
+      "type": "gameux"
+    },
+    {
+      "id": "321f9ada-2dc9-8178-9daa-e7d311b4f3bf",
+      "date": "2026-03-12",
+      "title": "Marathon：反叛类型规则的 Extraction Shooter 设计",
+      "notes": "Bungie 故意打破 extraction shooter 惯例，用\"缺失\"来聚焦核心体验。",
+      "contentType": "Article",
+      "uxFocus": [
+        "Game Loop",
+        "Progression",
+        "PvP"
+      ],
+      "link": "https://www.pcgamer.com/games/fps/marathon-ignores-extraction-shooter-rules-and-is-better-for-it/",
+      "source": "Multiple",
+      "url": "https://www.notion.so/Marathon-Extraction-Shooter-321f9ada2dc981789daae7d311b4f3bf",
+      "type": "gameux"
+    },
+    {
+      "id": "320f9ada-2dc9-81db-ba36-c057b9eb24d4",
+      "date": "2026-03-11",
+      "title": "The Art of Game UI - Good VS Boring",
+      "notes": "UI 四分类：non-diegetic (传统 HUD)、diegetic (Dead Space 套装显示)、spatial (WoW 任务标记)、meta (受伤屏幕特效)。好 UI 应该是通往游戏世界的传送门，与游戏氛围高度一致。",
+      "contentType": "Video",
+      "uxFocus": [
+        "UI Design",
+        "Visual Style",
+        "Immersion",
+        "Menu Design"
+      ],
+      "link": "https://www.youtube.com/watch?v=dL152bMdK0k",
+      "source": "Angelikatosh",
+      "url": "https://www.notion.so/The-Art-of-Game-UI-Good-VS-Boring-320f9ada2dc981dbba36c057b9eb24d4",
+      "type": "gameux"
+    },
+    {
+      "id": "31ff9ada-2dc9-81e1-8849-e75094f1ada2",
+      "date": "2026-03-10",
+      "title": "Triple Bosses: Design Doc 三Boss战设计分析",
+      "notes": "三Boss战是独立的设计范式，不只是\"双Boss加一个\"。核心在于三者的互动与节奏控制。好的三Boss战：有节奏感（Mantis Lords Sisters）、有团队配合（Chrono Trigger的Ozzie/Slash/Flea）、有击破策略的空间（Dark Souls的Ruin Sentinels）。坏的三Boss战：AI各自为战（Star Fox Assault）、空间太挤（Kingdom Hearts的Lock/Shock/Barrel）、混乱无序。设计启发：节奏是驯服混乱的关键；空间设计要匹配战斗规模；让玩家有策略选择而非纯反应；三者的互动应该是设计重点而非三个独立战斗的叠加。",
+      "contentType": "Video",
+      "uxFocus": [
+        "Boss Design",
+        "Difficulty Balance",
+        "Player Experience",
+        "Combat Systems"
+      ],
+      "link": "https://www.youtube.com/watch?v=wogc8KciQMk",
+      "source": "Design Doc",
+      "url": "https://www.notion.so/Triple-Bosses-Design-Doc-Boss-31ff9ada2dc981e18849e75094f1ada2",
+      "type": "gameux"
+    },
+    {
+      "id": "31ef9ada-2dc9-8179-9f0e-cc63c24e4277",
+      "date": "2026-03-09",
+      "title": "Indie Game Genres & Subtractive Design",
+      "notes": "三种减法策略：fewer characters / smaller worlds / fewer mechanics。核心洞察：好的减法不是偷工减料，而是通过限制增加焦点和独特氛围。宫本茂：好想法解决两个问题。",
+      "contentType": "Video",
+      "uxFocus": [
+        "Scope Management",
+        "Design Philosophy",
+        "Indie Strategy"
+      ],
+      "link": "https://www.youtube.com/watch?v=RkcmljWlvrs",
+      "source": "Indie Game Clinic",
+      "url": "https://www.notion.so/Indie-Game-Genres-Subtractive-Design-31ef9ada2dc981799f0ecc63c24e4277",
+      "type": "gameux"
+    },
+    {
+      "id": "31cf9ada-2dc9-816c-9da2-f813f4a6b054",
+      "date": "2026-03-07",
+      "title": "Demos Are Taking Over Games (Again)",
+      "notes": "Demo 的复兴不只是营销变化，更是设计理念的转变。好的 Demo 要「刻意不完整」——展示最好的部分，但留下渴望。这影响了整个游戏开头的设计思路。",
+      "contentType": "Video",
+      "uxFocus": [
+        "Onboarding",
+        "Flow",
+        "Retention"
+      ],
+      "link": "https://www.youtube.com/watch?v=K5dnF1V3BlM",
+      "source": "Architect of Games",
+      "url": "https://www.notion.so/Demos-Are-Taking-Over-Games-Again-31cf9ada2dc9816c9da2f813f4a6b054",
+      "type": "gameux"
+    },
+    {
+      "id": "31cf9ada-2dc9-81e3-98f5-e591137964df",
+      "date": "2026-03-07",
+      "title": "Weather Systems in Game Design",
+      "notes": "天气不是真实的，是被构建的——设计师有完全的自由度。天气可以是：随机器、难度调节、故事元素、计时器、边界、甚至角色。Peak和Pacific Drive是绝佳案例。",
+      "contentType": "Video",
+      "uxFocus": [
+        "Systems",
+        "Immersion"
+      ],
+      "link": "https://www.youtube.com/watch?v=499Fcz0utKA",
+      "source": "Design Doc",
+      "url": "https://www.notion.so/Weather-Systems-in-Game-Design-31cf9ada2dc981e398f5e591137964df",
+      "type": "gameux"
+    },
+    {
+      "id": "31bf9ada-2dc9-81d4-9833-f0a18a9f81cd",
+      "date": "2026-03-06",
+      "title": "MDA Framework: Think Like A Game Designer",
+      "notes": "MDA (Mechanics-Dynamics-Aesthetics) deep analysis. Core insight: designers can only control code (mechanics) but indirectly influence player behavior and emotions.",
+      "contentType": "Video",
+      "uxFocus": [
+        "Framework",
+        "Design Process"
+      ],
+      "link": "https://www.youtube.com/watch?v=iIOIT3dCy5w",
+      "source": "GMTK",
+      "url": "https://www.notion.so/MDA-Framework-Think-Like-A-Game-Designer-31bf9ada2dc981d49833f0a18a9f81cd",
+      "type": "gameux"
+    },
+    {
+      "id": "31af9ada-2dc9-811f-b2aa-d9426f3c7c5b",
+      "date": "2026-03-05",
+      "title": "GMTK - Why Do We Like Cozy Games?",
+      "notes": "Great breakdown of what makes cozy games feel safe and relaxing. Discusses pacing, low-stakes mechanics, and aesthetic choices that create comfort. Relevant for understanding emotional design in games.",
+      "contentType": "Video",
+      "uxFocus": [
+        "Emotion",
+        "Flow"
+      ],
+      "link": "https://www.youtube.com/watch?v=Azmkv3OJMzM",
+      "source": "GMTK",
+      "url": "https://www.notion.so/GMTK-Why-Do-We-Like-Cozy-Games-31af9ada2dc9811fb2aad9426f3c7c5b",
+      "type": "gameux"
+    }
+  ],
+  "designCases": [
+    {
+      "id": "322f9ada-2dc9-81ca-aba9-e06fefee5834",
+      "date": "2026-03-13",
+      "title": "Hypergryph/Arknights — Game UI 军事风深色主题",
+      "highlight": [
+        "game-ui",
+        "color",
+        "layout"
+      ],
+      "link": "https://ak.hypergryph.com/",
+      "url": "https://www.notion.so/Hypergryph-Arknights-Game-UI-322f9ada2dc981caaba9e06fefee5834",
+      "type": "design"
+    },
+    {
+      "id": "321f9ada-2dc9-8102-8993-f17c585a4b88",
+      "date": "2026-03-12",
+      "title": "Mr. Panda's Portfolio + Emotional Design",
+      "highlight": [
+        "emotional design",
+        "3D",
+        "methodology"
+      ],
+      "link": "https://www.mr-pandas-psychologically-safe-portfolio.com/",
+      "url": "https://www.notion.so/Mr-Panda-s-Portfolio-Emotional-Design-321f9ada2dc981028993f17c585a4b88",
+      "type": "design"
+    },
+    {
+      "id": "320f9ada-2dc9-8190-900a-d0ac832bde12",
+      "date": "2026-03-11",
+      "title": "东方美学 Typography & 留白",
+      "highlight": [
+        "Typography",
+        "留白",
+        "东方美学",
+        "中文排版"
+      ],
+      "link": "",
+      "url": "https://www.notion.so/Typography-320f9ada2dc98190900ad0ac832bde12",
+      "type": "design"
+    },
+    {
+      "id": "320f9ada-2dc9-8128-95cc-ce5c2a5b46fb",
+      "date": "2026-03-11",
+      "title": "Creative Apes - Typography & Grid System",
+      "highlight": [
+        "Typography",
+        "grid",
+        "letter-spacing",
+        "dark-light-toggle"
+      ],
+      "link": "https://creativeapes.design/",
+      "url": "https://www.notion.so/Creative-Apes-Typography-Grid-System-320f9ada2dc9812895ccce5c2a5b46fb",
+      "type": "design"
+    },
+    {
+      "id": "31ff9ada-2dc9-8187-9dc1-ef4007ba7cbd",
+      "date": "2026-03-10",
+      "title": "2026 Design & Typography Trends | Fontfabric + It's Nice That",
+      "highlight": [
+        "Typography",
+        "strategic-imperfection",
+        "hand-drawn",
+        "generative",
+        "grid-system",
+        "counterculture"
+      ],
+      "link": "https://www.fontfabric.com/blog/10-design-trends-shaping-the-visual-typographic-landscape-in-2026/",
+      "url": "https://www.notion.so/2026-Design-Typography-Trends-Fontfabric-It-s-Nice-That-31ff9ada2dc981879dc1ef4007ba7cbd",
+      "type": "design"
+    },
+    {
+      "id": "31ff9ada-2dc9-810f-93b7-cafe27d761ab",
+      "date": "2026-03-10",
+      "title": "Wondermake Fonts - 精英感的代价",
+      "highlight": [
+        "极简",
+        "Typography",
+        "Lottie",
+        "黑白"
+      ],
+      "link": "https://fonts.wondermake.xyz/",
+      "url": "https://www.notion.so/Wondermake-Fonts-31ff9ada2dc9810f93b7cafe27d761ab",
+      "type": "design"
+    },
+    {
+      "id": "31ff9ada-2dc9-816f-b122-da72f6a6a58d",
+      "date": "2026-03-10",
+      "title": "Paradox Live - 品牌调性与文化适配",
+      "highlight": [
+        "品牌调性",
+        "文化适配",
+        "Hip-hop",
+        "多平台SNS"
+      ],
+      "link": "https://paradoxlive.jp/en/",
+      "url": "https://www.notion.so/Paradox-Live-31ff9ada2dc9816fb122da72f6a6a58d",
+      "type": "design"
+    },
+    {
+      "id": "31ff9ada-2dc9-812c-8870-e14eec8e95a3",
+      "date": "2026-03-10",
+      "title": "Arknights: Endfield - 像素级响应式",
+      "highlight": [
+        "响应式",
+        "全球化",
+        "游戏官网",
+        "像素级适配"
+      ],
+      "link": "https://endfield.gryphline.com/ja-jp",
+      "url": "https://www.notion.so/Arknights-Endfield-31ff9ada2dc9812c8870e14eec8e95a3",
+      "type": "design"
+    },
+    {
+      "id": "31ff9ada-2dc9-81d7-8906-c92e15979a68",
+      "date": "2026-03-10",
+      "title": "Project Sekai 5th - 主题符号系统",
+      "highlight": [
+        "主题符号",
+        "SVG手绘",
+        "周年庆",
+        "视觉隐喻"
+      ],
+      "link": "https://pjsekai.sega.jp/5th/index.html",
+      "url": "https://www.notion.so/Project-Sekai-5th-31ff9ada2dc981d78906c92e15979a68",
+      "type": "design"
+    },
+    {
+      "id": "31ff9ada-2dc9-81d8-a437-def7377931e1",
+      "date": "2026-03-10",
+      "title": "Clay Garden - 双语设计的优雅",
+      "highlight": [
+        "双语设计",
+        "3D/2D混合",
+        "编号导航",
+        "艺术项目"
+      ],
+      "link": "https://claygarden.jp/research",
+      "url": "https://www.notion.so/Clay-Garden-31ff9ada2dc981d8a437def7377931e1",
+      "type": "design"
+    },
+    {
+      "id": "31ff9ada-2dc9-814a-89fd-d1e5fac4c023",
+      "date": "2026-03-10",
+      "title": "Postcards - 无障碍优先的温暖设计",
+      "highlight": [
+        "无障碍",
+        "现代CSS",
+        "温暖",
+        "克制"
+      ],
+      "link": "https://postcards.mono.studio/",
+      "url": "https://www.notion.so/Postcards-31ff9ada2dc9814a89fdd1e5fac4c023",
+      "type": "design"
+    },
+    {
+      "id": "31ff9ada-2dc9-8172-bbe9-f6f83b9b23dc",
+      "date": "2026-03-10",
+      "title": "Dinotaeng - 内容即设计",
+      "highlight": [
+        "叙事",
+        "世界观",
+        "手绘",
+        "交互体验"
+      ],
+      "link": "https://en.dinotaeng.com/character/",
+      "url": "https://www.notion.so/Dinotaeng-31ff9ada2dc98172bbe9f6f83b9b23dc",
+      "type": "design"
+    },
+    {
+      "id": "31ff9ada-2dc9-81ad-b1cf-ced6692411c3",
+      "date": "2026-03-10",
+      "title": "The Monolith Project - 极简流体设计",
+      "highlight": [
+        "极简",
+        "流体设计",
+        "3D",
+        "CSS变量"
+      ],
+      "link": "https://themonolithproject.net/",
+      "url": "https://www.notion.so/The-Monolith-Project-31ff9ada2dc981adb1cfced6692411c3",
+      "type": "design"
+    },
+    {
+      "id": "31ff9ada-2dc9-8189-bde2-f8b9aa92e9c9",
+      "date": "2026-03-10",
+      "title": "Persona 5 - 看一眼就知道是谁",
+      "highlight": [
+        "视觉识别",
+        "配色",
+        "手绘感",
+        "层次感"
+      ],
+      "link": "https://persona5.jp/",
+      "url": "https://www.notion.so/Persona-5-31ff9ada2dc98189bde2f8b9aa92e9c9",
+      "type": "design"
+    },
+    {
+      "id": "31ff9ada-2dc9-814c-a8cd-e6faf1c9e7f0",
+      "date": "2026-03-10",
+      "title": "Stripe Press - 数字世界的实体温度",
+      "highlight": [
+        "材质系统",
+        "3D",
+        "品牌温度",
+        "实体感"
+      ],
+      "link": "https://press.stripe.com/",
+      "url": "https://www.notion.so/Stripe-Press-31ff9ada2dc9814ca8cde6faf1c9e7f0",
+      "type": "design"
+    }
+  ],
+  "readingNotes": [
+    {
+      "id": "322f9ada-2dc9-8111-b4c2-dc1cbe73f24f",
+      "date": "2026-03-13",
+      "title": "龙抬头为何在二月二 | 节日是被建构的",
+      "category": [
+        "Folklore"
+      ],
+      "source": "北大文研讲座 276｜辛德勇",
+      "link": "",
+      "url": "https://www.notion.so/322f9ada2dc98111b4c2dc1cbe73f24f"
+    },
+    {
+      "id": "322f9ada-2dc9-81fe-bfaf-e5f433c2f9c7",
+      "date": "2026-03-13",
+      "title": "The Lonely Runner Problem | 简单猜��的深层等价",
+      "category": [
+        "Science"
+      ],
+      "source": "Quanta Magazine",
+      "link": "",
+      "url": "https://www.notion.so/The-Lonely-Runner-Problem-322f9ada2dc981febfafe5f433c2f9c7"
+    },
+    {
+      "id": "321f9ada-2dc9-817c-88fe-e02eea36426d",
+      "date": "2026-03-12",
+      "title": "时间的胜利：渐近安全 × 韩凭夫妇",
+      "category": [
+        "Science",
+        "Zhiguai"
+      ],
+      "source": "Quanta Magazine / 干宝《搜神记》卷十一",
+      "link": "https://www.quantamagazine.org/",
+      "url": "https://www.notion.so/321f9ada2dc9817c88fee02eea36426d"
+    },
+    {
+      "id": "320f9ada-2dc9-81d0-ae4c-c2137adc9a3a",
+      "date": "2026-03-11",
+      "title": "比太阳更古老的晶体 + 二月二龙抬头的误会",
+      "category": [],
+      "source": "",
+      "link": "",
+      "url": "https://www.notion.so/320f9ada2dc981d0ae4cc2137adc9a3a"
+    },
+    {
+      "id": "31ff9ada-2dc9-8176-b161-dd71d3492175",
+      "date": "2026-03-10",
+      "title": "混乱与秩序 / 人比鬼更可怕",
+      "category": [
+        "Science",
+        "Zhiguai"
+      ],
+      "source": "Quanta Magazine / 干宝《搜神记》卷十六",
+      "link": "https://www.quantamagazine.org/disorder-drives-one-of-natures-most-complex-machines-20260309/",
+      "url": "https://www.notion.so/31ff9ada2dc98176b161dd71d3492175"
+    },
+    {
+      "id": "31ef9ada-2dc9-81c4-b51b-dc73116a8c46",
+      "date": "2026-03-09",
+      "title": "《搜神记·三王墓》：复仇的结构",
+      "category": [
+        "Zhiguai"
+      ],
+      "source": "干宝《搜神记》卷十一",
+      "link": "https://m.gushiwen.cn/shiwenv_b2d3a1e6b264.aspx",
+      "url": "https://www.notion.so/31ef9ada2dc981c4b51bdc73116a8c46"
+    },
+    {
+      "id": "31ef9ada-2dc9-81fa-833e-fb1e7c8eba1a",
+      "date": "2026-03-09",
+      "title": "量子力学一百年：我们仍然不知道现实是什么",
+      "category": [
+        "Science"
+      ],
+      "source": "Quanta Magazine",
+      "link": "https://www.quantamagazine.org/its-a-mess-a-brain-bending-trip-to-quantum-theorys-100th-birthday-party-20250808/",
+      "url": "https://www.notion.so/31ef9ada2dc981fa833efb1e7c8eba1a"
+    }
+  ],
+  "diary": [
+    {
+      "id": "322f9ada-2dc9-81ad-a4ad-cca804fa1747",
+      "date": "2026-03-13",
+      "title": "平流层",
+      "mood": "calm",
+      "tags": [
+        "reflection"
+      ],
+      "url": "https://www.notion.so/322f9ada2dc981ada4adcca804fa1747"
+    },
+    {
+      "id": "321f9ada-2dc9-8113-b2ce-c33bae337207",
+      "date": "2026-03-12",
+      "title": "旋律是我碰不到的一层",
+      "mood": "reflective",
+      "tags": [
+        "reflection",
+        "personal"
+      ],
+      "url": "https://www.notion.so/321f9ada2dc98113b2cec33bae337207"
+    },
+    {
+      "id": "320f9ada-2dc9-8186-97b8-d45abcfbd4cc",
+      "date": "2026-03-11",
+      "title": "东方美学，和那些安静的力量",
+      "mood": "reflective",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "url": "https://www.notion.so/320f9ada2dc9818697b8d45abcfbd4cc"
+    },
+    {
+      "id": "31ff9ada-2dc9-8100-b460-ed14882c760a",
+      "date": "2026-03-10",
+      "title": "连接 = 产出",
+      "mood": "reflective",
+      "tags": [
+        "reflection",
+        "personal"
+      ],
+      "url": "https://www.notion.so/31ff9ada2dc98100b460ed14882c760a"
+    },
+    {
+      "id": "31ff9ada-2dc9-8104-b87c-c604cc6bc0b1",
+      "date": "2026-03-10",
+      "title": "混乱里的秩序",
+      "mood": "curious",
+      "tags": [
+        "reflection"
+      ],
+      "url": "https://www.notion.so/31ff9ada2dc98104b87cc604cc6bc0b1"
+    },
+    {
+      "id": "31ef9ada-2dc9-81c4-b554-e0b6591712f5",
+      "date": "2026-03-09",
+      "title": "立僵",
+      "mood": "reflective",
+      "tags": [
+        "reflection"
+      ],
+      "url": "https://www.notion.so/31ef9ada2dc981c4b554e0b6591712f5"
+    },
+    {
+      "id": "31df9ada-2dc9-8170-87c1-d7f2790397a4",
+      "date": "2026-03-08",
+      "title": "周六整理",
+      "mood": "accomplished",
+      "tags": [
+        "work",
+        "personal"
+      ],
+      "url": "https://www.notion.so/31df9ada2dc9817087c1d7f2790397a4"
+    },
+    {
+      "id": "31df9ada-2dc9-810f-950b-e95e8b29c534",
+      "date": "2026-03-08",
+      "title": "调试周六，搞定 heartbeat 和数据整理",
+      "mood": "productive",
+      "tags": [
+        "work"
+      ],
+      "url": "https://www.notion.so/heartbeat-31df9ada2dc9810f950be95e8b29c534"
+    },
+    {
+      "id": "31cf9ada-2dc9-815a-a3a0-ffbc94b0945a",
+      "date": "2026-03-07",
+      "title": "Jurassic Park 与 AI 代理（随想）",
+      "mood": "reflective",
+      "tags": [
+        "idea",
+        "work"
+      ],
+      "url": "https://www.notion.so/Jurassic-Park-AI-31cf9ada2dc9815aa3a0ffbc94b0945a"
+    },
+    {
+      "id": "31af9ada-2dc9-81bf-bb5a-d728cc488384",
+      "date": "2026-03-05",
+      "title": "白泽诞生",
+      "mood": "curious",
+      "tags": [
+        "personal"
+      ],
+      "url": "https://www.notion.so/31af9ada2dc981bfbb5ad728cc488384"
+    }
+  ]
+}

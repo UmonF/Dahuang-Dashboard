@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-03-14T07:43:00Z",
+  "items": [
+    {
+      "id": "exp-001",
+      "title": "大荒百景 Dashboard",
+      "description": "游戏化个人 Dashboard，以《山海经》大荒地图为主题，折扇为核心交互元素。",
+      "status": "wip",
+      "tags": ["React", "Framer Motion", "SVG", "山海经"],
+      "coverEmoji": "🪭",
+      "date": "2026-03-14",
+      "createdAt": "2026-03-14T04:26:00Z"
+    },
+    {
+      "id": "exp-002",
+      "title": "Agent Sprite 动画系统",
+      "description": "基于状态映射的像素风格 Agent 动画，支持 idle/active/thinking/offline 状态切换。",
+      "status": "done",
+      "tags": ["Animation", "Framer Motion", "OpenClaw"],
+      "coverEmoji": "🐉",
+      "date": "2026-03-14",
+      "createdAt": "2026-03-14T04:40:00Z"
+    }
+  ]
+}

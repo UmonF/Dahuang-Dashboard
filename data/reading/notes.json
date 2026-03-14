@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-03-14T07:43:00Z",
+  "items": [
+    {
+      "id": "note-20260314-001",
+      "title": "山海经·海外北经",
+      "author": "佚名",
+      "category": "zhiguai",
+      "summary": "记载了北方异域的奇异国度和生物，包括无肠国、深目国、柔利国等。",
+      "highlights": [
+        "无肠之国在深目东，其为人长而无肠。",
+        "一目国在其北，一目中其面而居。"
+      ],
+      "thoughts": "古人对未知世界的想象充满了对人体异化的好奇，每个国度都有独特的身体特征。",
+      "rating": 5,
+      "date": "2026-03-14",
+      "createdAt": "2026-03-14T07:43:00Z"
+    },
+    {
+      "id": "note-20260310-001",
+      "title": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "category": "design",
+      "summary": "用户中心设计的经典之作，强调可见性、反馈、约束和映射四大原则。",
+      "highlights": [
+        "Good design is actually a lot harder to notice than poor design.",
+        "The human mind is exquisitely tailored to make sense of the world."
+      ],
+      "thoughts": "设计的核心是理解人的心智模型，让技术适应人而非相反。",
+      "rating": 5,
+      "date": "2026-03-10",
+      "createdAt": "2026-03-10T09:00:00Z"
+    }
+  ]
+}

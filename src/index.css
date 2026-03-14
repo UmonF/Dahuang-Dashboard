@@ -1,0 +1,608 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200;300;400;600&family=ZCOOL+XiaoWei&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================
+   大荒百景 - Design System
+   ============================================ */
+
+:root {
+  --paper: #F5F1EB;
+  --paper-dark: #EDE7DD;
+  --ink: #2C2C2C;
+  --ink-light: #5C5C5C;
+  --ink-faint: #9C9C9C;
+  --vermilion: #C84B31;
+  --gold: #C9A959;
+
+  --font-cn: 'Noto Serif SC', serif;
+  --font-title: 'ZCOOL XiaoWei', 'Noto Serif SC', serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-cn);
+  background: var(--paper);
+  color: var(--ink);
+  line-height: 1.8;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ============================================
+   首页 - 折扇形式
+   ============================================ */
+
+.home {
+  min-height: 100vh;
+  background: var(--paper);
+  display: flex;
+  flex-direction: column;
+}
+
+/* Hero */
+.hero {
+  text-align: center;
+  padding: 2rem 4rem 1rem;
+  position: relative;
+}
+
+.hero-title {
+  font-family: var(--font-title);
+  font-size: clamp(2rem, 6vw, 3rem);
+  font-weight: 400;
+  letter-spacing: 0.3em;
+  line-height: 1;
+  margin-bottom: 0.8rem;
+}
+
+.hero-subtitle {
+  font-size: 0.85rem;
+  font-weight: 300;
+  color: var(--ink-faint);
+  letter-spacing: 0.3em;
+}
+
+.hero-side {
+  position: absolute;
+  right: 4rem;
+  top: 50%;
+  transform: translateY(-50%);
+  writing-mode: vertical-rl;
+  font-size: 0.7rem;
+  letter-spacing: 0.6em;
+  color: var(--ink-faint);
+}
+
+.hero-seal {
+  position: absolute;
+  left: 4rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 3rem;
+  height: 3rem;
+  border: 1.5px solid var(--vermilion);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-title);
+  font-size: 1rem;
+  color: var(--vermilion);
+}
+
+/* 折扇舞台 */
+.fan-stage {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 1rem 2rem 2rem;
+  overflow: hidden;
+}
+
+.fan-container {
+  position: relative;
+}
+
+/* Home Footer */
+.home-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 4rem;
+  border-top: 1px solid var(--paper-dark);
+}
+
+.footer-trackers {
+  display: flex;
+  gap: 2rem;
+}
+
+.tracker-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+  color: var(--ink-light);
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  transition: color 0.2s;
+}
+
+.tracker-link:hover {
+  color: var(--vermilion);
+}
+
+.tracker-icon {
+  font-size: 1rem;
+  opacity: 0.7;
+}
+
+.tracker-label {
+  font-weight: 300;
+}
+
+.footer-year {
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.1em;
+}
+
+/* ============================================
+   扇面 SVG 内样式
+   ============================================ */
+
+.fan-paper {
+  fill: var(--paper-dark);
+}
+
+.fan-label {
+  font-family: var(--font-title);
+  fill: var(--ink);
+  transition: fill 0.2s;
+  cursor: pointer;
+}
+
+.fan-label:hover {
+  fill: var(--vermilion);
+}
+
+.fan-label-sub {
+  font-family: var(--font-cn);
+  fill: var(--ink-faint);
+  font-size: 9px;
+  letter-spacing: 0.15em;
+}
+
+/* ============================================
+   子页面 - 统一布局
+   ============================================ */
+
+.page-sub {
+  min-height: 100vh;
+  background: var(--paper);
+}
+
+.sub-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem 4rem;
+  border-bottom: 1px solid var(--paper-dark);
+}
+
+.back-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--ink-faint);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.back-link:hover { color: var(--ink); }
+
+.back-arrow { transition: transform 0.2s; }
+.back-link:hover .back-arrow { transform: translateX(-3px); }
+
+.header-center {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.header-stamp {
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 1.5px solid var(--vermilion);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-title);
+  font-size: 0.9rem;
+  color: var(--vermilion);
+  opacity: 0.8;
+}
+
+.header-title {
+  font-family: var(--font-title);
+  font-size: 1.5rem;
+  font-weight: 400;
+  letter-spacing: 0.15em;
+}
+
+.header-subtitle {
+  font-size: 0.75rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.2em;
+}
+
+.header-spacer { width: 80px; }
+
+.sub-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 4rem;
+}
+
+.sub-footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 4rem;
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.1em;
+  border-top: 1px solid var(--paper-dark);
+}
+
+/* 引言区 */
+.sub-intro {
+  text-align: center;
+  padding: 3rem 0 4rem;
+  border-bottom: 1px solid var(--paper-dark);
+  margin-bottom: 3rem;
+}
+
+.intro-text {
+  font-family: var(--font-title);
+  font-size: 1.1rem;
+  color: var(--ink-light);
+  line-height: 2;
+  letter-spacing: 0.08em;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.intro-source {
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+  margin-top: 1.5rem;
+  letter-spacing: 0.15em;
+}
+
+/* ============================================
+   筛选器
+   ============================================ */
+
+.filter-bar {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.filter-btn {
+  background: none;
+  border: 1px solid var(--paper-dark);
+  padding: 0.4rem 1rem;
+  font-family: var(--font-cn);
+  font-size: 0.75rem;
+  color: var(--ink-faint);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.filter-btn:hover {
+  border-color: var(--ink-faint);
+  color: var(--ink-light);
+}
+
+.filter-btn.active {
+  border-color: var(--vermilion);
+  color: var(--vermilion);
+}
+
+/* ============================================
+   统一列表组件
+   ============================================ */
+
+.entry-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.entry-item {
+  padding: 2rem 0;
+  border-bottom: 1px solid var(--paper-dark);
+  cursor: pointer;
+  transition: all 0.3s;
+  position: relative;
+}
+
+.entry-item::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background: var(--vermilion);
+  transition: width 0.3s;
+}
+
+.entry-item:hover::after { width: 100%; }
+.entry-item:first-child { padding-top: 0; }
+
+.entry-header {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.entry-date {
+  font-size: 0.75rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.02em;
+}
+
+.entry-category {
+  font-size: 0.7rem;
+  color: var(--vermilion);
+  letter-spacing: 0.08em;
+}
+
+.entry-source {
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.05em;
+}
+
+.entry-type {
+  font-size: 0.65rem;
+  color: var(--gold);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.entry-title {
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.02em;
+  transition: color 0.2s;
+}
+
+.entry-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.entry-title a:hover {
+  color: var(--vermilion);
+}
+
+.entry-item:hover .entry-title { color: var(--vermilion); }
+
+.entry-excerpt,
+.entry-notes {
+  font-size: 0.9rem;
+  color: var(--ink-light);
+  line-height: 1.8;
+}
+
+.entry-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.entry-tag {
+  font-size: 0.65rem;
+  color: var(--ink-faint);
+  background: var(--paper-dark);
+  padding: 0.25rem 0.6rem;
+  letter-spacing: 0.03em;
+}
+
+.entry-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.page-footer {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--paper-dark);
+}
+
+.footer-note {
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.05em;
+}
+
+/* ============================================
+   灵山 - 项目网格
+   ============================================ */
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: var(--paper-dark);
+}
+
+.project-card {
+  background: var(--paper);
+  padding: 2.5rem;
+  cursor: pointer;
+  transition: all 0.3s;
+  display: flex;
+  flex-direction: column;
+  min-height: 200px;
+}
+
+.project-card:hover { background: var(--paper-dark); }
+
+.project-header { margin-bottom: auto; }
+
+.project-status {
+  font-size: 0.6rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.project-status.wip { color: var(--gold); }
+.project-status.done { color: var(--ink-faint); }
+
+.project-title {
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.02em;
+}
+
+.project-desc {
+  font-size: 0.85rem;
+  color: var(--ink-light);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.project-tags {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: auto;
+}
+
+.project-tag {
+  font-size: 0.6rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.05em;
+}
+
+/* ============================================
+   汤谷 - Timeline
+   ============================================ */
+
+.timeline {
+  position: relative;
+  padding-left: 120px;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 100px;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: var(--paper-dark);
+}
+
+.timeline-item {
+  position: relative;
+  padding: 0 0 3rem 2rem;
+}
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -4px;
+  top: 6px;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--paper-dark);
+  border: 2px solid var(--paper);
+  transition: background 0.2s;
+}
+
+.timeline-item:hover::before { background: var(--vermilion); }
+
+.timeline-date {
+  position: absolute;
+  left: -120px;
+  width: 90px;
+  text-align: right;
+  top: 0;
+}
+
+.timeline-date time {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.02em;
+}
+
+.timeline-mood {
+  display: block;
+  font-size: 0.65rem;
+  color: var(--gold);
+  margin-top: 0.4rem;
+  letter-spacing: 0.1em;
+}
+
+.timeline-content { cursor: pointer; }
+
+.timeline-title {
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.02em;
+  transition: color 0.2s;
+}
+
+.timeline-item:hover .timeline-title { color: var(--vermilion); }
+
+.timeline-text {
+  font-size: 0.9rem;
+  color: var(--ink-light);
+  line-height: 1.8;
+}
+
+/* ============================================
+   响应式
+   ============================================ */
+
+@media (max-width: 768px) {
+  .hero { padding: 2rem; }
+  .hero-title { font-size: clamp(3rem, 15vw, 6rem); }
+  .hero-side { display: none; }
+  .hero-seal { left: 2rem; bottom: 2rem; }
+  
+  .section { padding: 3rem 2rem; }
+  .realms { grid-template-columns: 1fr; }
+  .agents-grid { flex-direction: column; }
+  
+  .sub-header { padding: 1.5rem; }
+  .sub-content { padding: 2rem 1.5rem; }
+  
+  .project-grid { grid-template-columns: 1fr; }
+  
+  .timeline { padding-left: 0; }
+  .timeline::before { display: none; }
+  .timeline-item::before { display: none; }
+  .timeline-item { padding-left: 0; padding-bottom: 2rem; border-bottom: 1px solid var(--paper-dark); }
+  .timeline-date { position: static; width: auto; text-align: left; display: flex; gap: 1rem; margin-bottom: 0.5rem; }
+}
