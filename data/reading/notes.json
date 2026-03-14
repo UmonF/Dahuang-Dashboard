@@ -1,7 +1,39 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-14T09:54:36.106Z",
+  "updatedAt": "2026-03-14T10:02:26.130Z",
   "items": [
+    {
+      "id": "note-20260314-mmq5puj6",
+      "title": "论清代边疆治理",
+      "author": "吕文利",
+      "category": "other",
+      "summary": "《礼记》的「修其教不易其俗，齐其政不易其宜」不只是因俗而治，更是因俗而治+修教齐政的两阶段治理逻辑",
+      "highlights": [
+        "因俗而治是起点，修教齐政是目的",
+        "康熙帝：修德安民，喀尔喀即长城",
+        "乾隆：众建以分其势"
+      ],
+      "thoughts": "妥协是智慧，改革也是智慧；关键在于知道什么时候该妥协，什么时候该改革",
+      "rating": 5,
+      "date": "2026-03-14",
+      "createdAt": "2026-03-14T10:02:26.130Z"
+    },
+    {
+      "id": "note-20260314-mmq5p0bi",
+      "title": "Where Some See Strings, She Sees a Space-Time Made of Fractals",
+      "author": "Charlie Wood (采访 Astrid Eichhorn)",
+      "category": "science",
+      "summary": "Quanta专访物理学家Astrid Eichhorn，探讨渐近安全理论如何用分形结构取代弦论和圈量子引力来解决量子引力问题",
+      "highlights": [
+        "OMG图：定点存在时，top和bottom夸克必须有不同质量",
+        "最保守的量子引力：不改变粒子或时空，只添加尺度对称",
+        "谦逊：弦论和圈量子引力可能是同一物理的不同视角"
+      ],
+      "thoughts": "理论的价值在于可被证伪，而非不可动摇",
+      "rating": 5,
+      "date": "2026-03-14",
+      "createdAt": "2026-03-14T10:01:46.974Z"
+    },
     {
       "id": "note-20260314-mmq59vwv",
       "title": "Nth Country Experiment: 三个学生如何设计出原子弹",
