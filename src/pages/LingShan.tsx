@@ -1,6 +1,7 @@
-import { motion } from 'framer-motion'
+import { motion, AnimatePresence } from 'framer-motion'
 import { useState, useMemo } from 'react'
 import PageLayout from '../components/layout/PageLayout'
+import SegmentControl from '../components/ui/SegmentControl'
 import { getExperiments, type Experiment } from '../data'
 
 const STATUS_LABELS: Record<Experiment['status'], string> = {
@@ -10,12 +11,33 @@ const STATUS_LABELS: Record<Experiment['status'], string> = {
   'archived': '归档',
 }
 
+const STATUS_EMOJI: Record<Experiment['status'], string> = {
+  'idea': '💡',
+  'wip': '🔧',
+  'done': '✅',
+  'archived': '📦',
+}
+
 function LingShan() {
   const allExperiments = getExperiments()
   const [activeStatus, setActiveStatus] = useState<string | null>(null)
 
+  // 计算每个状态的数量
+  const statusCounts = useMemo(() => {
+    const counts: Record<string, number> = {}
+    allExperiments.forEach(e => {
+      counts[e.status] = (counts[e.status] || 0) + 1
+    })
+    return counts
+  }, [allExperiments])
+
   // 获取实际存在的状态
-  const existingStatuses = [...new Set(allExperiments.map(e => e.status))]
+  const options = Object.entries(statusCounts).map(([key, count]) => ({
+    key,
+    label: STATUS_LABELS[key as Experiment['status']] || key,
+    emoji: STATUS_EMOJI[key as Experiment['status']],
+    count,
+  }))
 
   const filtered = useMemo(() => {
     if (!activeStatus) return allExperiments
@@ -31,47 +53,40 @@ function LingShan() {
         <p className="intro-source">《山海经·海内西经》</p>
       </section>
 
-      <section className="filter-bar">
-        <button 
-          className={`filter-btn ${!activeStatus ? 'active' : ''}`}
-          onClick={() => setActiveStatus(null)}
-        >
-          全部
-        </button>
-        {existingStatuses.map(status => (
-          <button 
-            key={status}
-            className={`filter-btn ${activeStatus === status ? 'active' : ''}`}
-            onClick={() => setActiveStatus(status)}
-          >
-            {STATUS_LABELS[status as Experiment['status']] || status}
-          </button>
-        ))}
-      </section>
+      <SegmentControl
+        options={options}
+        value={activeStatus}
+        onChange={setActiveStatus}
+        allLabel="全部"
+      />
 
       <section className="project-grid">
-        {filtered.map((item, i) => (
-          <motion.article
-            key={item.id}
-            className="project-card"
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: i * 0.05 }}
-          >
-            <div className="project-header">
-              <span className={`project-status ${item.status}`}>
-                {STATUS_LABELS[item.status]}
-              </span>
-            </div>
-            <h3 className="project-title">{item.title}</h3>
-            <p className="project-desc">{item.description}</p>
-            <div className="project-tags">
-              {item.tags.map(tag => (
-                <span key={tag} className="project-tag">{tag}</span>
-              ))}
-            </div>
-          </motion.article>
-        ))}
+        <AnimatePresence mode="popLayout">
+          {filtered.map((item, i) => (
+            <motion.article
+              key={item.id}
+              layout
+              className="project-card"
+              initial={{ opacity: 0, y: 10 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, scale: 0.95 }}
+              transition={{ delay: i * 0.03, duration: 0.2 }}
+            >
+              <div className="project-header">
+                <span className={`project-status ${item.status}`}>
+                  {STATUS_EMOJI[item.status]} {STATUS_LABELS[item.status]}
+                </span>
+              </div>
+              <h3 className="project-title">{item.title}</h3>
+              <p className="project-desc">{item.description}</p>
+              <div className="project-tags">
+                {item.tags.map(tag => (
+                  <span key={tag} className="project-tag">{tag}</span>
+                ))}
+              </div>
+            </motion.article>
+          ))}
+        </AnimatePresence>
       </section>
 
       <footer className="page-footer">

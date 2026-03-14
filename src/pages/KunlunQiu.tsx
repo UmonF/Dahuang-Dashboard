@@ -1,7 +1,8 @@
-import { motion } from 'framer-motion'
+import { motion, AnimatePresence } from 'framer-motion'
 import { useState, useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import PageLayout from '../components/layout/PageLayout'
+import SegmentControl from '../components/ui/SegmentControl'
 import { getReadingNotes, type ReadingNote } from '../data'
 
 const CATEGORY_LABELS: Record<ReadingNote['category'], string> = {
@@ -17,8 +18,21 @@ function KunlunQiu() {
   const allNotes = getReadingNotes()
   const [activeCategory, setActiveCategory] = useState<string | null>(null)
 
+  // 计算每个分类的数量
+  const categoryCounts = useMemo(() => {
+    const counts: Record<string, number> = {}
+    allNotes.forEach(n => {
+      counts[n.category] = (counts[n.category] || 0) + 1
+    })
+    return counts
+  }, [allNotes])
+
   // 获取实际存在的分类
-  const existingCategories = [...new Set(allNotes.map(n => n.category))]
+  const options = Object.entries(categoryCounts).map(([key, count]) => ({
+    key,
+    label: CATEGORY_LABELS[key as ReadingNote['category']] || key,
+    count,
+  }))
 
   const filtered = useMemo(() => {
     if (!activeCategory) return allNotes
@@ -34,55 +48,48 @@ function KunlunQiu() {
         <p className="intro-source">《山海经·海内西经》</p>
       </section>
 
-      <section className="filter-bar">
-        <button 
-          className={`filter-btn ${!activeCategory ? 'active' : ''}`}
-          onClick={() => setActiveCategory(null)}
-        >
-          全部
-        </button>
-        {existingCategories.map(cat => (
-          <button 
-            key={cat}
-            className={`filter-btn ${activeCategory === cat ? 'active' : ''}`}
-            onClick={() => setActiveCategory(cat)}
-          >
-            {CATEGORY_LABELS[cat] || cat}
-          </button>
-        ))}
-      </section>
+      <SegmentControl
+        options={options}
+        value={activeCategory}
+        onChange={setActiveCategory}
+        allLabel="全部"
+      />
 
       <section className="entry-list">
-        {filtered.map((item, i) => (
-          <motion.div
-            key={item.id}
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: i * 0.05 }}
-          >
-            <Link
-              to={`/kunlun/${item.id}`}
-              className="entry-item entry-link"
+        <AnimatePresence mode="popLayout">
+          {filtered.map((item, i) => (
+            <motion.div
+              key={item.id}
+              layout
+              initial={{ opacity: 0, y: 10 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, scale: 0.95 }}
+              transition={{ delay: i * 0.03, duration: 0.2 }}
             >
-              <div className="entry-header">
-                <span className="entry-date">{item.date?.replace(/-/g, '.')}</span>
-                <span className="entry-category">
-                  {CATEGORY_LABELS[item.category] || item.category}
-                </span>
-                {item.author && <span className="entry-source">{item.author}</span>}
-              </div>
-              <h3 className="entry-title">{item.title}</h3>
-              {item.summary && (
-                <p className="entry-excerpt">{item.summary}</p>
-              )}
-              {item.highlights.length > 0 && (
-                <blockquote className="entry-quote">
-                  "{item.highlights[0]}"
-                </blockquote>
-              )}
-            </Link>
-          </motion.div>
-        ))}
+              <Link
+                to={`/kunlun/${item.id}`}
+                className="entry-item entry-link"
+              >
+                <div className="entry-header">
+                  <span className="entry-date">{item.date?.replace(/-/g, '.')}</span>
+                  <span className="entry-category">
+                    {CATEGORY_LABELS[item.category] || item.category}
+                  </span>
+                  {item.author && <span className="entry-source">{item.author}</span>}
+                </div>
+                <h3 className="entry-title">{item.title}</h3>
+                {item.summary && (
+                  <p className="entry-excerpt">{item.summary}</p>
+                )}
+                {item.highlights && item.highlights.length > 0 && (
+                  <blockquote className="entry-quote">
+                    "{item.highlights[0]}"
+                  </blockquote>
+                )}
+              </Link>
+            </motion.div>
+          ))}
+        </AnimatePresence>
       </section>
 
       <footer className="page-footer">
