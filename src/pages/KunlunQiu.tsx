@@ -79,22 +79,29 @@ function KunlunQiu() {
                 to={`/kunlun/${item.id}?from=${activeCategory}`}
                 className="entry-item entry-link"
               >
+                {/* 左侧元数据 */}
                 <div className="entry-header">
                   <span className="entry-date">{item.date?.replace(/-/g, '.')}</span>
                   <span className="entry-category">
                     {CATEGORY_LABELS[item.category] || item.category}
                   </span>
-                  {item.author && <span className="entry-source">{item.author}</span>}
                 </div>
-                <h3 className="entry-title">{item.title}</h3>
-                {item.summary && (
-                  <p className="entry-excerpt">{item.summary}</p>
-                )}
-                {item.highlights && item.highlights.length > 0 && (
-                  <blockquote className="entry-quote">
-                    "{item.highlights[0]}"
-                  </blockquote>
-                )}
+                
+                {/* 右侧内容 */}
+                <div>
+                  <h3 className="entry-title">{item.title}</h3>
+                  {item.author && (
+                    <span className="entry-source" style={{ display: 'block', marginBottom: '0.4rem' }}>{item.author}</span>
+                  )}
+                  {item.summary && (
+                    <p className="entry-excerpt">{item.summary}</p>
+                  )}
+                  {item.highlights && item.highlights.length > 0 && (
+                    <blockquote className="entry-quote">
+                      "{item.highlights[0]}"
+                    </blockquote>
+                  )}
+                </div>
               </Link>
             </motion.div>
           ))}

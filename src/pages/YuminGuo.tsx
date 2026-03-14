@@ -72,24 +72,31 @@ function YuminGuo() {
                 to={`/yumin/${item.id}?from=${activeTab}`}
                 className="entry-item entry-link"
               >
+                {/* 左侧元数据 */}
                 <div className="entry-header">
                   <span className="entry-date">{item.date?.replace(/-/g, '.')}</span>
                   <span className="entry-type">
                     {item.category === 'tech-ai' ? 'AI' : item.category === 'game-ux' ? 'UX' : 'Design'}
                   </span>
-                  {item.source && <span className="entry-source">{item.source}</span>}
                 </div>
-                <h3 className="entry-title">{item.title}</h3>
-                {item.summary && (
-                  <p className="entry-excerpt">{item.summary}</p>
-                )}
-                {item.tags && item.tags.length > 0 && (
-                  <div className="entry-tags">
-                    {item.tags.slice(0, 3).map(tag => (
-                      <span key={tag} className="entry-tag">{tag}</span>
-                    ))}
-                  </div>
-                )}
+                
+                {/* 右侧内容 */}
+                <div>
+                  <h3 className="entry-title">{item.title}</h3>
+                  {item.source && (
+                    <span className="entry-source" style={{ display: 'block', marginBottom: '0.4rem' }}>{item.source}</span>
+                  )}
+                  {item.summary && (
+                    <p className="entry-excerpt">{item.summary}</p>
+                  )}
+                  {item.tags && item.tags.length > 0 && (
+                    <div className="entry-tags">
+                      {item.tags.slice(0, 3).map(tag => (
+                        <span key={tag} className="entry-tag">{tag}</span>
+                      ))}
+                    </div>
+                  )}
+                </div>
               </Link>
             </motion.div>
           ))}
