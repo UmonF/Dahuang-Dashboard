@@ -716,3 +716,125 @@ body {
   .timeline-item { padding-left: 0; padding-bottom: 2rem; border-bottom: 1px solid var(--paper-dark); }
   .timeline-date { position: static; width: auto; text-align: left; display: flex; gap: 1rem; margin-bottom: 0.5rem; }
 }
+
+/* ============================================
+   Markdown 内容样式
+   ============================================ */
+
+.markdown-content {
+  line-height: 1.9;
+  font-size: 1rem;
+}
+
+.markdown-content h1 {
+  font-family: var(--font-title);
+  font-size: 1.8rem;
+  font-weight: 400;
+  margin: 2rem 0 1rem;
+  color: var(--ink);
+}
+
+.markdown-content h2 {
+  font-family: var(--font-title);
+  font-size: 1.4rem;
+  font-weight: 400;
+  margin: 2rem 0 1rem;
+  color: var(--ink);
+  border-bottom: 1px solid var(--paper-dark);
+  padding-bottom: 0.5rem;
+}
+
+.markdown-content h3 {
+  font-family: var(--font-title);
+  font-size: 1.15rem;
+  font-weight: 400;
+  margin: 1.5rem 0 0.8rem;
+  color: var(--ink);
+}
+
+.markdown-content p {
+  margin: 1rem 0;
+  color: var(--ink-light);
+}
+
+.markdown-content ul, 
+.markdown-content ol {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+.markdown-content li {
+  margin: 0.5rem 0;
+  color: var(--ink-light);
+}
+
+.markdown-content blockquote {
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem;
+  border-left: 3px solid var(--gold);
+  background: var(--paper-dark);
+  font-style: italic;
+  color: var(--ink-light);
+}
+
+.markdown-content blockquote p {
+  margin: 0;
+}
+
+.markdown-content a {
+  color: var(--vermilion);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--vermilion);
+  transition: opacity 0.2s;
+}
+
+.markdown-content a:hover {
+  opacity: 0.7;
+}
+
+.markdown-content code {
+  font-family: 'Menlo', 'Monaco', monospace;
+  font-size: 0.9em;
+  background: var(--paper-dark);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+}
+
+.markdown-content pre {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: #2d2d2d;
+  color: #f8f8f2;
+  border-radius: 6px;
+  overflow-x: auto;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.markdown-content pre code {
+  background: none;
+  padding: 0;
+  color: inherit;
+}
+
+.markdown-content hr {
+  border: none;
+  height: 1px;
+  background: var(--paper-dark);
+  margin: 2rem 0;
+}
+
+.markdown-content img {
+  max-width: 100%;
+  border-radius: 4px;
+  margin: 1rem 0;
+}
+
+.markdown-content strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.markdown-content em {
+  font-style: italic;
+}

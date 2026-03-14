@@ -1,6 +1,8 @@
 import { useParams, Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
+import ReactMarkdown from 'react-markdown'
 import { getReadingNotes, type ReadingNote } from '../data'
+import { getContentById } from '../data/content'
 
 const CATEGORY_LABELS: Record<ReadingNote['category'], string> = {
   'folklore': '民俗',
@@ -15,6 +17,7 @@ function NoteDetail() {
   const { id } = useParams<{ id: string }>()
   const allNotes = getReadingNotes()
   const item = allNotes.find(n => n.id === id)
+  const content = id ? getContentById(id) : null
 
   if (!item) {
     return (
@@ -72,27 +75,31 @@ function NoteDetail() {
             <h1 className="detail-title">{item.title}</h1>
           </header>
 
-          {item.summary && (
-            <div className="detail-body">
-              <p className="detail-content">{item.summary}</p>
-            </div>
-          )}
+          <div className="detail-body markdown-content">
+            {content?.content ? (
+              <ReactMarkdown>{content.content}</ReactMarkdown>
+            ) : (
+              <>
+                {item.summary && <p className="detail-content">{item.summary}</p>}
 
-          {item.highlights.length > 0 && (
-            <div className="detail-highlights">
-              <h3 className="detail-section-title">摘录</h3>
-              {item.highlights.map((h, i) => (
-                <blockquote key={i} className="entry-quote">{h}</blockquote>
-              ))}
-            </div>
-          )}
+                {item.highlights && item.highlights.length > 0 && (
+                  <div className="detail-highlights">
+                    <h3 className="detail-section-title">摘录</h3>
+                    {item.highlights.map((h, i) => (
+                      <blockquote key={i} className="entry-quote">{h}</blockquote>
+                    ))}
+                  </div>
+                )}
 
-          {item.thoughts && (
-            <div className="detail-thoughts">
-              <h3 className="detail-section-title">感想</h3>
-              <p className="detail-content">{item.thoughts}</p>
-            </div>
-          )}
+                {item.thoughts && (
+                  <div className="detail-thoughts">
+                    <h3 className="detail-section-title">感想</h3>
+                    <p className="detail-content">{item.thoughts}</p>
+                  </div>
+                )}
+              </>
+            )}
+          </div>
 
           {item.rating && (
             <div className="detail-rating">

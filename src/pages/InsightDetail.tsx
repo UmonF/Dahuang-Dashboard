@@ -1,11 +1,14 @@
 import { useParams, Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
+import ReactMarkdown from 'react-markdown'
 import { getInsights } from '../data'
+import { getContentById } from '../data/content'
 
 function InsightDetail() {
   const { id } = useParams<{ id: string }>()
   const allInsights = getInsights()
   const item = allInsights.find(i => i.id === id)
+  const content = id ? getContentById(id) : null
 
   if (!item) {
     return (
@@ -69,11 +72,15 @@ function InsightDetail() {
             <h1 className="detail-title">{item.title}</h1>
           </header>
 
-          <div className="detail-body">
-            <p className="detail-content">{item.summary}</p>
+          <div className="detail-body markdown-content">
+            {content?.content ? (
+              <ReactMarkdown>{content.content}</ReactMarkdown>
+            ) : (
+              <p className="detail-content">{item.summary}</p>
+            )}
           </div>
 
-          {item.tags.length > 0 && (
+          {item.tags && item.tags.length > 0 && (
             <div className="detail-tags">
               {item.tags.map(tag => (
                 <span key={tag} className="entry-tag">{tag}</span>

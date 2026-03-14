@@ -1,6 +1,8 @@
 import { useParams, Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
+import ReactMarkdown from 'react-markdown'
 import { getDiaryEntries, type DiaryEntry } from '../data'
+import { getContentById } from '../data/content'
 
 const MOOD_LABELS: Record<DiaryEntry['mood'], string> = {
   'sunny': '晴朗',
@@ -22,6 +24,7 @@ function DiaryDetail() {
   const { id } = useParams<{ id: string }>()
   const allEntries = getDiaryEntries()
   const item = allEntries.find(e => e.id === id)
+  const content = id ? getContentById(id) : null
 
   if (!item) {
     return (
@@ -79,11 +82,13 @@ function DiaryDetail() {
             <h1 className="detail-title">{item.title}</h1>
           </header>
 
-          {item.content && (
-            <div className="detail-body">
-              <p className="detail-content diary-content">{item.content}</p>
-            </div>
-          )}
+          <div className="detail-body markdown-content">
+            {content?.content ? (
+              <ReactMarkdown>{content.content}</ReactMarkdown>
+            ) : (
+              item.content && <p className="detail-content diary-content">{item.content}</p>
+            )}
+          </div>
 
           {item.tags && item.tags.length > 0 && (
             <div className="detail-tags">
