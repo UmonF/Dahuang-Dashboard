@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-14T10:02:26.130Z",
+  "updatedAt": "2026-03-14T10:25:02.863Z",
   "items": [
+    {
+      "id": "note-20260314-mmq6ixe7",
+      "title": "Why Do Humanoid Robots Still Struggle With the Small Stuff?",
+      "author": "John Pavlus (Quanta Magazine)",
+      "category": "science",
+      "summary": "人形机器人在大动作上进步巨大，但精细操作仍然困难。核心问题不是AI不够聪明，而是还没掌握力的物理学。",
+      "highlights": [
+        "To have robots which work like humans, I think we have to master physics.",
+        "Force as a first-class citizen is absolutely required.",
+        "We're in the Volta stage — using AI to make robots work before we understand how it works."
+      ],
+      "thoughts": "Position tells you WHERE to go. Force tells you HOW to touch. LLMs mastered the former; the latter remains unsolved.",
+      "rating": 5,
+      "date": "2026-03-14",
+      "createdAt": "2026-03-14T10:25:02.863Z"
+    },
     {
       "id": "note-20260314-mmq5puj6",
       "title": "论清代边疆治理",
