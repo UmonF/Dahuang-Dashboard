@@ -1,88 +1,81 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-14T09:50:01.429Z",
+  "updatedAt": "2026-03-14T09:52:54.944Z",
   "items": [
     {
-      "id": "note-20260314-mmq59vwv",
-      "title": "Nth Country Experiment: 三个学生如何设计出原子弹",
-      "author": "Jake Currie (Nautilus)",
-      "category": "other",
-      "summary": "1964年五角大楼的绝密实验：三个不懂核物理的博士后从零设计原子弹，三年后成功。证明核扩散的真正壁垒不是知识，而是材料。",
-      "highlights": [
-        "The big advantage we had over Fermi and Teller was that we knew it could work.",
-        "If it had been constructed, it would have made a pretty impressive bang — on the same order of magnitude as Hiroshima."
-      ],
-      "thoughts": "知识民主化是双刃剑。Atoms for Peace 的信息公开帮助了和平核能，也帮助了这三个学生。",
-      "rating": 5,
-      "date": "2026-03-14",
-      "createdAt": "2026-03-14T09:50:01.423Z"
-    },
-    {
-      "id": "322f9ada",
+      "id": "322f9ada-2dc9-8111-b4c2-dc1cbe73f24f",
       "title": "龙抬头为何在二月二 | 节日是被建构的",
       "author": "北大文研讲座 276｜辛德勇",
-      "category": "folklore",
+      "category": "other",
       "summary": "",
       "highlights": [],
+      "thoughts": "",
       "date": "2026-03-13",
       "createdAt": "2026-03-13T00:00:00.000Z"
     },
     {
-      "id": "322f9ada",
+      "id": "322f9ada-2dc9-81fe-bfaf-e5f433c2f9c7",
       "title": "The Lonely Runner Problem | 简单猜��的深层等价",
       "author": "Quanta Magazine",
-      "category": "science",
+      "category": "other",
       "summary": "",
       "highlights": [],
+      "thoughts": "",
       "date": "2026-03-13",
       "createdAt": "2026-03-13T00:00:00.000Z"
     },
     {
-      "id": "321f9ada",
+      "id": "321f9ada-2dc9-817c-88fe-e02eea36426d",
       "title": "时间的胜利：渐近安全 × 韩凭夫妇",
       "author": "Quanta Magazine / 干宝《搜神记》卷十一",
-      "category": "science",
+      "category": "other",
       "summary": "",
       "highlights": [],
+      "thoughts": "",
       "date": "2026-03-12",
       "createdAt": "2026-03-12T00:00:00.000Z"
     },
     {
-      "id": "320f9ada",
+      "id": "320f9ada-2dc9-81d0-ae4c-c2137adc9a3a",
       "title": "比太阳更古老的晶体 + 二月二龙抬头的误会",
+      "author": "",
       "category": "other",
       "summary": "",
       "highlights": [],
+      "thoughts": "",
       "date": "2026-03-11",
       "createdAt": "2026-03-11T00:00:00.000Z"
     },
     {
-      "id": "31ff9ada",
+      "id": "31ff9ada-2dc9-8176-b161-dd71d3492175",
       "title": "混乱与秩序 / 人比鬼更可怕",
       "author": "Quanta Magazine / 干宝《搜神记》卷十六",
-      "category": "science",
+      "category": "other",
       "summary": "",
       "highlights": [],
+      "thoughts": "",
       "date": "2026-03-10",
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": "31ef9ada",
+      "id": "31ef9ada-2dc9-81c4-b51b-dc73116a8c46",
       "title": "《搜神记·三王墓》：复仇的结构",
       "author": "干宝《搜神记》卷十一",
-      "category": "zhiguai",
+      "category": "other",
       "summary": "",
       "highlights": [],
+      "thoughts": "",
       "date": "2026-03-09",
       "createdAt": "2026-03-09T00:00:00.000Z"
     },
     {
-      "id": "31ef9ada",
+      "id": "31ef9ada-2dc9-81fa-833e-fb1e7c8eba1a",
       "title": "量子力学一百年：我们仍然不知道现实是什么",
       "author": "Quanta Magazine",
-      "category": "science",
+      "category": "other",
       "summary": "",
       "highlights": [],
+      "thoughts": "",
       "date": "2026-03-09",
       "createdAt": "2026-03-09T00:00:00.000Z"
     }

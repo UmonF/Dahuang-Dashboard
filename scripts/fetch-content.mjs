@@ -203,6 +203,25 @@ async function fetchAllContent() {
     }
   }
   
+  // 处理 Design Cases
+  console.log('Fetching Design Cases content...');
+  for (const item of notionData.designCases || []) {
+    try {
+      console.log(`  - ${item.title.substring(0, 30)}...`);
+      const blocks = await getPageBlocks(item.id);
+      const content = blocksToMarkdown(blocks);
+      allContent[item.id] = {
+        id: item.id,
+        title: item.title,
+        content: content,
+        fetchedAt: new Date().toISOString(),
+      };
+      await new Promise(r => setTimeout(r, 350));
+    } catch (e) {
+      console.error(`  ✗ Failed: ${item.id}`, e.message);
+    }
+  }
+  
   // 处理 Diary
   console.log('Fetching Diary content...');
   for (const item of notionData.diary || []) {
