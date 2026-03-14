@@ -77,8 +77,15 @@ function createAgentPath(agentId: 'baize' | 'goumang' | 'yinglong') {
 }
 
 export function useAllAgentPaths(
-  agents: Array<{ id: 'baize' | 'goumang' | 'yinglong'; state: AgentState }>
+  agents: Array<{ id: 'baize' | 'goumang' | 'yinglong'; state: AgentState }> | null | undefined
 ): Record<'baize' | 'goumang' | 'yinglong', PathResult> {
+  
+  // 防御性处理空数组
+  const safeAgents = agents && agents.length > 0 ? agents : [
+    { id: 'baize' as const, state: 'idle' as AgentState },
+    { id: 'goumang' as const, state: 'idle' as AgentState },
+    { id: 'yinglong' as const, state: 'idle' as AgentState },
+  ]
   
   const [paths, setPaths] = useState<Record<'baize' | 'goumang' | 'yinglong', PathState>>(() => ({
     baize: createAgentPath('baize'),
@@ -90,10 +97,11 @@ export function useAllAgentPaths(
   
   // 更新 agent 状态引用
   useEffect(() => {
-    agents.forEach(a => {
+    if (!safeAgents) return
+    safeAgents.forEach(a => {
       agentStates.current[a.id] = a.state
     })
-  }, [agents])
+  }, [safeAgents])
 
   // 移动到下一个目标
   const moveToNext = useCallback((agentId: 'baize' | 'goumang' | 'yinglong') => {
@@ -199,7 +207,8 @@ export function useAllAgentPaths(
 
   // 状态变化时回到特定位置
   useEffect(() => {
-    for (const agent of agents) {
+    if (!safeAgents) return
+    for (const agent of safeAgents) {
       if (agent.state === 'thinking') {
         const behavior = AGENT_BEHAVIOR[agent.id]
         const spot = LOCATIONS[behavior.thinkingSpot]
@@ -214,7 +223,7 @@ export function useAllAgentPaths(
         }))
       }
     }
-  }, [agents])
+  }, [safeAgents])
 
   return {
     baize: {

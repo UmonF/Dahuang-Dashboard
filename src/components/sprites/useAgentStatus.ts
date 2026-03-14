@@ -74,6 +74,13 @@ export function useAgentStatus(): AgentStatus[] {
   return statuses
 }
 
+// 默认状态 - 确保始终有值
+const DEFAULT_STATUSES: AgentStatus[] = [
+  { id: 'baize', state: 'idle' },
+  { id: 'goumang', state: 'idle' },
+  { id: 'yinglong', state: 'idle' },
+]
+
 // 开发模式：模拟状态
 export function useAgentStatusMock(): AgentStatus[] {
   const [statuses, setStatuses] = useState<AgentStatus[]>([
@@ -87,17 +94,23 @@ export function useAgentStatusMock(): AgentStatus[] {
     const states: AgentState[] = ['active', 'idle', 'thinking']
     
     const interval = setInterval(() => {
-      setStatuses(prev => prev.map(agent => ({
-        ...agent,
-        state: Math.random() > 0.7 
-          ? states[Math.floor(Math.random() * states.length)]
-          : agent.state,
-        lastSeen: Date.now(),
-      })))
+      setStatuses(prev => {
+        // 防御性检查
+        if (!prev || prev.length === 0) return DEFAULT_STATUSES
+        
+        return prev.map(agent => ({
+          ...agent,
+          state: Math.random() > 0.7 
+            ? states[Math.floor(Math.random() * states.length)]
+            : agent.state,
+          lastSeen: Date.now(),
+        }))
+      })
     }, 5000)
 
     return () => clearInterval(interval)
   }, [])
 
-  return statuses
+  // 确保返回有效数组
+  return statuses && statuses.length > 0 ? statuses : DEFAULT_STATUSES
 }
