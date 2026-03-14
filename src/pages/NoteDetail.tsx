@@ -8,6 +8,7 @@ const CATEGORY_LABELS: Record<ReadingNote['category'], string> = {
   'folklore': '民俗',
   'science': '科学',
   'zhiguai': '志怪',
+  'history': '历史',
   'design': '设计',
   'tech': '技术',
   'other': '其他',

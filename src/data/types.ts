@@ -16,7 +16,7 @@ export interface ReadingNote {
   id: string
   title: string
   author?: string
-  category: 'folklore' | 'science' | 'zhiguai' | 'design' | 'tech' | 'other'
+  category: 'folklore' | 'science' | 'zhiguai' | 'history' | 'design' | 'tech' | 'other'
   summary: string
   highlights: string[]
   thoughts?: string
