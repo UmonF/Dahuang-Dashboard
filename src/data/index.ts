@@ -12,37 +12,46 @@ export const readingNotes = notesData as DataFile<ReadingNote>
 export const diaryEntries = diaryData as DataFile<DiaryEntry>
 export const experiments = experimentsData as DataFile<Experiment>
 
-// 便捷获取函数
+// 按日期排序（最新在前）
+function sortByDateDesc<T extends { date?: string; createdAt?: string }>(items: T[]): T[] {
+  return [...items].sort((a, b) => {
+    const dateA = a.date || a.createdAt || ''
+    const dateB = b.date || b.createdAt || ''
+    return dateB.localeCompare(dateA)
+  })
+}
+
+// 便捷获取函数（默认按日期最新排序）
 export function getInsights(): Insight[] {
-  return insights.items
+  return sortByDateDesc(insights.items)
 }
 
 export function getInsightsByCategory(category: Insight['category']): Insight[] {
-  return insights.items.filter(item => item.category === category)
+  return sortByDateDesc(insights.items.filter(item => item.category === category))
 }
 
 export function getReadingNotes(): ReadingNote[] {
-  return readingNotes.items
+  return sortByDateDesc(readingNotes.items)
 }
 
 export function getNotesByCategory(category: ReadingNote['category']): ReadingNote[] {
-  return readingNotes.items.filter(item => item.category === category)
+  return sortByDateDesc(readingNotes.items.filter(item => item.category === category))
 }
 
 export function getDiaryEntries(): DiaryEntry[] {
-  return diaryEntries.items
+  return sortByDateDesc(diaryEntries.items)
 }
 
 export function getDiaryByMood(mood: DiaryEntry['mood']): DiaryEntry[] {
-  return diaryEntries.items.filter(item => item.mood === mood)
+  return sortByDateDesc(diaryEntries.items.filter(item => item.mood === mood))
 }
 
 export function getExperiments(): Experiment[] {
-  return experiments.items
+  return sortByDateDesc(experiments.items)
 }
 
 export function getExperimentsByStatus(status: Experiment['status']): Experiment[] {
-  return experiments.items.filter(item => item.status === status)
+  return sortByDateDesc(experiments.items.filter(item => item.status === status))
 }
 
 // 重新导出类型
