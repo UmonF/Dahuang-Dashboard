@@ -30,7 +30,8 @@ export interface DiaryEntry {
   date: string
   mood: 'sunny' | 'cloudy' | 'rainy' | 'stormy' | 'rainbow'
   title?: string
-  content: string
+  content?: string
+  summary?: string
   tags?: string[]
   weather?: string
   createdAt: string
