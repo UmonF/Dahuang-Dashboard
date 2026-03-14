@@ -1,5 +1,6 @@
 import { motion, AnimatePresence } from 'framer-motion'
-import { useState, useMemo } from 'react'
+import { useMemo } from 'react'
+import { useSearchParams } from 'react-router-dom'
 import PageLayout from '../components/layout/PageLayout'
 import SegmentControl from '../components/ui/SegmentControl'
 import { getExperiments, type Experiment } from '../data'
@@ -20,7 +21,9 @@ const STATUS_EMOJI: Record<Experiment['status'], string> = {
 
 function LingShan() {
   const allExperiments = getExperiments()
-  const [activeStatus, setActiveStatus] = useState<string | null>(null)
+  const [searchParams, setSearchParams] = useSearchParams()
+  
+  const activeStatus = searchParams.get('tab') || 'all'
 
   // 计算每个状态的数量
   const statusCounts = useMemo(() => {
@@ -40,9 +43,14 @@ function LingShan() {
   }))
 
   const filtered = useMemo(() => {
-    if (!activeStatus) return allExperiments
+    if (activeStatus === 'all') return allExperiments
     return allExperiments.filter(e => e.status === activeStatus)
   }, [allExperiments, activeStatus])
+
+  const handleTabChange = (key: string | null) => {
+    const newTab = key || 'all'
+    setSearchParams({ tab: newTab }, { replace: true })
+  }
 
   return (
     <PageLayout title="灵山" subtitle="百工之所" stamp="靈">
@@ -55,8 +63,8 @@ function LingShan() {
 
       <SegmentControl
         options={options}
-        value={activeStatus}
-        onChange={setActiveStatus}
+        value={activeStatus === 'all' ? null : activeStatus}
+        onChange={handleTabChange}
         allLabel="全部"
       />
 

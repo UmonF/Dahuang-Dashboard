@@ -1,4 +1,4 @@
-import { useParams, Link } from 'react-router-dom'
+import { useParams, Link, useSearchParams } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import ReactMarkdown from 'react-markdown'
 import { getReadingNotes, type ReadingNote } from '../data'
@@ -15,15 +15,20 @@ const CATEGORY_LABELS: Record<ReadingNote['category'], string> = {
 
 function NoteDetail() {
   const { id } = useParams<{ id: string }>()
+  const [searchParams] = useSearchParams()
+  const fromTab = searchParams.get('from') || 'all'
+  
   const allNotes = getReadingNotes()
   const item = allNotes.find(n => n.id === id)
   const content = id ? getContentById(id) : null
+
+  const backLink = `/kunlun?tab=${fromTab}`
 
   if (!item) {
     return (
       <div className="sub-page">
         <header className="sub-header">
-          <Link to="/kunlun" className="back-link">
+          <Link to={backLink} className="back-link">
             <span className="back-arrow">←</span>
             返回昆仑丘
           </Link>
@@ -50,7 +55,7 @@ function NoteDetail() {
       exit={{ opacity: 0 }}
     >
       <header className="sub-header">
-        <Link to="/kunlun" className="back-link">
+        <Link to={backLink} className="back-link">
           <span className="back-arrow">←</span>
           返回昆仑丘
         </Link>

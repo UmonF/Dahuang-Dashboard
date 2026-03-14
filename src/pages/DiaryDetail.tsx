@@ -1,4 +1,4 @@
-import { useParams, Link } from 'react-router-dom'
+import { useParams, Link, useSearchParams } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import ReactMarkdown from 'react-markdown'
 import { getDiaryEntries, type DiaryEntry } from '../data'
@@ -22,15 +22,20 @@ const MOOD_EMOJI: Record<DiaryEntry['mood'], string> = {
 
 function DiaryDetail() {
   const { id } = useParams<{ id: string }>()
+  const [searchParams] = useSearchParams()
+  const fromTab = searchParams.get('from') || 'all'
+  
   const allEntries = getDiaryEntries()
   const item = allEntries.find(e => e.id === id)
   const content = id ? getContentById(id) : null
+
+  const backLink = `/tanggu?tab=${fromTab}`
 
   if (!item) {
     return (
       <div className="sub-page">
         <header className="sub-header">
-          <Link to="/tanggu" className="back-link">
+          <Link to={backLink} className="back-link">
             <span className="back-arrow">←</span>
             返回汤谷
           </Link>
@@ -57,7 +62,7 @@ function DiaryDetail() {
       exit={{ opacity: 0 }}
     >
       <header className="sub-header">
-        <Link to="/tanggu" className="back-link">
+        <Link to={backLink} className="back-link">
           <span className="back-arrow">←</span>
           返回汤谷
         </Link>

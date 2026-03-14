@@ -1,6 +1,6 @@
 import { motion, AnimatePresence } from 'framer-motion'
-import { useState, useMemo } from 'react'
-import { Link } from 'react-router-dom'
+import { useMemo } from 'react'
+import { Link, useSearchParams } from 'react-router-dom'
 import PageLayout from '../components/layout/PageLayout'
 import SegmentControl from '../components/ui/SegmentControl'
 import { getReadingNotes, type ReadingNote } from '../data'
@@ -16,7 +16,10 @@ const CATEGORY_LABELS: Record<ReadingNote['category'], string> = {
 
 function KunlunQiu() {
   const allNotes = getReadingNotes()
-  const [activeCategory, setActiveCategory] = useState<string | null>(null)
+  const [searchParams, setSearchParams] = useSearchParams()
+  
+  // 从 URL 读取 tab，默认显示全部
+  const activeCategory = searchParams.get('tab') || 'all'
 
   // 计算每个分类的数量
   const categoryCounts = useMemo(() => {
@@ -35,9 +38,14 @@ function KunlunQiu() {
   }))
 
   const filtered = useMemo(() => {
-    if (!activeCategory) return allNotes
+    if (activeCategory === 'all') return allNotes
     return allNotes.filter(n => n.category === activeCategory)
   }, [allNotes, activeCategory])
+
+  const handleTabChange = (key: string | null) => {
+    const newTab = key || 'all'
+    setSearchParams({ tab: newTab }, { replace: true })
+  }
 
   return (
     <PageLayout title="昆仑丘" subtitle="百川之源" stamp="崑">
@@ -50,8 +58,8 @@ function KunlunQiu() {
 
       <SegmentControl
         options={options}
-        value={activeCategory}
-        onChange={setActiveCategory}
+        value={activeCategory === 'all' ? null : activeCategory}
+        onChange={handleTabChange}
         allLabel="全部"
       />
 
@@ -67,7 +75,7 @@ function KunlunQiu() {
               transition={{ delay: i * 0.03, duration: 0.2 }}
             >
               <Link
-                to={`/kunlun/${item.id}`}
+                to={`/kunlun/${item.id}?from=${activeCategory}`}
                 className="entry-item entry-link"
               >
                 <div className="entry-header">

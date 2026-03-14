@@ -1,6 +1,6 @@
 import { motion, AnimatePresence } from 'framer-motion'
-import { useState, useMemo } from 'react'
-import { Link } from 'react-router-dom'
+import { useMemo } from 'react'
+import { Link, useSearchParams } from 'react-router-dom'
 import PageLayout from '../components/layout/PageLayout'
 import SegmentControl from '../components/ui/SegmentControl'
 import { getDiaryEntries, type DiaryEntry } from '../data'
@@ -23,7 +23,9 @@ const MOOD_EMOJI: Record<DiaryEntry['mood'], string> = {
 
 function TangGu() {
   const allEntries = getDiaryEntries()
-  const [activeMood, setActiveMood] = useState<string | null>(null)
+  const [searchParams, setSearchParams] = useSearchParams()
+  
+  const activeMood = searchParams.get('tab') || 'all'
 
   // 计算每个心情的数量
   const moodCounts = useMemo(() => {
@@ -43,9 +45,14 @@ function TangGu() {
   }))
 
   const filtered = useMemo(() => {
-    if (!activeMood) return allEntries
+    if (activeMood === 'all') return allEntries
     return allEntries.filter(e => e.mood === activeMood)
   }, [allEntries, activeMood])
+
+  const handleTabChange = (key: string | null) => {
+    const newTab = key || 'all'
+    setSearchParams({ tab: newTab }, { replace: true })
+  }
 
   return (
     <PageLayout title="汤谷" subtitle="日出之所" stamp="暘">
@@ -58,8 +65,8 @@ function TangGu() {
 
       <SegmentControl
         options={options}
-        value={activeMood}
-        onChange={setActiveMood}
+        value={activeMood === 'all' ? null : activeMood}
+        onChange={handleTabChange}
         allLabel="全部"
       />
 
@@ -81,7 +88,7 @@ function TangGu() {
                   {MOOD_EMOJI[item.mood]} {MOOD_LABELS[item.mood] || item.mood}
                 </span>
               </div>
-              <Link to={`/tanggu/${item.id}`} className="timeline-content">
+              <Link to={`/tanggu/${item.id}?from=${activeMood}`} className="timeline-content">
                 <h3 className="timeline-title">{item.title}</h3>
                 {item.content && (
                   <p className="timeline-text">{item.content}</p>

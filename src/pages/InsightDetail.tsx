@@ -1,4 +1,4 @@
-import { useParams, Link } from 'react-router-dom'
+import { useParams, Link, useSearchParams } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import ReactMarkdown from 'react-markdown'
 import { getInsights } from '../data'
@@ -6,15 +6,21 @@ import { getContentById } from '../data/content'
 
 function InsightDetail() {
   const { id } = useParams<{ id: string }>()
+  const [searchParams] = useSearchParams()
+  const fromTab = searchParams.get('from') || 'game-ux'
+  
   const allInsights = getInsights()
   const item = allInsights.find(i => i.id === id)
   const content = id ? getContentById(id) : null
+
+  // 返回链接带上 tab 参数
+  const backLink = `/yumin?tab=${fromTab}`
 
   if (!item) {
     return (
       <div className="sub-page">
         <header className="sub-header">
-          <Link to="/yumin" className="back-link">
+          <Link to={backLink} className="back-link">
             <span className="back-arrow">←</span>
             返回羽民国
           </Link>
@@ -50,7 +56,7 @@ function InsightDetail() {
       exit={{ opacity: 0 }}
     >
       <header className="sub-header">
-        <Link to="/yumin" className="back-link">
+        <Link to={backLink} className="back-link">
           <span className="back-arrow">←</span>
           返回羽民国
         </Link>
