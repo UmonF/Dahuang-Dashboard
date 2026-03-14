@@ -3,19 +3,20 @@
  * 供白泽 cron 任务使用
  * 
  * 用法:
- *   node scripts/add-data.js <type> <json-data>
+ *   node scripts/add-data.cjs <type> <json-data>
  * 
  * 示例:
- *   node scripts/add-data.js insight '{"title":"...", "summary":"...", ...}'
- *   node scripts/add-data.js note '{"title":"...", "category":"...", ...}'
- *   node scripts/add-data.js diary '{"mood":"sunny", "content":"...", ...}'
- *   node scripts/add-data.js experiment '{"title":"...", "status":"wip", ...}'
+ *   node scripts/add-data.cjs insight '{"title":"...", "summary":"...", "content":"markdown内容", ...}'
+ *   node scripts/add-data.cjs note '{"title":"...", "category":"...", "content":"...", ...}'
+ *   node scripts/add-data.cjs diary '{"mood":"sunny", "content":"...", ...}'
+ *   node scripts/add-data.cjs experiment '{"title":"...", "status":"wip", ...}'
  */
 
 const fs = require('fs');
 const path = require('path');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
+const CONTENT_FILE = path.join(DATA_DIR, 'content', 'all-content.json');
 
 const DATA_FILES = {
   insight: 'feeds/insights.json',
@@ -62,7 +63,44 @@ function writeDataFile(type, data) {
   const filePath = path.join(DATA_DIR, DATA_FILES[type]);
   data.updatedAt = new Date().toISOString();
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
-  console.log(`✅ Written to ${filePath}`);
+  console.log(`✅ Metadata written to ${filePath}`);
+}
+
+// 读取内容文件
+function readContentFile() {
+  if (!fs.existsSync(CONTENT_FILE)) {
+    // 确保目录存在
+    const dir = path.dirname(CONTENT_FILE);
+    if (!fs.existsSync(dir)) {
+      fs.mkdirSync(dir, { recursive: true });
+    }
+    return {};
+  }
+  return JSON.parse(fs.readFileSync(CONTENT_FILE, 'utf8'));
+}
+
+// 写入内容文件
+function writeContentFile(contents) {
+  const dir = path.dirname(CONTENT_FILE);
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
+  fs.writeFileSync(CONTENT_FILE, JSON.stringify(contents, null, 2), 'utf8');
+  console.log(`✅ Content written to ${CONTENT_FILE}`);
+}
+
+// 添加内容到内容文件
+function addContent(id, title, markdownContent) {
+  if (!markdownContent) return;
+  
+  const contents = readContentFile();
+  contents[id] = {
+    id,
+    title,
+    content: markdownContent,
+    fetchedAt: new Date().toISOString(),
+  };
+  writeContentFile(contents);
 }
 
 // 添加数据项
@@ -70,18 +108,23 @@ function addItem(type, itemData) {
   const data = readDataFile(type);
   const today = getToday();
   
+  // 分离 content 字段（用于详情页）和元数据
+  const { content: markdownContent, ...metadata } = itemData;
+  
   // 补充默认字段
   const item = {
-    id: itemData.id || generateId(type, today),
-    ...itemData,
-    date: itemData.date || today,
-    createdAt: itemData.createdAt || new Date().toISOString(),
+    id: metadata.id || generateId(type, today),
+    ...metadata,
+    date: metadata.date || today,
+    createdAt: metadata.createdAt || new Date().toISOString(),
   };
   
   // 日记特殊处理：同一天只能有一条，更新而不是添加
   if (type === 'diary') {
     const existingIndex = data.items.findIndex(i => i.date === item.date);
     if (existingIndex >= 0) {
+      // 保留原 ID
+      item.id = data.items[existingIndex].id;
       data.items[existingIndex] = { ...data.items[existingIndex], ...item };
       console.log(`📝 Updated diary for ${item.date}`);
     } else {
@@ -95,7 +138,27 @@ function addItem(type, itemData) {
   }
   
   writeDataFile(type, data);
+  
+  // 如果有完整内容，写入内容文件
+  if (markdownContent) {
+    addContent(item.id, item.title, markdownContent);
+  }
+  
   return item;
+}
+
+// 更新内容（单独更新详情内容，不改变元数据）
+function updateContent(id, markdownContent) {
+  const contents = readContentFile();
+  if (contents[id]) {
+    contents[id].content = markdownContent;
+    contents[id].fetchedAt = new Date().toISOString();
+    writeContentFile(contents);
+    console.log(`📝 Updated content for ${id}`);
+    return true;
+  }
+  console.error(`❌ Content not found: ${id}`);
+  return false;
 }
 
 // 列出数据
@@ -118,6 +181,14 @@ if (command === 'list') {
     process.exit(1);
   }
   listItems(type, parseInt(args[2]) || 5);
+} else if (command === 'update-content') {
+  const id = args[1];
+  const content = args[2];
+  if (!id || !content) {
+    console.error('❌ Usage: update-content <id> <markdown-content>');
+    process.exit(1);
+  }
+  updateContent(id, content);
 } else if (command === 'add' || DATA_FILES[command]) {
   // 支持 'add insight {...}' 或 'insight {...}'
   const type = command === 'add' ? args[1] : command;
@@ -145,8 +216,9 @@ if (command === 'list') {
 大荒 Dashboard 数据写入工具
 
 用法:
-  node scripts/add-data.js <type> '<json>'     添加数据
-  node scripts/add-data.js list <type> [n]     列出数据
+  node scripts/add-data.cjs <type> '<json>'           添加数据（含内容）
+  node scripts/add-data.cjs update-content <id> '<md>' 更新详情内容
+  node scripts/add-data.cjs list <type> [n]           列出数据
 
 类型:
   insight     资讯 (羽民国)
@@ -155,10 +227,15 @@ if (command === 'list') {
   experiment  实验项目 (灵山)
 
 示例:
-  node scripts/add-data.js insight '{"title":"AI News","summary":"...","category":"tech-ai","source":"Twitter","tags":["AI"]}'
-  node scripts/add-data.js diary '{"mood":"sunny","title":"Good day","content":"..."}'
-  node scripts/add-data.js list insight 10
+  # 添加资讯（含完整 Markdown 内容）
+  node scripts/add-data.cjs insight '{"title":"AI News","summary":"摘要","content":"## 完整内容\\n\\n正文...","category":"tech-ai","source":"Twitter","tags":["AI"]}'
+  
+  # 添加日记
+  node scripts/add-data.cjs diary '{"mood":"sunny","title":"Good day","content":"今天发生了..."}'
+  
+  # 列出资讯
+  node scripts/add-data.cjs list insight 10
 `);
 }
 
-module.exports = { addItem, readDataFile, writeDataFile, listItems };
+module.exports = { addItem, updateContent, readDataFile, writeDataFile, listItems, addContent };
