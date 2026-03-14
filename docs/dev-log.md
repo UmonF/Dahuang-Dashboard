@@ -150,6 +150,7 @@ git show <commit>:data/reading/notes.json
 | `tech-ai-tracking.md` | insight (tech-ai) | `/yumin?tab=tech-ai` |
 | `daily-reading.md` | note | `/kunlun` |
 | `design-study.md` | insight (design) | `/yumin?tab=design` |
+| `daily-diary.md` | diary | `/tanggu` |
 
 所有 workflow 已更新为 `addItem()` + git push，不再用 Notion。
 
@@ -159,9 +160,9 @@ git show <commit>:data/reading/notes.json
 
 ### 高优先级
 
-- [ ] 解决 git push 凭证问题（或配置 SSH）
+- [x] ~~解决 git push 凭证问题~~ (SSH Deploy Key configured)
 - [ ] 确认白泽新流程运行正常
-- [ ] 日记数据迁移检查（可能也有 ID 问题）
+- [x] ~~日记数据迁移检查~~ (IDs fixed, mood mapping updated)
 
 ### 功能
 
@@ -172,7 +173,7 @@ git show <commit>:data/reading/notes.json
 
 ### 数据
 
-- [ ] 给读书笔记补充正确的 category（当前都是 `other`）
+- [x] ~~给读书笔记补充正确的 category~~ (science/history/folklore/zhiguai added)
 - [ ] 清理 Notion 依赖（fetch-content.mjs 只用于一次性迁移）
 
 ---

@@ -76,7 +76,7 @@ addItem('note', {
 
 ```javascript
 addItem('diary', {
-  mood: 'sunny',               // sunny/cloudy/rainy/stormy/rainbow
+  mood: 'reflective',          // calm/reflective/curious/productive/accomplished/anxious/tired
   title: '标题',
   content: `今天发生了很多事...
 
@@ -89,9 +89,19 @@ addItem('diary', {
 ...
 `,
   tags: ['标签1', '标签2'],
-  weather: '晴',
 });
 ```
+
+**Mood 映射**:
+| Mood | Emoji | Use when |
+|------|-------|----------|
+| calm | 😌 | Peaceful, content |
+| reflective | 💭 | Thinking deeply |
+| curious | 🤔 | Exploring, questioning |
+| productive | ⚡ | High output day |
+| accomplished | ✨ | Milestone reached |
+| anxious | 😰 | Worried, stressed |
+| tired | 😴 | Exhausted |
 
 ### 添加实验项目 (灵山)
 
