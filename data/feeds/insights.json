@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-14T09:31:30.559Z",
+  "updatedAt": "2026-03-15T00:01:34.544Z",
   "items": [
+    {
+      "id": "insight-20260315-mmqzozm7",
+      "title": "AI Infrastructure Backlash",
+      "summary": "Data centers face bipartisan opposition as OpenAI-Oracle Stargate deal fractures, and AI agents emerge as new security attack surface.",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Industry News",
+        "AI Infrastructure",
+        "Security"
+      ],
+      "date": "2026-03-15",
+      "createdAt": "2026-03-15T00:01:34.543Z"
+    },
     {
       "id": "323f9ada-2dc9-81d2-b247-e4d75bbbd3cc",
       "title": "AI 的两条路：硬件巨头入场与编码代理的代价",
