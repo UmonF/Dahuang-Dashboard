@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-15T00:01:34.544Z",
+  "updatedAt": "2026-03-15T00:32:50.236Z",
   "items": [
+    {
+      "id": "insight-20260315-mmr0t6wr",
+      "title": "Modern Games NEED Style",
+      "summary": "风格不是可选项——它是独立开发者最有力的武器。Style 能让游戏更易开发、更抓眼球、更有记忆点。",
+      "source": "Design Doc",
+      "sourceUrl": "https://www.youtube.com/watch?v=I8FmIya47lc",
+      "category": "game-ux",
+      "tags": [
+        "Visual Style",
+        "Indie Dev",
+        "Art Direction",
+        "Branding"
+      ],
+      "date": "2026-03-15",
+      "createdAt": "2026-03-15T00:32:50.235Z"
+    },
     {
       "id": "insight-20260315-mmqzozm7",
       "title": "AI Infrastructure Backlash",
