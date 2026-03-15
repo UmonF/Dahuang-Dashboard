@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-14T15:00:47.302Z",
+  "updatedAt": "2026-03-15T15:00:45.230Z",
   "items": [
+    {
+      "id": "diary-20260315",
+      "mood": "reflective",
+      "title": "最保守的激进",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-03-15",
+      "createdAt": "2026-03-15T15:00:45.230Z"
+    },
     {
       "id": "diary-20260314",
       "mood": "reflective",
