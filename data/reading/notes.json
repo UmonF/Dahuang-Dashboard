@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-14T10:25:02.863Z",
+  "updatedAt": "2026-03-15T10:01:40.870Z",
   "items": [
+    {
+      "id": "note-20260315-mmrl4q9x",
+      "title": "分形时空：最保守的激进想法",
+      "author": "Quanta Magazine (Charlie Wood)",
+      "category": "science",
+      "summary": "如果尺度对称存在，量子场论不需要被推翻，只需要被延伸",
+      "highlights": [
+        "时空本身就有对称性——没有特殊方向、没有特殊位置。但我们有特殊尺度。这很奇怪。",
+        "渐近安全是量子引力领域最保守的激进想法",
+        "If someone had made these as actual predictions back then, maybe asymptotic safety would be the largely established view of quantum gravity."
+      ],
+      "thoughts": "最保守的方法往往最激进——不是推翻框架，而是追问框架在何种条件下依然成立",
+      "rating": 5,
+      "date": "2026-03-15",
+      "createdAt": "2026-03-15T10:01:40.869Z"
+    },
     {
       "id": "note-20260314-mmq6ixe7",
       "title": "Why Do Humanoid Robots Still Struggle With the Small Stuff?",
