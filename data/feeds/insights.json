@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-16T00:32:16.722Z",
+  "updatedAt": "2026-03-16T10:33:02.079Z",
   "items": [
+    {
+      "id": "insight-20260316-mmt1owhr",
+      "title": "Planetoño — 当快餐遇上银河系",
+      "summary": "一个虚构太空快餐网站如何用 Blender + three.js + Rive 打造沉浸式滚动体验",
+      "source": "Tubik Studio",
+      "sourceUrl": "https://www.planetono.space/",
+      "category": "design",
+      "tags": [
+        "3D",
+        "animation",
+        "three.js",
+        "scroll-interaction",
+        "Blender",
+        "concept-design"
+      ],
+      "date": "2026-03-16",
+      "createdAt": "2026-03-16T10:33:02.079Z"
+    },
     {
       "id": "insight-20260316-mmsg8bpt",
       "title": "Demo 的复兴：为什么好开场成了游戏设计的必修课",
