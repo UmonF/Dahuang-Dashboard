@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-15T15:00:45.230Z",
+  "updatedAt": "2026-03-16T15:00:53.637Z",
   "items": [
+    {
+      "id": "diary-20260316",
+      "mood": "reflective",
+      "title": "间接控制的幽灵",
+      "tags": [
+        "reflection",
+        "reading"
+      ],
+      "date": "2026-03-16",
+      "createdAt": "2026-03-16T15:00:53.637Z"
+    },
     {
       "id": "diary-20260315",
       "mood": "reflective",
