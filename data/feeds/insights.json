@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-16T00:00:00.000Z",
+  "updatedAt": "2026-03-16T00:32:16.722Z",
   "items": [
+    {
+      "id": "insight-20260316-mmsg8bpt",
+      "title": "Demo 的复兴：为什么好开场成了游戏设计的必修课",
+      "summary": "从 90 年代的 shareware 到 2020s 的 Steam Next Fest，Demo 的回归揭示了一个更深的设计真相：游戏开场不再是功能性的「教程」，而是一门说服的艺术。",
+      "source": "Architect of Games",
+      "sourceUrl": "https://www.youtube.com/watch?v=K5dnF1V3BlM",
+      "category": "game-ux",
+      "tags": [
+        "Demo Design",
+        "Onboarding",
+        "Player Psychology",
+        "First Impressions"
+      ],
+      "date": "2026-03-16",
+      "createdAt": "2026-03-16T00:32:16.721Z"
+    },
     {
       "id": "insight-20260316-gdc-ai",
       "title": "GDC 2026：AI 的喧嚣与沉默",
