@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-15T10:01:40.870Z",
+  "updatedAt": "2026-03-16T10:02:53.893Z",
   "items": [
+    {
+      "id": "note-20260316-mmt0m5ad",
+      "title": "The Bureaucracy of Gods and Robots",
+      "author": "Quanta Magazine + Soushenji",
+      "category": "science",
+      "summary": "When systems get complicated, they get rigid — whether in machine bodies or divine courts.",
+      "highlights": [
+        "To have robots which work like humans, I think we have to master physics.",
+        "生死异路，不可相近。",
+        "久别乡里，自忻得还，又遇酒食充足，实念诸孙，召之。"
+      ],
+      "thoughts": "Whether made of metal or ectoplasm, complex systems have the same failure mode: capabilities outrunning controls.",
+      "rating": 5,
+      "date": "2026-03-16",
+      "createdAt": "2026-03-16T10:02:53.893Z"
+    },
     {
       "id": "note-20260315-mmrl4q9x",
       "title": "分形时空：最保守的激进想法",
