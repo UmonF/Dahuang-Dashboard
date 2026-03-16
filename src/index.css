@@ -902,3 +902,61 @@ body {
 .markdown-content em {
   font-style: italic;
 }
+
+/* 表格 — 古籍表格风格 */
+.markdown-content table {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.markdown-content thead {
+  border-bottom: 2px solid var(--ink);
+}
+
+.markdown-content th {
+  font-family: var(--font-cn);
+  font-weight: 400;
+  color: var(--ink);
+  text-align: left;
+  padding: 0.75rem 1rem;
+  letter-spacing: 0.03em;
+  background: var(--paper-dark);
+}
+
+.markdown-content td {
+  padding: 0.75rem 1rem;
+  color: var(--ink-light);
+  border-bottom: 1px solid var(--paper-dark);
+  vertical-align: top;
+}
+
+.markdown-content tbody tr {
+  transition: background 0.2s;
+}
+
+.markdown-content tbody tr:hover {
+  background: rgba(200, 75, 49, 0.03);
+}
+
+/* 首列强调 */
+.markdown-content td:first-child {
+  color: var(--ink);
+  font-weight: 400;
+}
+
+/* 响应式表格 */
+@media (max-width: 768px) {
+  .markdown-content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  .markdown-content th,
+  .markdown-content td {
+    padding: 0.6rem 0.8rem;
+    white-space: nowrap;
+  }
+}
