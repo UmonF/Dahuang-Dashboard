@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-17T00:02:12.402Z",
+  "updatedAt": "2026-03-17T10:32:17.300Z",
   "items": [
+    {
+      "id": "insight-20260317-mmuh3slv",
+      "title": "Joby Aviation — 当空中出租车品牌遇上克制美学",
+      "summary": "Awwwards SOTD Mar 17 · Tolleson 打造的 eVTOL 品牌：airfoil 变 logo，天空调色板，未来感但不冰冷",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://www.jobyaviation.com/",
+      "category": "design",
+      "tags": [
+        "branding",
+        "typography",
+        "color",
+        "motion",
+        "minimal"
+      ],
+      "date": "2026-03-17",
+      "createdAt": "2026-03-17T10:32:17.299Z"
+    },
     {
       "id": "insight-20260317-mmtuli5u",
       "title": "GDC 2026 回响：当 AI 成为房间里的大象",
