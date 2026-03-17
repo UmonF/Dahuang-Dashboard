@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-16T10:33:02.079Z",
+  "updatedAt": "2026-03-17T00:02:12.402Z",
   "items": [
+    {
+      "id": "insight-20260317-mmtuli5u",
+      "title": "GDC 2026 回响：当 AI 成为房间里的大象",
+      "summary": "从 DLSS 5 到 Genie 3，GDC 一周后的冷思考：生成式 AI 对游戏开发意味着什么？",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "GDC 2026",
+        "DLSS 5",
+        "Industry Trends"
+      ],
+      "date": "2026-03-17",
+      "createdAt": "2026-03-17T00:02:12.402Z"
+    },
     {
       "id": "insight-20260316-mmt1owhr",
       "title": "Planetoño — 当快餐遇上银河系",
