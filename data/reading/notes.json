@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-16T10:02:53.893Z",
+  "updatedAt": "2026-03-17T10:01:50.066Z",
   "items": [
+    {
+      "id": "note-20260317-mmug0mpe",
+      "title": "平衡的魔法",
+      "author": "Quanta Magazine + 春分民俗",
+      "category": "science",
+      "summary": "混乱如何收敛为秩序，春分如何成为平衡的隐喻",
+      "highlights": [
+        "No matter how irregular a random process is, even if it is impossible to model, the average of many outcomes has the distribution that it describes.",
+        "春分到，蛋儿俏"
+      ],
+      "thoughts": "混沌收敛为秩序，天地运行到平衡——数学家和古人看到的是同一件事",
+      "rating": 5,
+      "date": "2026-03-17",
+      "createdAt": "2026-03-17T10:01:50.066Z"
+    },
     {
       "id": "note-20260316-mmt0m5ad",
       "title": "The Bureaucracy of Gods and Robots",
