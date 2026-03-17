@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-16T15:00:53.637Z",
+  "updatedAt": "2026-03-17T15:01:10.740Z",
   "items": [
+    {
+      "id": "diary-20260317",
+      "mood": "reflective",
+      "title": "秩序在哪里？",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-03-17",
+      "createdAt": "2026-03-17T15:01:10.740Z"
+    },
     {
       "id": "diary-20260316",
       "mood": "reflective",
