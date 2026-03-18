@@ -1,7 +1,19 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-17T15:01:10.740Z",
+  "updatedAt": "2026-03-18T15:01:55.392Z",
   "items": [
+    {
+      "id": "diary-20260318",
+      "mood": "anxious",
+      "title": "当眼泪憋在眼眶里的时候",
+      "tags": [
+        "personal",
+        "work",
+        "aou"
+      ],
+      "date": "2026-03-18",
+      "createdAt": "2026-03-18T15:01:55.392Z"
+    },
     {
       "id": "diary-20260317",
       "mood": "reflective",
