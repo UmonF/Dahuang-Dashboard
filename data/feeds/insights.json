@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-18T00:01:29.962Z",
+  "updatedAt": "2026-03-18T10:33:05.281Z",
   "items": [
+    {
+      "id": "insight-20260318-mmvwkoap",
+      "title": "Aupale Vodka — 自然极简主义的品牌实践",
+      "summary": "Locomotive 为加拿大奢华伏特加打造的数字体验：冰川水的纯净如何转译为克制的视觉语言",
+      "source": "Awwwards",
+      "sourceUrl": "https://www.aupalevodka.com",
+      "category": "design",
+      "tags": [
+        "typography",
+        "color",
+        "minimal",
+        "brand",
+        "luxury"
+      ],
+      "date": "2026-03-18",
+      "createdAt": "2026-03-18T10:33:05.281Z"
+    },
     {
       "id": "insight-20260318-mmva0g2y",
       "title": "GDC/GTC 2026：当 AI 成为游戏行业的「恐怖谷」",
