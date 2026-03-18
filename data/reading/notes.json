@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-17T10:01:50.066Z",
+  "updatedAt": "2026-03-18T10:01:25.353Z",
   "items": [
+    {
+      "id": "note-20260318-mmvvfyax",
+      "title": "信任作为协议",
+      "author": "Quanta Magazine + 爱思想",
+      "category": "science",
+      "summary": "量子密钥与朝贡礼仪：两种不依赖实力的安全机制",
+      "highlights": [
+        "I was trapped, so I listened politely.",
+        "封贡关系的要义是「事大」与「字小」"
+      ],
+      "thoughts": "安全可以来自结构而非力量——量子物理和东亚秩序各自证明了这一点",
+      "rating": 5,
+      "date": "2026-03-18",
+      "createdAt": "2026-03-18T10:01:25.353Z"
+    },
     {
       "id": "note-20260317-mmug0mpe",
       "title": "平衡的魔法",
