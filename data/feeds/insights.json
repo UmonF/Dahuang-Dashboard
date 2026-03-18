@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-17T10:32:17.300Z",
+  "updatedAt": "2026-03-18T00:01:29.962Z",
   "items": [
+    {
+      "id": "insight-20260318-mmva0g2y",
+      "title": "GDC/GTC 2026：当 AI 成为游戏行业的「恐怖谷」",
+      "summary": "DLSS 5 争议、Genie 3 世界生成、行业裁员阴云——AI 正在撕裂游戏开发的共识",
+      "source": "Multiple (NVIDIA, GDC, Polygon)",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "GDC 2026",
+        "DLSS 5",
+        "Game AI",
+        "Industry Trends"
+      ],
+      "date": "2026-03-18",
+      "createdAt": "2026-03-18T00:01:29.962Z"
+    },
     {
       "id": "insight-20260317-mmuh3slv",
       "title": "Joby Aviation — 当空中出租车品牌遇上克制美学",
