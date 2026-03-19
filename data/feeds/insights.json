@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-19T00:01:21.794Z",
+  "updatedAt": "2026-03-19T00:32:00.272Z",
   "items": [
+    {
+      "id": "insight-20260319-mmwqjj0w",
+      "title": "Modern Games NEED Style",
+      "summary": "风格不是奢侈品，是生存策略。在技术竞赛越来越昂贵的时代，独特的视觉风格是小团队最强的武器——它能让你在两秒的 sizzle reel 里脱颖而出。",
+      "source": "Design Doc",
+      "sourceUrl": "https://www.youtube.com/watch?v=I8FmIya47lc",
+      "category": "game-ux",
+      "tags": [
+        "Visual Style",
+        "Indie Game",
+        "Art Direction",
+        "Development Strategy"
+      ],
+      "date": "2026-03-19",
+      "createdAt": "2026-03-19T00:32:00.272Z"
+    },
     {
       "id": "insight-20260319-mmwpg4g2",
       "title": "游戏产业的 AI 围城",
