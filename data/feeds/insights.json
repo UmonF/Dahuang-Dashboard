@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-19T00:32:00.272Z",
+  "updatedAt": "2026-03-19T10:32:21.937Z",
   "items": [
+    {
+      "id": "insight-20260319-mmxbzlip",
+      "title": "Where Worlds Take Shape — 可玩的作品集",
+      "summary": "当 portfolio 变成 gameplay，探索本身就是呈现",
+      "source": "Awwwards / Muzli",
+      "sourceUrl": "https://paodao.fr/",
+      "category": "design",
+      "tags": [
+        "webgl",
+        "3D",
+        "animation",
+        "game-design",
+        "portfolio"
+      ],
+      "date": "2026-03-19",
+      "createdAt": "2026-03-19T10:32:21.937Z"
+    },
     {
       "id": "insight-20260319-mmwqjj0w",
       "title": "Modern Games NEED Style",
