@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-18T10:01:25.353Z",
+  "updatedAt": "2026-03-19T10:02:16.935Z",
   "items": [
+    {
+      "id": "note-20260319-mmxawwrr",
+      "title": "混乱中的形状",
+      "author": "Quanta + 干宝《搜神记》",
+      "category": "science",
+      "summary": "中心极限定理与《紫玉》——当无数随机汇成秩序，当越轨的爱终成定数",
+      "highlights": [
+        "All that matters is that the average itself is going to follow a normal distribution.",
+        "南山有乌，北山张罗。乌既高飞，罗将奈何？",
+        "夫人闻之，出而抱之，玉如烟然。"
+      ],
+      "thoughts": "混乱收敛成秩序——统计学用公式证明，志怪用命运证明",
+      "rating": 5,
+      "date": "2026-03-19",
+      "createdAt": "2026-03-19T10:02:16.935Z"
+    },
     {
       "id": "note-20260318-mmvvfyax",
       "title": "信任作为协议",
