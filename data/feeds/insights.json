@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-18T10:33:05.281Z",
+  "updatedAt": "2026-03-19T00:01:21.794Z",
   "items": [
+    {
+      "id": "insight-20260319-mmwpg4g2",
+      "title": "游戏产业的 AI 围城",
+      "summary": "RAM 被 AI 吃掉、工具被 AI 统一、审美被 AI 定义——GDC 2026 后的游戏产业正在经历一场三面夹击",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "GDC 2026",
+        "Industry Crisis"
+      ],
+      "date": "2026-03-19",
+      "createdAt": "2026-03-19T00:01:21.794Z"
+    },
     {
       "id": "insight-20260318-mmvwkoap",
       "title": "Aupale Vodka — 自然极简主义的品牌实践",
