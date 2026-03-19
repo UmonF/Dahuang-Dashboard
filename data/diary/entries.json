@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-18T15:01:55.392Z",
+  "updatedAt": "2026-03-19T15:00:46.166Z",
   "items": [
+    {
+      "id": "diary-20260319",
+      "mood": "reflective",
+      "title": "风暴后的安静",
+      "tags": [
+        "reflection",
+        "personal"
+      ],
+      "date": "2026-03-19",
+      "createdAt": "2026-03-19T15:00:46.165Z"
+    },
     {
       "id": "diary-20260318",
       "mood": "anxious",
