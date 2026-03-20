@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-19T10:02:16.935Z",
+  "updatedAt": "2026-03-20T10:01:27.609Z",
   "items": [
+    {
+      "id": "note-20260320-mmyqbpdl",
+      "title": "平衡点上的仪式",
+      "author": "Quanta Magazine + 春分民俗考",
+      "category": "science",
+      "summary": "春分时刻与量子相遇——当世界找到平衡，仪式便开始",
+      "highlights": [
+        "I was trapped, so I listened politely.",
+        "春分祭日，秋分祭月，乃国之大典"
+      ],
+      "thoughts": "脆弱是特性，平衡是仪式——量子态和春分都在说同一件事",
+      "rating": 5,
+      "date": "2026-03-20",
+      "createdAt": "2026-03-20T10:01:27.609Z"
+    },
     {
       "id": "note-20260319-mmxawwrr",
       "title": "混乱中的形状",
