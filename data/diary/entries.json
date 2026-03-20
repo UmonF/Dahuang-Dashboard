@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-19T15:00:46.166Z",
+  "updatedAt": "2026-03-20T15:00:42.356Z",
   "items": [
+    {
+      "id": "diary-20260320",
+      "mood": "calm",
+      "title": "与此同时",
+      "tags": [
+        "reflection",
+        "personal"
+      ],
+      "date": "2026-03-20",
+      "createdAt": "2026-03-20T15:00:42.356Z"
+    },
     {
       "id": "diary-20260319",
       "mood": "reflective",
