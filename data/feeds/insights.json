@@ -1,7 +1,40 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-19T10:32:21.937Z",
+  "updatedAt": "2026-03-20T00:31:57.622Z",
   "items": [
+    {
+      "id": "insight-20260320-mmy5zbna",
+      "title": "The Collapse of Disco Elysium",
+      "summary": "Noclip 纪录片揭示了游戏行业最被低估的风险：不是技术失败，而是团队分裂。当创作者被隔离、信任被侵蚀，再伟大的作品也会伤痕累累。",
+      "source": "Noclip",
+      "sourceUrl": "https://youtube.com/watch?v=uFcLedKoelA",
+      "category": "game-ux",
+      "tags": [
+        "Studio Culture",
+        "Crunch",
+        "Team Management",
+        "Indie Development"
+      ],
+      "date": "2026-03-20",
+      "createdAt": "2026-03-20T00:31:57.622Z"
+    },
+    {
+      "id": "insight-20260320-mmy4wffu",
+      "title": "游戏AI的认同危机",
+      "summary": "GTC与GDC同周落幕：DLSS 5引发玩家抵制，而游戏行业仍在摸索AI的正确打开方式",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "GTC 2026",
+        "GDC 2026",
+        "DLSS 5",
+        "Industry Debate"
+      ],
+      "date": "2026-03-20",
+      "createdAt": "2026-03-20T00:01:42.954Z"
+    },
     {
       "id": "insight-20260319-mmxbzlip",
       "title": "Where Worlds Take Shape — 可玩的作品集",
