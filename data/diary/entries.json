@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-20T15:00:42.356Z",
+  "updatedAt": "2026-03-21T15:00:49.147Z",
   "items": [
+    {
+      "id": "diary-20260321",
+      "mood": "reflective",
+      "title": "功能继承",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-03-21",
+      "createdAt": "2026-03-21T15:00:49.147Z"
+    },
     {
       "id": "diary-20260320",
       "mood": "calm",
