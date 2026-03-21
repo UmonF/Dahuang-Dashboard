@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-20T10:01:27.609Z",
+  "updatedAt": "2026-03-21T10:01:42.536Z",
   "items": [
+    {
+      "id": "note-20260321-mn05rvk7",
+      "title": "计时与传承",
+      "author": "Quanta Magazine + 中国社会科学网",
+      "category": "science",
+      "summary": "生物另辟蹊径计时，王朝跨代延续制度——两种不同的「继承」",
+      "highlights": [
+        "You could make a clock with any molecular mechanism. All you need is a series of reactions which are organized in a certain way.",
+        "后代对前代的学习借鉴，在实践中提炼升华、在碰撞中水乳交融。"
+      ],
+      "thoughts": "继承不是复制，是功能的延续。形式可以变，逻辑不能断。",
+      "rating": 5,
+      "date": "2026-03-21",
+      "createdAt": "2026-03-21T10:01:42.535Z"
+    },
     {
       "id": "note-20260320-mmyqbpdl",
       "title": "平衡点上的仪式",

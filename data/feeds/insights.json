@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-21T00:01:28.718Z",
+  "updatedAt": "2026-03-21T00:32:25.327Z",
   "items": [
+    {
+      "id": "insight-20260321-mmzlfrou",
+      "title": "The Curse of Majora: Designing For Desire",
+      "summary": "塞尔达·魔喬拉的面具如何通过收集机制构建「希望战胜孤独」的核心叙事，以及为什么最终 BOSS 战可以被一键秒杀",
+      "source": "Designing For",
+      "sourceUrl": "https://www.youtube.com/watch?v=mU4o8bUS44U",
+      "category": "game-ux",
+      "tags": [
+        "Narrative Design",
+        "Collection Systems",
+        "Emotional UX",
+        "Boss Design",
+        "Zelda"
+      ],
+      "date": "2026-03-21",
+      "createdAt": "2026-03-21T00:32:25.327Z"
+    },
     {
       "id": "insight-20260321-mmzkbz4e",
       "title": "GDC 2026 后的清醒：AI 进入管道，不是替代管道",
