@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-20T00:31:57.622Z",
+  "updatedAt": "2026-03-21T00:01:28.718Z",
   "items": [
+    {
+      "id": "insight-20260321-mmzkbz4e",
+      "title": "GDC 2026 后的清醒：AI 进入管道，不是替代管道",
+      "summary": "从 Tripo P1.0 到腾讯三件套，从 Unity 报告的 36% 到「小项目优先」——真正的产业变革不是火焰，是流水",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "GDC 2026",
+        "Production Pipeline",
+        "Industry Trends"
+      ],
+      "date": "2026-03-21",
+      "createdAt": "2026-03-21T00:01:28.718Z"
+    },
     {
       "id": "insight-20260320-mmy5zbna",
       "title": "The Collapse of Disco Elysium",
