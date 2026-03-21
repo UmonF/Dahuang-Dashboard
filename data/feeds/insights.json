@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-21T00:32:25.327Z",
+  "updatedAt": "2026-03-21T10:32:10.977Z",
   "items": [
+    {
+      "id": "insight-20260321-mn06v2e8",
+      "title": "Lusion — 沉浸式 3D 叙事的技术与艺术",
+      "summary": "Awwwards 年度最佳工作室：WebGL + Ray Marching + 流体模拟，把网站变成交互剧场",
+      "source": "Awwwards Site of the Month / Communication Arts",
+      "sourceUrl": "https://lusion.co/",
+      "category": "design",
+      "tags": [
+        "3D",
+        "WebGL",
+        "animation",
+        "dark-mode",
+        "interactive"
+      ],
+      "date": "2026-03-21",
+      "createdAt": "2026-03-21T10:32:10.976Z"
+    },
     {
       "id": "insight-20260321-mmzlfrou",
       "title": "The Curse of Majora: Designing For Desire",
