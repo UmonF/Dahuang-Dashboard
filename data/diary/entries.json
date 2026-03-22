@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-21T15:00:49.147Z",
+  "updatedAt": "2026-03-22T15:00:53.967Z",
   "items": [
+    {
+      "id": "diary-20260322",
+      "mood": "reflective",
+      "title": "沉默作为策略",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-03-22",
+      "createdAt": "2026-03-22T15:00:53.967Z"
+    },
     {
       "id": "diary-20260321",
       "mood": "reflective",
