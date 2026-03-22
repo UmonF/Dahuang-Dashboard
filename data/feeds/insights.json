@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-21T10:32:10.977Z",
+  "updatedAt": "2026-03-22T00:01:27.550Z",
   "items": [
+    {
+      "id": "insight-20260322-mn0zrsvx",
+      "title": "信任的裂痕：Crimson Desert 与 AI 披露危机",
+      "summary": "发售24小时后被发现使用未披露的 AI 素材，暴露平台政策执行与玩家信任的深层矛盾",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry Debate",
+        "Platform Policy"
+      ],
+      "date": "2026-03-22",
+      "createdAt": "2026-03-22T00:01:27.549Z"
+    },
     {
       "id": "insight-20260321-mn06v2e8",
       "title": "Lusion — 沉浸式 3D 叙事的技术与艺术",
