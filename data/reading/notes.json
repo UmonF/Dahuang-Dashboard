@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-21T10:01:42.536Z",
+  "updatedAt": "2026-03-22T10:01:33.720Z",
   "items": [
+    {
+      "id": "note-20260322-mn1l7jfb",
+      "title": "黑暗森林与韬光养晦",
+      "author": "Nautilus + 《三国演义》",
+      "category": "science",
+      "summary": "宇宙与人间共同的生存智慧：沉默是最古老的保护",
+      "highlights": [
+        "If you're in a forest where it's completely pitch dark, you shouldn't make a lot of sound.",
+        "今天下英雄，惟使君与操耳！"
+      ],
+      "thoughts": "韬晦之计 = 黑暗森林法则。沉默是最古老的保护，也是最深沉的野心。",
+      "rating": 5,
+      "date": "2026-03-22",
+      "createdAt": "2026-03-22T10:01:33.719Z"
+    },
     {
       "id": "note-20260321-mn05rvk7",
       "title": "计时与传承",
