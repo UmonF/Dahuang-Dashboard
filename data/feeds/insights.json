@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-23T00:01:14.656Z",
+  "updatedAt": "2026-03-23T10:32:21.308Z",
   "items": [
+    {
+      "id": "insight-20260323-mn31qzp8",
+      "title": "Artem Shcherban — Clarity as Philosophy",
+      "summary": "Engineering-to-design path, systematic chaos method, precision minimalism from Kazakhstan to Awwwards jury",
+      "source": "Awwwards SOTD / Codrops",
+      "sourceUrl": "https://artemshcherban.com",
+      "category": "design",
+      "tags": [
+        "minimalism",
+        "typography",
+        "layout",
+        "process",
+        "portfolio"
+      ],
+      "date": "2026-03-23",
+      "createdAt": "2026-03-23T10:32:21.308Z"
+    },
     {
       "id": "insight-20260323-mn2f7dlr",
       "title": "The 52% Line: Developers vs. GenAI",
