@@ -1,17 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-23T06:06:57.142Z",
+  "updatedAt": "2026-03-23T06:10:59.782Z",
   "items": [
     {
       "id": "diary-20260323",
       "mood": "reflective",
-      "title": "欢迎回家",
+      "title": "Pokopia: 欢迎回家",
       "tags": [
         "reflection",
-        "game"
+        "game",
+        "game-ux"
       ],
       "date": "2026-03-23",
-      "createdAt": "2026-03-23T06:06:57.142Z"
+      "createdAt": "2026-03-23T06:10:59.782Z"
     },
     {
       "id": "diary-20260322",
