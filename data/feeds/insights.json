@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-22T00:01:27.550Z",
+  "updatedAt": "2026-03-23T00:01:14.656Z",
   "items": [
+    {
+      "id": "insight-20260323-mn2f7dlr",
+      "title": "The 52% Line: Developers vs. GenAI",
+      "summary": "GDC 2026 调查显示过半开发者认为 GenAI 对行业有害——三年内翻三倍的抵制率",
+      "source": "Multiple (CNET, The Verge, Archyde)",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "GDC 2026",
+        "Developer Sentiment"
+      ],
+      "date": "2026-03-23",
+      "createdAt": "2026-03-23T00:01:14.655Z"
+    },
     {
       "id": "insight-20260322-mn0zrsvx",
       "title": "信任的裂痕：Crimson Desert 与 AI 披露危机",
