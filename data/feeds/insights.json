@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-23T10:32:21.308Z",
+  "updatedAt": "2026-03-24T00:01:29.825Z",
   "items": [
+    {
+      "id": "insight-20260324-mn3unjz5",
+      "title": "GDC 2026 Aftermath: The 52/52 Paradox",
+      "summary": "AI adoption and opposition both hit 52% — the industry is perfectly split, and player-facing AI remains a ghost.",
+      "source": "Multiple (The Verge, CNET, WayTooMany.Games)",
+      "sourceUrl": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
+      "category": "tech-ai",
+      "tags": [
+        "GDC 2026",
+        "Gaming AI",
+        "DLSS 5",
+        "Industry Trends"
+      ],
+      "date": "2026-03-24",
+      "createdAt": "2026-03-24T00:01:29.825Z"
+    },
     {
       "id": "insight-20260323-mn31qzp8",
       "title": "Artem Shcherban — Clarity as Philosophy",
