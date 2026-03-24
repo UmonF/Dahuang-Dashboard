@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-22T10:01:33.720Z",
+  "updatedAt": "2026-03-24T10:02:22.320Z",
   "items": [
+    {
+      "id": "note-20260324-mn4g4a96",
+      "title": "循环与唯一",
+      "author": "Quanta Magazine + 萧放 (北师大)",
+      "category": "science",
+      "summary": "从弦理论的数学独特性到传统节日的时间循环——两种\"唯一性\"的结构对比",
+      "highlights": [
+        "People have studied for decades, what does string theory imply, and we are asking, What implies string theory?",
+        "苟日新，日日新，又日新"
+      ],
+      "thoughts": "从约束到唯一——数学和文化用不同的路径到达同一个目的地",
+      "rating": 5,
+      "date": "2026-03-24",
+      "createdAt": "2026-03-24T10:02:22.314Z"
+    },
     {
       "id": "note-20260322-mn1l7jfb",
       "title": "黑暗森林与韬光养晦",
