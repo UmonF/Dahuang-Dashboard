@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-25T00:32:09.786Z",
+  "updatedAt": "2026-03-25T10:32:55.634Z",
   "items": [
+    {
+      "id": "insight-20260325-mn5wnfiq",
+      "title": "Gavin Schneider Productions — Invisible Interface for Visual Work",
+      "summary": "DashDigital的摄影作品集设计课：当网站是展示视觉作品的容器时，不要与内容竞争。",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://www.gsproductions.co.za",
+      "category": "design",
+      "tags": [
+        "minimal",
+        "monochrome",
+        "portfolio",
+        "photography",
+        "motion",
+        "hover"
+      ],
+      "date": "2026-03-25",
+      "createdAt": "2026-03-25T10:32:55.634Z"
+    },
     {
       "id": "insight-20260325-mn5b6ud6",
       "title": "Demo 设计的结构学：如何让玩家「不满足」",
