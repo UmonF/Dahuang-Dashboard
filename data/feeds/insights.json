@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-24T10:32:22.559Z",
+  "updatedAt": "2026-03-25T00:01:27.422Z",
   "items": [
+    {
+      "id": "insight-20260325-mn5a3cse",
+      "title": "The Capcom Doctrine: Process AI, Output Human",
+      "summary": "A new industry playbook emerges as Capcom draws a line between AI-assisted development and AI-generated content",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Capcom",
+        "GDC 2026"
+      ],
+      "date": "2026-03-25",
+      "createdAt": "2026-03-25T00:01:27.422Z"
+    },
     {
       "id": "insight-20260324-mn4h6vbz",
       "title": "Telha Clarke — Architecture as Interface Philosophy",
