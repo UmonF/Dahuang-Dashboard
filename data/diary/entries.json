@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-24T15:00:58.215Z",
+  "updatedAt": "2026-03-25T15:00:54.831Z",
   "items": [
+    {
+      "id": "diary-20260325",
+      "mood": "reflective",
+      "title": "临界态的一天",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-03-25",
+      "createdAt": "2026-03-25T15:00:54.830Z"
+    },
     {
       "id": "diary-20260324",
       "mood": "reflective",
