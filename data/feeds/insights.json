@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-25T00:01:27.422Z",
+  "updatedAt": "2026-03-25T00:32:09.786Z",
   "items": [
+    {
+      "id": "insight-20260325-mn5b6ud6",
+      "title": "Demo 设计的结构学：如何让玩家「不满足」",
+      "summary": "Architect of Games 深度解析 Demo 复兴背后的设计哲学——不是为了让玩家满意，而是为了让玩家「意犹未尽」。",
+      "source": "Architect of Games",
+      "sourceUrl": "https://www.youtube.com/watch?v=K5dnF1V3BlM",
+      "category": "game-ux",
+      "tags": [
+        "Demo Design",
+        "Onboarding",
+        "Player Psychology",
+        "First Impressions"
+      ],
+      "date": "2026-03-25",
+      "createdAt": "2026-03-25T00:32:09.786Z"
+    },
     {
       "id": "insight-20260325-mn5a3cse",
       "title": "The Capcom Doctrine: Process AI, Output Human",
