@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-25T10:02:23.534Z",
+  "updatedAt": "2026-03-26T10:02:27.038Z",
   "items": [
+    {
+      "id": "note-20260326-mn7b038d",
+      "title": "书写改变思维",
+      "author": "Quanta + 搜神记",
+      "category": "science",
+      "summary": "符号体系不只是记录思想，它参与思想的形成",
+      "highlights": [
+        "The Hindu-Arabic numerals are an amazing technology. Historically, multiplying large numbers was a difficult thing to do — until you had a system that made it easy.",
+        "道逢一妇人，曰：愿为子妻。"
+      ],
+      "thoughts": "形式不是容器，形式参与意义的生产",
+      "rating": 5,
+      "date": "2026-03-26",
+      "createdAt": "2026-03-26T10:02:27.037Z"
+    },
     {
       "id": "note-20260325-mn5vk5v1",
       "title": "临界点的智慧",
