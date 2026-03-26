@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-26T00:32:38.991Z",
+  "updatedAt": "2026-03-26T10:31:46.507Z",
   "items": [
+    {
+      "id": "insight-20260326-mn7c1suj",
+      "title": "Corentin Bernadou — Swiss Precision Meets WebGL Experimentation",
+      "summary": "SOTD Mar 25, 2026. Two-color brutalism, Figma-inspired dev tools as UX feature, typography-first WebGL.",
+      "source": "Codrops Case Study",
+      "sourceUrl": "https://corentinbernadou.com",
+      "category": "design",
+      "tags": [
+        "typography",
+        "color",
+        "animation",
+        "WebGL",
+        "minimal",
+        "portfolio"
+      ],
+      "date": "2026-03-26",
+      "createdAt": "2026-03-26T10:31:46.507Z"
+    },
     {
       "id": "insight-20260326-mn6qnbkf",
       "title": "Mechanics I Hate and How Games Fix Them",
