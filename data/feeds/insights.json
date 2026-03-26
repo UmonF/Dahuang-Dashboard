@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-26T00:01:38.703Z",
+  "updatedAt": "2026-03-26T00:32:38.991Z",
   "items": [
+    {
+      "id": "insight-20260326-mn6qnbkf",
+      "title": "Mechanics I Hate and How Games Fix Them",
+      "summary": "Three problem mechanics and their design solutions: parry, grappling hook, deckbuilding — each with concrete fixes that reduce friction while preserving skill expression.",
+      "source": "Design Doc",
+      "sourceUrl": "https://youtube.com/watch?v=Z-rDE0xqkzk",
+      "category": "game-ux",
+      "tags": [
+        "Mechanics Design",
+        "Friction Reduction",
+        "Parry Systems",
+        "Deckbuilding",
+        "Movement Design"
+      ],
+      "date": "2026-03-26",
+      "createdAt": "2026-03-26T00:32:38.991Z"
+    },
     {
       "id": "insight-20260326-mn6pjg5q",
       "title": "The Accountability Vacuum: When Billions Can't Buy Job Security",
