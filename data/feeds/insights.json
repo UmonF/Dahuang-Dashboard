@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-25T10:32:55.634Z",
+  "updatedAt": "2026-03-26T00:01:38.703Z",
   "items": [
+    {
+      "id": "insight-20260326-mn6pjg5q",
+      "title": "The Accountability Vacuum: When Billions Can't Buy Job Security",
+      "summary": "Epic cuts 1,000 despite $6B revenue; Sweeney's \"AI denial\" becomes a meme as industry accountability evaporates",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Layoffs",
+        "Unionization"
+      ],
+      "date": "2026-03-26",
+      "createdAt": "2026-03-26T00:01:38.702Z"
+    },
     {
       "id": "insight-20260325-mn5wnfiq",
       "title": "Gavin Schneider Productions — Invisible Interface for Visual Work",
