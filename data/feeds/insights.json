@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-27T00:31:41.346Z",
+  "updatedAt": "2026-03-27T00:33:56.849Z",
   "items": [
+    {
+      "id": "insight-20260327-mn864ub4",
+      "title": "Extrinsic Motivation: The Illusion of Game Rewards",
+      "summary": "MatthewMatosis deconstructs motivation in games: rewards and punishments require an intrinsic spark to work—players ultimately interpret and self-administer all game feedback.",
+      "source": "MatthewMatosis",
+      "sourceUrl": "https://www.youtube.com/watch?v=5NC0sW-t6oY",
+      "category": "game-ux",
+      "tags": [
+        "Player Psychology",
+        "Motivation",
+        "Reward Design",
+        "Game Theory"
+      ],
+      "date": "2026-03-27",
+      "createdAt": "2026-03-27T00:33:56.848Z"
+    },
     {
       "id": "insight-20260327-mn861xr6",
       "title": "Modern Games NEED Style",
