@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-26T10:02:27.038Z",
+  "updatedAt": "2026-03-27T10:02:59.132Z",
   "items": [
+    {
+      "id": "note-20260327-mn8qgmnw",
+      "title": "形式的代价",
+      "author": "Quanta + 中国文艺评论",
+      "category": "science",
+      "summary": "严谨是必要的枷锁，也可能是创造力的牢笼",
+      "highlights": [
+        "Mathematics is not a fixed and finite and formalized enterprise. It is a moving, shifting beast.",
+        "慎终追远，民德归厚矣"
+      ],
+      "thoughts": "严谨的代价是多样性，但系统有自我修正能力",
+      "rating": 5,
+      "date": "2026-03-27",
+      "createdAt": "2026-03-27T10:02:59.132Z"
+    },
     {
       "id": "note-20260326-mn7b038d",
       "title": "书写改变思维",
