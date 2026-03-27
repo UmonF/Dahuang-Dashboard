@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-26T10:31:46.507Z",
+  "updatedAt": "2026-03-27T00:01:43.699Z",
   "items": [
+    {
+      "id": "insight-20260327-mn84zeoi",
+      "title": "The 52/52 Paradox: When Developer Fear and Player Indifference Collide",
+      "summary": "AI adoption hits 52% as developer opposition reaches the same number — while 60% of players remain completely neutral",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry Trends",
+        "GDC 2026",
+        "Player Research"
+      ],
+      "date": "2026-03-27",
+      "createdAt": "2026-03-27T00:01:43.698Z"
+    },
     {
       "id": "insight-20260326-mn7c1suj",
       "title": "Corentin Bernadou — Swiss Precision Meets WebGL Experimentation",
