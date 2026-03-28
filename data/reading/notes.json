@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-27T10:02:59.132Z",
+  "updatedAt": "2026-03-28T10:02:06.819Z",
   "items": [
+    {
+      "id": "note-20260328-mna5vcyr",
+      "title": "隐秘连接",
+      "author": "Quanta Magazine + 光明日报",
+      "category": "science",
+      "summary": "从火山到边疆，系统之间的隐秘管道如何改变我们对整体的理解",
+      "highlights": [
+        "They seem to talk to each other.",
+        "正是这种认同感的升华，才能够解释为何边疆如此广袤的中国能够维持长久的稳定。"
+      ],
+      "thoughts": "系统的整体性不在于节点的同质，而在于连接的畅通",
+      "rating": 5,
+      "date": "2026-03-28",
+      "createdAt": "2026-03-28T10:02:06.819Z"
+    },
     {
       "id": "note-20260327-mn8qgmnw",
       "title": "形式的代价",
