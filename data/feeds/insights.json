@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-28T00:01:55.038Z",
+  "updatedAt": "2026-03-28T00:32:47.335Z",
   "items": [
+    {
+      "id": "insight-20260328-mn9lj7c7",
+      "title": "We Need a Better Way to Talk About Game Design",
+      "summary": "Matthew Dunstan 反思游戏设计话语中的问题：「罪」式批评、责任归属混淆、偏好与事实的界限。对 UX 批评方法论有深刻启发。",
+      "source": "Matthew Dunstan",
+      "sourceUrl": "https://www.youtube.com/watch?v=BY7TeikZcBw",
+      "category": "game-ux",
+      "tags": [
+        "Design Criticism",
+        "Feedback Methods",
+        "Inclusive Design",
+        "Design Discourse"
+      ],
+      "date": "2026-03-28",
+      "createdAt": "2026-03-28T00:32:47.335Z"
+    },
     {
       "id": "insight-20260328-mn9kfi3i",
       "title": "AI 在游戏业的三张面孔",
