@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-27T15:01:06.851Z",
+  "updatedAt": "2026-03-28T15:00:48.593Z",
   "items": [
+    {
+      "id": "diary-20260328",
+      "mood": "reflective",
+      "title": "连接在表象之下",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-03-28",
+      "createdAt": "2026-03-28T15:00:48.593Z"
+    },
     {
       "id": "diary-20260327",
       "mood": "reflective",
