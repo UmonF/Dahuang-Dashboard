@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-27T00:33:56.849Z",
+  "updatedAt": "2026-03-28T00:01:55.038Z",
   "items": [
+    {
+      "id": "insight-20260328-mn9kfi3i",
+      "title": "AI 在游戏业的三张面孔",
+      "summary": "Capcom 的双轨策略、Pragmata 的讽刺美学、Valve 的坦白",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "GDC 2026"
+      ],
+      "date": "2026-03-28",
+      "createdAt": "2026-03-28T00:01:55.038Z"
+    },
     {
       "id": "insight-20260327-mn864ub4",
       "title": "Extrinsic Motivation: The Illusion of Game Rewards",
