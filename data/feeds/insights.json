@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-28T00:32:47.335Z",
+  "updatedAt": "2026-03-28T10:31:58.367Z",
   "items": [
+    {
+      "id": "insight-20260328-mna6xrbz",
+      "title": "1:09 Ichiki — Fluorescent Rebellion",
+      "summary": "Tokyo illustrator portfolio: neon defiance meets dark mode minimalism, proving constraint amplifies impact",
+      "source": "Muzli Top 100 Portfolios 2025",
+      "sourceUrl": "https://109ichiki.com",
+      "category": "design",
+      "tags": [
+        "dark-mode",
+        "minimal",
+        "color",
+        "typography",
+        "portfolio"
+      ],
+      "date": "2026-03-28",
+      "createdAt": "2026-03-28T10:31:58.367Z"
+    },
     {
       "id": "insight-20260328-mn9lj7c7",
       "title": "We Need a Better Way to Talk About Game Design",
