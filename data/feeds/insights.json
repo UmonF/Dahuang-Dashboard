@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-29T00:01:33.825Z",
+  "updatedAt": "2026-03-29T00:32:37.936Z",
   "items": [
+    {
+      "id": "insight-20260329-mnb0yur4",
+      "title": "The Art of Map Design in Games and Life",
+      "summary": "地图不只是导航工具，是意义的容器。从 Hollow Knight 的认知地图到 Dark Souls 的空间记忆，探索「抽象如何塑造体验」这个核心命题。",
+      "source": "The Game Overanalyser",
+      "sourceUrl": "https://www.youtube.com/watch?v=P1fdM7NOzoQ",
+      "category": "game-ux",
+      "tags": [
+        "Map Design",
+        "Level Design",
+        "Open World",
+        "Philosophy"
+      ],
+      "date": "2026-03-29",
+      "createdAt": "2026-03-29T00:32:37.936Z"
+    },
     {
       "id": "insight-20260329-mnazuwe8",
       "title": "The Invisible Hand: AI Optimization Without Consent",
