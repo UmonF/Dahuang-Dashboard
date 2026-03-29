@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-29T00:32:37.936Z",
+  "updatedAt": "2026-03-29T10:32:18.025Z",
   "items": [
+    {
+      "id": "insight-20260329-mnbme161",
+      "title": "Shed.design — The Gallery That Refuses a House Style",
+      "summary": "Brand strategy × interior architecture portfolio. Vue.js + Lenis + clip-path transitions create spatial storytelling.",
+      "source": "Design Study",
+      "sourceUrl": "https://shed.design",
+      "category": "design",
+      "tags": [
+        "portfolio",
+        "animation",
+        "typography",
+        "minimal",
+        "spatial-design"
+      ],
+      "date": "2026-03-29",
+      "createdAt": "2026-03-29T10:32:18.025Z"
+    },
     {
       "id": "insight-20260329-mnb0yur4",
       "title": "The Art of Map Design in Games and Life",
