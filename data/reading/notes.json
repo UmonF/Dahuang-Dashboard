@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-28T10:02:06.819Z",
+  "updatedAt": "2026-03-29T10:01:51.039Z",
   "items": [
+    {
+      "id": "note-20260329-mnblavgf",
+      "title": "Tiny Shortcuts and Giant Leaps",
+      "author": "Nautilus + 国家科技信息中心",
+      "category": "science",
+      "summary": "Science lives and dies by trust — tweakers erode it, breakthroughs rebuild it",
+      "highlights": [
+        "\"Tiny little shortcuts\" — Stapel's gateway drug to fabrication",
+        "深渊生物群落发现：生命极限被重新定义"
+      ],
+      "thoughts": "科学的信任危机和科学的突破成就是同一枚硬币的两面",
+      "rating": 5,
+      "date": "2026-03-29",
+      "createdAt": "2026-03-29T10:01:51.039Z"
+    },
     {
       "id": "note-20260328-mna5vcyr",
       "title": "隐秘连接",
