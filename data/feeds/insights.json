@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-28T10:31:58.367Z",
+  "updatedAt": "2026-03-29T00:01:33.825Z",
   "items": [
+    {
+      "id": "insight-20260329-mnazuwe8",
+      "title": "The Invisible Hand: AI Optimization Without Consent",
+      "summary": "Intel BOT and Sony Project Amethyst signal a shift from AI-as-tool to AI-as-infrastructure — optimization happening beneath the player",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Intel BOT",
+        "PlayStation",
+        "Infrastructure AI"
+      ],
+      "date": "2026-03-29",
+      "createdAt": "2026-03-29T00:01:33.824Z"
+    },
     {
       "id": "insight-20260328-mna6xrbz",
       "title": "1:09 Ichiki — Fluorescent Rebellion",
