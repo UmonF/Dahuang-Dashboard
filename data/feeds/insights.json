@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-30T00:01:36.021Z",
+  "updatedAt": "2026-03-30T10:32:42.847Z",
   "items": [
+    {
+      "id": "insight-20260330-mnd1uezj",
+      "title": "Amir Arhami 2026 — Atmospheric Minimalism as Identity",
+      "summary": "Romanian designer transforms constraints into cinematic 3D portfolio through abstract Three.js landscapes",
+      "source": "Portfolio",
+      "sourceUrl": "https://arha.me/",
+      "category": "design",
+      "tags": [
+        "3D",
+        "animation",
+        "minimal",
+        "dark-mode",
+        "typography",
+        "Three.js"
+      ],
+      "date": "2026-03-30",
+      "createdAt": "2026-03-30T10:32:42.847Z"
+    },
     {
       "id": "insight-20260330-mncfasr8",
       "title": "The Transparency Trap",
