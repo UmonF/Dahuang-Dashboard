@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-29T15:00:51.375Z",
+  "updatedAt": "2026-03-30T15:00:51.981Z",
   "items": [
+    {
+      "id": "diary-20260330",
+      "mood": "reflective",
+      "title": "华表狐与递归叙事",
+      "tags": [
+        "reflection",
+        "reading"
+      ],
+      "date": "2026-03-30",
+      "createdAt": "2026-03-30T15:00:51.981Z"
+    },
     {
       "id": "diary-20260329",
       "mood": "reflective",
