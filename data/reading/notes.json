@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-29T10:01:51.039Z",
+  "updatedAt": "2026-03-31T10:02:08.520Z",
   "items": [
+    {
+      "id": "note-20260331-mneg6y9z",
+      "title": "边界、视野与融合",
+      "author": "Quanta Magazine + 中国社会科学报",
+      "category": "science",
+      "summary": "De Sitter 宇宙的量子视野与清明三节融合——扩张的边界如何重塑观察者",
+      "highlights": [
+        "Gravity is fluctuating, quantum mechanically, everywhere. And there's no place to shield yourself from that.",
+        "哭罢不归也，趋芳树，择园圃，列坐尽醉，有歌者。哭笑无端，哀往而乐回也。"
+      ],
+      "thoughts": "边界的存在/消失重塑理解世界的方式——物理学和民俗学给出了相反的答案",
+      "rating": 5,
+      "date": "2026-03-31",
+      "createdAt": "2026-03-31T10:02:08.519Z"
+    },
     {
       "id": "note-20260329-mnblavgf",
       "title": "Tiny Shortcuts and Giant Leaps",

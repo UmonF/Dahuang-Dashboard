@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-31T00:01:36.532Z",
+  "updatedAt": "2026-03-31T00:34:14.120Z",
   "items": [
+    {
+      "id": "insight-20260331-mndvwmaw",
+      "title": "Crimson Desert 的「现代游戏设计反模式」",
+      "summary": "长达 83 分钟的深度拆解，揭示大型 ARPG 中最常见的 UX 失误：从响应延迟到界面混乱",
+      "source": "Tryedz (YouTube)",
+      "sourceUrl": "https://www.youtube.com/watch?v=8xi151Bx6UA",
+      "category": "game-ux",
+      "tags": [
+        "Game UX",
+        "Anti-pattern",
+        "Controls",
+        "Korean MMO",
+        "Case Study"
+      ],
+      "date": "2026-03-31",
+      "createdAt": "2026-03-31T00:34:14.120Z"
+    },
     {
       "id": "insight-20260331-mnduqntf",
       "title": "手工「AI 感」与产业悖论",
