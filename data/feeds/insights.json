@@ -1,7 +1,26 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-31T00:34:14.120Z",
+  "updatedAt": "2026-03-31T10:33:01.830Z",
   "items": [
+    {
+      "id": "insight-20260331-mnehaoau",
+      "title": "1820 Productions — Minimal Design, Maximal Motion",
+      "summary": "Video production portfolio proving that minimalism does not mean static — constraint as creative catalyst",
+      "source": "Codrops + Awwwards SOTD (Feb 26, 2026)",
+      "sourceUrl": "https://tympanus.net/codrops/2026/02/13/1820-productions-minimal-design-maximal-motion/",
+      "category": "design",
+      "tags": [
+        "minimal",
+        "animation",
+        "typography",
+        "dark-mode",
+        "motion-design",
+        "webflow",
+        "gsap"
+      ],
+      "date": "2026-03-31",
+      "createdAt": "2026-03-31T10:33:01.830Z"
+    },
     {
       "id": "insight-20260331-mndvwmaw",
       "title": "Crimson Desert 的「现代游戏设计反模式」",
