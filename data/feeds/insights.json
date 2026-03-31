@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-30T10:32:42.847Z",
+  "updatedAt": "2026-03-31T00:01:36.532Z",
   "items": [
+    {
+      "id": "insight-20260331-mnduqntf",
+      "title": "手工「AI 感」与产业悖论",
+      "summary": "Valve 探索 AI 引发担忧，Capcom 却用人工复刻 AI 的不完美——工具与美学的边界正在模糊",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Valve",
+        "Capcom"
+      ],
+      "date": "2026-03-31",
+      "createdAt": "2026-03-31T00:01:36.531Z"
+    },
     {
       "id": "insight-20260330-mnd1uezj",
       "title": "Amir Arhami 2026 — Atmospheric Minimalism as Identity",
