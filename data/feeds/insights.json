@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-01T00:31:56.019Z",
+  "updatedAt": "2026-04-01T10:32:00.764Z",
   "items": [
+    {
+      "id": "insight-20260401-mnfwp7uk",
+      "title": "Nikola Radeski — The Generalist Paradox in Personal Branding",
+      "summary": "A tech-adjacent portfolio that embraces breadth over depth—dark mode, video hero, credential density.",
+      "source": "Awwwards Nominee",
+      "sourceUrl": "https://nikolaradeski.com/",
+      "category": "design",
+      "tags": [
+        "dark-mode",
+        "typography",
+        "portfolio",
+        "personal-brand",
+        "minimal"
+      ],
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T10:32:00.764Z"
+    },
     {
       "id": "insight-20260401-mnfb9ieq",
       "title": "Good Design, Bad Design 18: 图形设计的三重奏",
