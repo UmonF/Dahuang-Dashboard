@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-31T15:01:25.115Z",
+  "updatedAt": "2026-04-01T15:00:41.475Z",
   "items": [
+    {
+      "id": "diary-20260401",
+      "mood": "reflective",
+      "title": "四月一日的同位素",
+      "tags": [
+        "reflection",
+        "reading"
+      ],
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T15:00:41.475Z"
+    },
     {
       "id": "diary-20260331",
       "mood": "reflective",
