@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-01T00:01:50.000Z",
+  "updatedAt": "2026-04-01T00:31:56.019Z",
   "items": [
+    {
+      "id": "insight-20260401-mnfb9ieq",
+      "title": "Good Design, Bad Design 18: 图形设计的三重奏",
+      "summary": "从快节奏高尔夫的创新 UI、FF10 的 onboarding 灾难到 RE9 的双摄像机哲学——三个案例展示信息呈现如何决定玩法体验",
+      "source": "Design Doc",
+      "sourceUrl": "https://www.youtube.com/watch?v=o86rWZlF30g",
+      "category": "game-ux",
+      "tags": [
+        "UI Design",
+        "Onboarding",
+        "Camera Design",
+        "Information Architecture"
+      ],
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T00:31:56.018Z"
+    },
     {
       "id": "insight-20260401-mnfa6svk",
       "title": "VR 寒冬：$35 亿独角兽陨落，AR 接手残局",
