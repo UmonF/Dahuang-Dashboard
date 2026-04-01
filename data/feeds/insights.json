@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-31T10:33:01.830Z",
+  "updatedAt": "2026-04-01T00:01:50.000Z",
   "items": [
+    {
+      "id": "insight-20260401-mnfa6svk",
+      "title": "VR 寒冬：$35 亿独角兽陨落，AR 接手残局",
+      "summary": "Rec Room 关闭、Moss 工作室裁员，Snap 收购残局——VR 行业加速重组",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "VR/AR",
+        "Industry News",
+        "Metaverse"
+      ],
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T00:01:50.000Z"
+    },
     {
       "id": "insight-20260331-mnehaoau",
       "title": "1820 Productions — Minimal Design, Maximal Motion",
