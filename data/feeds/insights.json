@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-01T10:32:00.764Z",
+  "updatedAt": "2026-04-02T00:01:37.851Z",
   "items": [
+    {
+      "id": "insight-20260402-mngpme63",
+      "title": "AI 对游戏业的双重侵蚀：从基础设施到创作价值",
+      "summary": "AI 热潮推高硬件成本，同时稀释游戏创作的人工价值——行业陷入两面夹击的困局。",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Hardware",
+        "Industry Debate"
+      ],
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T00:01:37.851Z"
+    },
     {
       "id": "insight-20260401-mnfwp7uk",
       "title": "Nikola Radeski — The Generalist Paradox in Personal Branding",
