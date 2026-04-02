@@ -1,7 +1,26 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-02T00:32:26.967Z",
+  "updatedAt": "2026-04-02T15:20:31.139Z",
   "items": [
+    {
+      "id": "insight-20260402-mnhmg3ab",
+      "title": "SUTÉRA — Sober Precision for XR Design Leadership",
+      "summary": "Meta lead designer portfolio: disciplined restraint + micro-interactions create authority without coldness",
+      "source": "Awwwards SOTD + Okey Studio",
+      "sourceUrl": "https://www.sutera.ch/",
+      "category": "design",
+      "tags": [
+        "typography",
+        "minimal",
+        "dark-mode",
+        "animation",
+        "GSAP",
+        "XR-design",
+        "portfolio"
+      ],
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T15:20:31.139Z"
+    },
     {
       "id": "insight-20260402-mngqq0yf",
       "title": "图形设计的三个层次：定制 UI、信息时机、摄像机语言",
