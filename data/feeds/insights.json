@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-02T00:01:37.851Z",
+  "updatedAt": "2026-04-02T00:32:26.967Z",
   "items": [
+    {
+      "id": "insight-20260402-mngqq0yf",
+      "title": "图形设计的三个层次：定制 UI、信息时机、摄像机语言",
+      "summary": "Design Doc 第 18 期解析三款游戏的图形设计：Super Battle Golf 的定制功率条、FFX 闪电球的灾难性教程、RE9 的双摄像机系统。核心洞察：好的 UI 是为游戏独特性量身定制的，而不是套用通用解法。",
+      "source": "Design Doc",
+      "sourceUrl": "https://www.youtube.com/watch?v=o86rWZlF30g",
+      "category": "game-ux",
+      "tags": [
+        "UI Design",
+        "Tutorial Design",
+        "Camera Systems",
+        "Information Architecture"
+      ],
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T00:32:26.967Z"
+    },
     {
       "id": "insight-20260402-mngpme63",
       "title": "AI 对游戏业的双重侵蚀：从基础设施到创作价值",
