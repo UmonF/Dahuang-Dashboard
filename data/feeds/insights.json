@@ -1,7 +1,26 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-03T00:31:32.397Z",
+  "updatedAt": "2026-04-03T10:32:07.739Z",
   "items": [
+    {
+      "id": "insight-20260403-mnirl2kb",
+      "title": "iyO.ai — 看不见的界面，说话的电脑",
+      "summary": "当产品消灭了屏幕，网站如何成为那块屏幕？Chladni 声纹、爆炸视图、3D 配置器——一场关于 screenless computing 的视觉宣言",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://www.iyo.ai/",
+      "category": "design",
+      "tags": [
+        "3D",
+        "WebGL",
+        "dark-mode",
+        "e-commerce",
+        "minimal",
+        "animation",
+        "product-showcase"
+      ],
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T10:32:07.739Z"
+    },
     {
       "id": "insight-20260403-mni64pil",
       "title": "Active vs Passive: Zelda 的设计范式转换",
