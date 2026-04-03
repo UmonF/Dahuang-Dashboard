@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-31T10:02:08.520Z",
+  "updatedAt": "2026-04-03T10:02:58.841Z",
   "items": [
+    {
+      "id": "note-20260403-mniqjl3s",
+      "title": "边界与无界",
+      "author": "Quanta Magazine + 黄涛",
+      "category": "science",
+      "summary": "理解世界需要边界，而最真实的世界往往没有边界",
+      "highlights": [
+        "The whole machinery of quantum mechanics is built on the idea that there's a quantum system, and then some big, giant experimentalist comes along and measures that system.",
+        "寒食上墓，礼经无文，近世相传，浸以成俗。"
+      ],
+      "thoughts": "理解需要边界——无论是量子测量还是节日定义",
+      "rating": 5,
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T10:02:58.840Z"
+    },
     {
       "id": "note-20260331-mneg6y9z",
       "title": "边界、视野与融合",
