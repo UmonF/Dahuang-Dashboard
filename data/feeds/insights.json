@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-02T15:20:31.139Z",
+  "updatedAt": "2026-04-03T00:01:08.385Z",
   "items": [
+    {
+      "id": "insight-20260403-mni51m3l",
+      "title": "AI 的三重压迫：替代、吞噬、洗白",
+      "summary": "Warhorse 用 AI 取代翻译，Hathora 被 AI 公司收购致 Stormgate 断服，「AI 洗白」裁员成为新常态",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Layoffs"
+      ],
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T00:01:08.385Z"
+    },
     {
       "id": "insight-20260402-mnhmg3ab",
       "title": "SUTÉRA — Sober Precision for XR Design Leadership",
