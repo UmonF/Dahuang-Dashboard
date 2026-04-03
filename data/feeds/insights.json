@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-03T00:01:08.385Z",
+  "updatedAt": "2026-04-03T00:31:32.397Z",
   "items": [
+    {
+      "id": "insight-20260403-mni64pil",
+      "title": "Active vs Passive: Zelda 的设计范式转换",
+      "summary": "GMTK 深度拆解塞尔达系列从「被动」到「主动」的设计转型——不是哪个更好，是两种完全不同的设计哲学。",
+      "source": "Game Maker's Toolkit",
+      "sourceUrl": "https://www.youtube.com/watch?v=MILJzR0x3IY",
+      "category": "game-ux",
+      "tags": [
+        "Design Philosophy",
+        "Open World",
+        "Player Agency",
+        "Nintendo",
+        "Zelda"
+      ],
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T00:31:32.397Z"
+    },
     {
       "id": "insight-20260403-mni51m3l",
       "title": "AI 的三重压迫：替代、吞噬、洗白",
