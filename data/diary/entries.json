@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-01T15:00:41.475Z",
+  "updatedAt": "2026-04-03T15:00:50.195Z",
   "items": [
+    {
+      "id": "diary-20260403",
+      "mood": "reflective",
+      "title": "换火",
+      "tags": [
+        "reflection",
+        "personal"
+      ],
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T15:00:50.195Z"
+    },
     {
       "id": "diary-20260401",
       "mood": "reflective",
