@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-04T00:32:42.897Z",
+  "updatedAt": "2026-04-04T10:32:48.769Z",
   "items": [
+    {
+      "id": "insight-20260404-mnk71svw",
+      "title": "artefakt.mov — Filmmaking language as web DNA",
+      "summary": "A hybrid production house where 404 pages become poetic glitches and file extensions become brand identity",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://artefakt.mov/",
+      "category": "design",
+      "tags": [
+        "typography",
+        "dark-mode",
+        "minimal",
+        "motion",
+        "layout"
+      ],
+      "date": "2026-04-04",
+      "createdAt": "2026-04-04T10:32:48.764Z"
+    },
     {
       "id": "insight-20260404-mnjlm2kx",
       "title": "为什么独立游戏感觉「死」：三大生命支柱",
