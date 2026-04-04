@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-04T00:01:18.739Z",
+  "updatedAt": "2026-04-04T00:32:42.897Z",
   "items": [
+    {
+      "id": "insight-20260404-mnjlm2kx",
+      "title": "为什么独立游戏感觉「死」：三大生命支柱",
+      "summary": "拆解让游戏世界「活过来」的三大核心支柱：反应性、音频身份、层次对齐。不是画面问题，是系统性的感知设计。",
+      "source": "Overload (YouTube)",
+      "sourceUrl": "https://www.youtube.com/watch?v=MSMM58AntaY",
+      "category": "game-ux",
+      "tags": [
+        "Game Feel",
+        "Audio Design",
+        "Environmental Design",
+        "Player Feedback",
+        "Immersion"
+      ],
+      "date": "2026-04-04",
+      "createdAt": "2026-04-04T00:32:42.897Z"
+    },
     {
       "id": "insight-20260404-mnjkhor7",
       "title": "建与拆：游戏AI的两种命运",
