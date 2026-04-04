@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-03T10:32:07.739Z",
+  "updatedAt": "2026-04-04T00:01:18.739Z",
   "items": [
+    {
+      "id": "insight-20260404-mnjkhor7",
+      "title": "建与拆：游戏AI的两种命运",
+      "summary": "Take-Two 裁撤 AI 团队 vs Sony 收购 AI 视觉公司，行业分化加剧",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Take-Two",
+        "Sony",
+        "Indie Games"
+      ],
+      "date": "2026-04-04",
+      "createdAt": "2026-04-04T00:01:18.739Z"
+    },
     {
       "id": "insight-20260403-mnirl2kb",
       "title": "iyO.ai — 看不见的界面，说话的电脑",
