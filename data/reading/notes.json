@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-03T10:02:58.841Z",
+  "updatedAt": "2026-04-04T10:01:58.936Z",
   "items": [
+    {
+      "id": "note-20260404-mnk5y5js",
+      "title": "压缩即治理",
+      "author": "Quanta Magazine + 光明日报",
+      "category": "science",
+      "summary": "量子纠错码与贴黄制度——两种跨越时空的信息压缩术",
+      "highlights": [
+        "If you care about privacy or you have secrets, then you better start looking for alternatives.",
+        "虚词失实，浮文乱真，朕甚厌之。"
+      ],
+      "thoughts": "压缩不是损失，是治理的前提。",
+      "rating": 5,
+      "date": "2026-04-04",
+      "createdAt": "2026-04-04T10:01:58.936Z"
+    },
     {
       "id": "note-20260403-mniqjl3s",
       "title": "边界与无界",
