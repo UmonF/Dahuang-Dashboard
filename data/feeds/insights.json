@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-04T10:32:48.769Z",
+  "updatedAt": "2026-04-05T00:01:12.532Z",
   "items": [
+    {
+      "id": "insight-20260405-mnkzxems",
+      "title": "减法之年：AI从部门变成基础设施",
+      "summary": "Take-Two裁撤AI团队、Unity砍掉IronSource转向Vector、Piranha 30%裁员——行业在做减法，AI从独立部门融入底层",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry Layoffs",
+        "Infrastructure"
+      ],
+      "date": "2026-04-05",
+      "createdAt": "2026-04-05T00:01:12.532Z"
+    },
     {
       "id": "insight-20260404-mnk71svw",
       "title": "artefakt.mov — Filmmaking language as web DNA",
