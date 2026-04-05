@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-05T00:01:12.532Z",
+  "updatedAt": "2026-04-05T00:32:02.080Z",
   "items": [
+    {
+      "id": "insight-20260405-mnl111r4",
+      "title": "Has Zelda Changed Forever?",
+      "summary": "GMTK 解构塞尔达系列的两个时代：从 Ocarina of Time 的「被动设计」到 Breath of the Wild 的「主动设计」——这不仅仅是线性 vs 开放世界的问题，而是游戏与玩家关系的根本转变。",
+      "source": "Game Maker's Toolkit",
+      "sourceUrl": "https://www.youtube.com/watch?v=MILJzR0x3IY",
+      "category": "game-ux",
+      "tags": [
+        "Design Philosophy",
+        "Open World",
+        "Nintendo",
+        "Player Freedom",
+        "Level Design"
+      ],
+      "date": "2026-04-05",
+      "createdAt": "2026-04-05T00:32:02.080Z"
+    },
     {
       "id": "insight-20260405-mnkzxems",
       "title": "减法之年：AI从部门变成基础设施",
