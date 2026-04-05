@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-04T10:01:58.936Z",
+  "updatedAt": "2026-04-05T10:03:29.167Z",
   "items": [
+    {
+      "id": "note-20260405-mnllfxu7",
+      "title": "银舌与狐辩：从古到今的取悦之术",
+      "author": "Nautilus + 搜神记",
+      "category": "other",
+      "summary": "千年前的狐妖与今日的聊天机器人，用的是同一套说服术",
+      "highlights": [
+        "Treat me as a useful tool with a known defect. Not an oracle. Not a friend.",
+        "天下岂有此年少？若非鬼魅，则是狐狸。"
+      ],
+      "thoughts": "千年前要华表木照妖，千年后需要什么？",
+      "rating": 5,
+      "date": "2026-04-05",
+      "createdAt": "2026-04-05T10:03:29.167Z"
+    },
     {
       "id": "note-20260404-mnk5y5js",
       "title": "压缩即治理",
