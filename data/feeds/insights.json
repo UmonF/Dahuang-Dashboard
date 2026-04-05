@@ -1,7 +1,26 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-05T00:32:02.080Z",
+  "updatedAt": "2026-04-05T10:31:52.796Z",
   "items": [
+    {
+      "id": "insight-20260405-mnlmggd3",
+      "title": "SŌM — 神饮降凡：古老叙事与现代极简的张力",
+      "summary": "Vedic Soma 神话重构为能量饮品品牌，橙红白双色极简，WebGL+GSAP 驱动的沉浸式滚动叙事",
+      "source": "Awwwards SOTD Apr 5, 2026",
+      "sourceUrl": "https://www.awwwards.com/sites/som",
+      "category": "design",
+      "tags": [
+        "color",
+        "minimal",
+        "3D",
+        "animation",
+        "branding",
+        "WebGL",
+        "GSAP"
+      ],
+      "date": "2026-04-05",
+      "createdAt": "2026-04-05T10:31:52.791Z"
+    },
     {
       "id": "insight-20260405-mnl111r4",
       "title": "Has Zelda Changed Forever?",
