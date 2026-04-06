@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-06T00:32:21.441Z",
+  "updatedAt": "2026-04-06T10:31:47.546Z",
   "items": [
+    {
+      "id": "insight-20260406-mnn1w6ze",
+      "title": "Champions For Good — 运动感的 Playful 品牌设计",
+      "summary": "用色彩和动效传递体育精神，Lottie + GSAP + Webflow 的轻量级但有力组合",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://www.champions4good.club/",
+      "category": "design",
+      "tags": [
+        "color",
+        "animation",
+        "branding",
+        "illustration",
+        "webflow"
+      ],
+      "date": "2026-04-06",
+      "createdAt": "2026-04-06T10:31:47.546Z"
+    },
     {
       "id": "insight-20260406-mnmghbcx",
       "title": "The Mechanic That's Impossible to Balance — Failure",
