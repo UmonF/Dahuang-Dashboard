@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-06T00:01:26.527Z",
+  "updatedAt": "2026-04-06T00:32:21.441Z",
   "items": [
+    {
+      "id": "insight-20260406-mnmghbcx",
+      "title": "The Mechanic That's Impossible to Balance — Failure",
+      "summary": "失败是游戏的核心机制，但也是最难平衡的。Razbuten 拆解了为什么玩家需要失败却讨厌失败，以及 roguelite 如何软化失败、Silksong 的 runback 争议、时间限制的心理负担。",
+      "source": "Razbuten",
+      "sourceUrl": "https://www.youtube.com/watch?v=fMbVMO4FfHE",
+      "category": "game-ux",
+      "tags": [
+        "Failure Design",
+        "Difficulty Balance",
+        "Roguelite",
+        "Player Psychology",
+        "Silksong"
+      ],
+      "date": "2026-04-06",
+      "createdAt": "2026-04-06T00:32:21.441Z"
+    },
     {
       "id": "insight-20260406-mnmfdk3j",
       "title": "平台与团队：AI 能力归谁所有",
