@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-07T00:01:16.091Z",
+  "updatedAt": "2026-04-07T00:32:13.067Z",
   "items": [
+    {
+      "id": "insight-20260407-mnnvwzkb",
+      "title": "UI 创新的三种形态：适应、改良、与时代对话",
+      "summary": "从 Super Battle Golf 的地形切片 UI、FFX Blitzball 的教程灾难、到 RE9 的双视角系统——UI 不是装饰，是游戏核心循环的一部分。",
+      "source": "Design Doc",
+      "sourceUrl": "https://www.youtube.com/watch?v=o86rWZlF30g",
+      "category": "game-ux",
+      "tags": [
+        "UI Design",
+        "Information Design",
+        "Camera Design",
+        "Tutorial Design",
+        "Good Design Bad Design"
+      ],
+      "date": "2026-04-07",
+      "createdAt": "2026-04-07T00:32:13.067Z"
+    },
     {
       "id": "insight-20260407-mnnut6pn",
       "title": "AI 的两极：狂热与退却",
