@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-06T10:03:38.399Z",
+  "updatedAt": "2026-04-07T10:03:25.912Z",
   "items": [
+    {
+      "id": "note-20260407-mnogbkns",
+      "title": "隐秘网络与生者狂欢",
+      "author": "Quanta Magazine + 刘畅 (南开大学)",
+      "category": "science",
+      "summary": "地下菌根网络与宋代清明习俗的跨域共鸣——在不可见中支撑可见的繁荣",
+      "highlights": [
+        "Some people just see dirt as dirt. But it is a living, breathing system.",
+        "普通老百姓并不在乎介子推到底做了什么，在乎的只是在这样一个节日中能否得到些许的快乐",
+        "寒食有内伤之虞，故令人作秋千、蹴鞠之戏，以动荡之"
+      ],
+      "thoughts": "地下与地上、死者与生者——真正的支撑总是隐秘的",
+      "rating": 5,
+      "date": "2026-04-07",
+      "createdAt": "2026-04-07T10:03:25.912Z"
+    },
     {
       "id": "note-20260406-mnn0vzmn",
       "title": "禁忌存在与报恩螺旋",
