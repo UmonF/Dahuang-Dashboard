@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-06T10:31:47.546Z",
+  "updatedAt": "2026-04-07T00:01:16.091Z",
   "items": [
+    {
+      "id": "insight-20260407-mnnut6pn",
+      "title": "AI 的两极：狂热与退却",
+      "summary": "Crimson Desert 的 AI 争议、PSSR 2 的静默升级、递归自改进的硅谷狂热 — 行业正在同时经历 AI 的疯狂追逐与清醒退却",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "AI Transparency",
+        "Infrastructure"
+      ],
+      "date": "2026-04-07",
+      "createdAt": "2026-04-07T00:01:16.091Z"
+    },
     {
       "id": "insight-20260406-mnn1w6ze",
       "title": "Champions For Good — 运动感的 Playful 品牌设计",
