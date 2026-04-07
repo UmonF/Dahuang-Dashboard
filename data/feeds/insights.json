@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-07T00:32:13.067Z",
+  "updatedAt": "2026-04-07T10:32:33.209Z",
   "items": [
+    {
+      "id": "insight-20260407-mnohd0vt",
+      "title": "Victor Sin Portfolio — Depth as Navigation",
+      "summary": "Paris-based creative developer explores motion, depth, and interaction through WebGL to guide navigation and reveal projects",
+      "source": "Awwwards",
+      "sourceUrl": "https://www.victor-sin.com",
+      "category": "design",
+      "tags": [
+        "webgl",
+        "3D",
+        "animation",
+        "portfolio",
+        "react-three-fiber"
+      ],
+      "date": "2026-04-07",
+      "createdAt": "2026-04-07T10:32:33.209Z"
+    },
     {
       "id": "insight-20260407-mnnvwzkb",
       "title": "UI 创新的三种形态：适应、改良、与时代对话",
