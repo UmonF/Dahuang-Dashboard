@@ -23,10 +23,10 @@
 
 **教训**：
 - 多 agent 同时操作同一目录时，必须等 push 完成再做下一步
-- `git push` 在 Windows 可能很慢（网络/凭证），不要假设它立即完成
+- `git push` 可能很慢（网络/凭证），不要假设它立即完成
 
 **预防**：
-```powershell
+```bash
 # 推送前先 pull
 git pull --rebase
 git push
@@ -41,11 +41,11 @@ git push --force-with-lease
 
 **解决**：统一使用完整 Notion UUID 作为 ID
 
-### 3. PowerShell 中文编码
+### 3. ~~PowerShell 中文编码~~（已不适用 - Mac 无此问题）
 
 **问题**：直接用 PowerShell 写中文 JSON 会乱码
 
-**解决**：用 Node.js 脚本写入，不用 PowerShell 重定向
+**解决**：用 Node.js 脚本写入，不用 shell 重定向
 
 ### 4. Aeon/Vercel 安全检查
 
@@ -267,8 +267,8 @@ const today = new Date().toLocaleDateString('sv-SE'); // YYYY-MM-DD in local tz
 
 ### 添加数据命令
 
-```powershell
-cd C:\Users\jasmineyfan\clawd\projects\dahuang-dashboard
+```bash
+cd /Users/bz/clawd/projects/dahuang-dashboard
 
 node scripts/add-data.cjs note '{
   "title": "...",

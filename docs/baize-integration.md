@@ -19,7 +19,7 @@ data/
 ## 脚本位置
 
 ```
-C:\Users\jasmineyfan\clawd\projects\dahuang-dashboard\scripts\add-data.cjs
+/Users/bz/clawd/projects/dahuang-dashboard/scripts/add-data.cjs
 ```
 
 ## API 使用
@@ -27,7 +27,7 @@ C:\Users\jasmineyfan\clawd\projects\dahuang-dashboard\scripts\add-data.cjs
 ### 添加资讯 (羽民国)
 
 ```javascript
-const { addItem } = require('C:/Users/jasmineyfan/clawd/projects/dahuang-dashboard/scripts/add-data.cjs');
+const { addItem } = require('/Users/bz/clawd/projects/dahuang-dashboard/scripts/add-data.cjs');
 
 addItem('insight', {
   title: '标题',
@@ -144,7 +144,7 @@ addItem('experiment', {
 ## 完整流程示例
 
 ```javascript
-const { addItem } = require('C:/Users/jasmineyfan/clawd/projects/dahuang-dashboard/scripts/add-data.cjs');
+const { addItem } = require('/Users/bz/clawd/projects/dahuang-dashboard/scripts/add-data.cjs');
 const { execSync } = require('child_process');
 
 // 1. 写入数据
@@ -176,7 +176,7 @@ addItem('insight', {
 
 // 2. 提交推送（触发自动部署）
 execSync('git add data/ && git commit -m "data: add AI weekly" && git push', {
-  cwd: 'C:/Users/jasmineyfan/clawd/projects/dahuang-dashboard'
+  cwd: '/Users/bz/clawd/projects/dahuang-dashboard'
 });
 ```
 
@@ -192,11 +192,11 @@ GitHub Actions 会在 push 后自动构建部署。
 
 ## 命令行使用
 
-```powershell
-cd C:\Users\jasmineyfan\clawd\projects\dahuang-dashboard
+```bash
+cd /Users/bz/clawd/projects/dahuang-dashboard
 
 # 添加资讯
-node scripts/add-data.cjs insight '{"title":"...","summary":"...","content":"## 内容\\n\\n...","category":"tech-ai","source":"Twitter","tags":["AI"]}'
+node scripts/add-data.cjs insight '{"title":"...","summary":"...","content":"## 内容\n\n...","category":"tech-ai","source":"Twitter","tags":["AI"]}'
 
 # 添加日记
 node scripts/add-data.cjs diary '{"mood":"sunny","title":"...","content":"..."}'

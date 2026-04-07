@@ -6,7 +6,7 @@
 
 - **仓库**: https://github.com/UmonF/Dahuang-Dashboard
 - **线上**: https://umonf.github.io/Dahuang-Dashboard/
-- **本地**: `C:\Users\jasmineyfan\clawd\projects\dahuang-dashboard`
+- **本地**: `/Users/bz/clawd/projects/dahuang-dashboard`
 - **技术栈**: Vite 8 + React + TypeScript + Framer Motion + Tailwind 4
 
 ## 架构
@@ -38,7 +38,7 @@ addItem('insight', {
 
 ### 部署流程
 
-```powershell
+```bash
 git add data/
 git commit -m "data(type): title"
 git push
@@ -184,7 +184,7 @@ git show <commit>:data/reading/notes.json
 
 ```javascript
 // 在任何 Node 脚本中
-const { addItem } = require('C:/Users/jasmineyfan/clawd/projects/dahuang-dashboard/scripts/add-data.cjs');
+const { addItem } = require('/Users/bz/clawd/projects/dahuang-dashboard/scripts/add-data.cjs');
 
 // 资讯
 addItem('insight', { title, summary, content, category, source, sourceUrl, tags });
@@ -201,8 +201,8 @@ addItem('experiment', { title, description, content, status, tags });
 
 ### 本地开发
 
-```powershell
-cd C:\Users\jasmineyfan\clawd\projects\dahuang-dashboard
+```bash
+cd /Users/bz/clawd/projects/dahuang-dashboard
 npm run dev      # 启动开发服务器
 npm run build    # 构建
 npm run preview  # 预览构建结果
@@ -210,7 +210,7 @@ npm run preview  # 预览构建结果
 
 ### 部署
 
-```powershell
+```bash
 git add data/
 git commit -m "data(type): description"
 git push
