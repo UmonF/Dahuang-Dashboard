@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-07T10:03:25.912Z",
+  "updatedAt": "2026-04-08T10:02:57.817Z",
   "items": [
+    {
+      "id": "note-20260408-mnpvqtnd",
+      "title": "语言的边界即治理的边界",
+      "author": "Quanta Magazine + 学习时报",
+      "category": "science",
+      "summary": "当框架本身不适配问题的性质，沉默比错误答案更诚实",
+      "highlights": [
+        "Not having the right language actually prevents you from thinking clearly.",
+        "郡、县在战国时代都是军区，并不是行政区，至秦统一后才真正完成行政上的转变"
+      ],
+      "thoughts": "当框架与问题性质不匹配时，沉默是诚实；语言边界即治理边界",
+      "rating": 5,
+      "date": "2026-04-08",
+      "createdAt": "2026-04-08T10:02:57.817Z"
+    },
     {
       "id": "note-20260407-mnogbkns",
       "title": "隐秘网络与生者狂欢",
