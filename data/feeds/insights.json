@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-08T00:32:55.711Z",
+  "updatedAt": "2026-04-08T10:31:35.986Z",
   "items": [
+    {
+      "id": "insight-20260408-mnpwrnea",
+      "title": "Maxima Therapy — Playful Warmth for Neurodivergence",
+      "summary": "Awwwards SOTD; therapy website that rejects clinical coldness through illustrated worlds, program-specific color palettes, and physics-based playfulness",
+      "source": "Awwwards",
+      "sourceUrl": "https://www.awwwards.com/sites/maxima-therapy",
+      "category": "design",
+      "tags": [
+        "illustration",
+        "animation",
+        "color",
+        "branding",
+        "GSAP",
+        "healthcare"
+      ],
+      "date": "2026-04-08",
+      "createdAt": "2026-04-08T10:31:35.986Z"
+    },
     {
       "id": "insight-20260408-mnpbdr4v",
       "title": "为什么邪恶这么性感？——角色吸引力的心理学",
