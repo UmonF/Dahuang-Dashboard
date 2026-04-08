@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-08T00:01:36.305Z",
+  "updatedAt": "2026-04-08T00:32:55.711Z",
   "items": [
+    {
+      "id": "insight-20260408-mnpbdr4v",
+      "title": "为什么邪恶这么性感？——角色吸引力的心理学",
+      "summary": "Daryl Talks Games 深度分析：从 Joe Goldberg 到 Makima，现代反派为何比英雄更迷人？光环效应、道德模糊性、以及\"可救赎感\"如何操控观众情感。",
+      "source": "Daryl Talks Games",
+      "sourceUrl": "https://youtube.com/watch?v=rURVfYOkfZk",
+      "category": "game-ux",
+      "tags": [
+        "Character Design",
+        "Player Psychology",
+        "Narrative Design",
+        "Halo Effect"
+      ],
+      "date": "2026-04-08",
+      "createdAt": "2026-04-08T00:32:55.711Z"
+    },
     {
       "id": "insight-20260408-mnpa9gz5",
       "title": "NVIDIA 的两张面孔：AI 可见性悖论",
