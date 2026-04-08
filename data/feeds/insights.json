@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-07T10:32:33.209Z",
+  "updatedAt": "2026-04-08T00:01:36.305Z",
   "items": [
+    {
+      "id": "insight-20260408-mnpa9gz5",
+      "title": "NVIDIA 的两张面孔：AI 可见性悖论",
+      "summary": "DLSS 5 被骂「AI slop」，Neural Texture Compression 却无人在意——可见性决定了玩家的接受度",
+      "source": "Multiple (NVIDIA GTC 2026, NotebookCheck, Tom's Hardware, Foro3D)",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "NVIDIA",
+        "DLSS 5",
+        "AI Perception"
+      ],
+      "date": "2026-04-08",
+      "createdAt": "2026-04-08T00:01:36.305Z"
+    },
     {
       "id": "insight-20260407-mnohd0vt",
       "title": "Victor Sin Portfolio — Depth as Navigation",
