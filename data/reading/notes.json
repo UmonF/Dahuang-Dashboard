@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-08T10:02:57.817Z",
+  "updatedAt": "2026-04-09T10:02:34.154Z",
   "items": [
+    {
+      "id": "note-20260409-mnrb6622",
+      "title": "死去的假说与不死的蛇",
+      "author": "Quanta (Sterile Neutrinos) + 搜神记·邛都蛇女",
+      "category": "science",
+      "summary": "当理论被证伪，当恩情被辜负，秩序如何重建？",
+      "highlights": [
+        "I would not want to die and have it be completely open.",
+        "风静水清，犹见城郭楼橹畟然。"
+      ],
+      "thoughts": "闭合是一种慈悲——无论是科学上的证伪，还是湖底的永封。",
+      "rating": 5,
+      "date": "2026-04-09",
+      "createdAt": "2026-04-09T10:02:34.154Z"
+    },
     {
       "id": "note-20260408-mnpvqtnd",
       "title": "语言的边界即治理的边界",
