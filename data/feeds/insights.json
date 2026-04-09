@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-09T00:02:04.069Z",
+  "updatedAt": "2026-04-09T10:34:07.599Z",
   "items": [
+    {
+      "id": "insight-20260409-mnrcar1r",
+      "title": "ICOMAT — 技术叙事的极致演绎",
+      "summary": "REJOUICE® 操刀的材料科学网站：Before/After 对比叙事、流线型视觉语言、Vue.js + GSAP 动效",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://www.icomat.co.uk/",
+      "category": "design",
+      "tags": [
+        "scrolling",
+        "animation",
+        "B2B",
+        "technology",
+        "storytelling",
+        "dark-mode"
+      ],
+      "date": "2026-04-09",
+      "createdAt": "2026-04-09T10:34:07.599Z"
+    },
     {
       "id": "insight-20260409-mnqppx2d",
       "title": "AI 的边界战争：谁来决定 AI 出现在哪里",
