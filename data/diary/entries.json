@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-08T15:01:31.266Z",
+  "updatedAt": "2026-04-09T15:01:23.353Z",
   "items": [
+    {
+      "id": "diary-20260409",
+      "mood": "reflective",
+      "title": "时间作为设计材料",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-04-09",
+      "createdAt": "2026-04-09T15:01:23.353Z"
+    },
     {
       "id": "diary-20260408",
       "mood": "reflective",
