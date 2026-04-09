@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-08T10:31:35.986Z",
+  "updatedAt": "2026-04-09T00:02:04.069Z",
   "items": [
+    {
+      "id": "insight-20260409-mnqppx2d",
+      "title": "AI 的边界战争：谁来决定 AI 出现在哪里",
+      "summary": "Stormgate 因 AI 收购断服、DLSS 5 trailer 被自动版权算法移除——AI 正在从「选项」变成「环境」",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "DLSS",
+        "Infrastructure"
+      ],
+      "date": "2026-04-09",
+      "createdAt": "2026-04-09T00:02:04.069Z"
+    },
     {
       "id": "insight-20260408-mnpwrnea",
       "title": "Maxima Therapy — Playful Warmth for Neurodivergence",
