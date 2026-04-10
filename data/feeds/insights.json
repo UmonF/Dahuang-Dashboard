@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-10T00:01:56.943Z",
+  "updatedAt": "2026-04-10T10:32:57.610Z",
   "items": [
+    {
+      "id": "insight-20260410-mnsrp3pm",
+      "title": "Nine To Five Studio — 书脊即导航",
+      "summary": "意大利建筑工作室网站，将建筑蓝图的书脊装订概念转化为水平滚动导航，精确度 = 品牌身份",
+      "source": "Awwwards SOTD Apr 9",
+      "sourceUrl": "https://www.9to5studio.it",
+      "category": "design",
+      "tags": [
+        "horizontal-scroll",
+        "typography",
+        "architecture",
+        "minimal",
+        "navigation",
+        "nuxt"
+      ],
+      "date": "2026-04-10",
+      "createdAt": "2026-04-10T10:32:57.610Z"
+    },
     {
       "id": "insight-20260410-mns55m8f",
       "title": "AI 的木马与人的断层",
