@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-09T10:34:07.599Z",
+  "updatedAt": "2026-04-10T00:01:56.943Z",
   "items": [
+    {
+      "id": "insight-20260410-mns55m8f",
+      "title": "AI 的木马与人的断层",
+      "summary": "Nexon 将 Arc Raiders 称为 AI 开发的\"特洛伊木马\"；行业裁员造成的高级人才断层可能比想象更严重",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Layoffs",
+        "Nexon",
+        "Epic Games"
+      ],
+      "date": "2026-04-10",
+      "createdAt": "2026-04-10T00:01:56.943Z"
+    },
     {
       "id": "insight-20260409-mnrcar1r",
       "title": "ICOMAT — 技术叙事的极致演绎",
