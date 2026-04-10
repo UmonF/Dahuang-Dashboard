@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-09T10:02:34.154Z",
+  "updatedAt": "2026-04-10T10:02:11.950Z",
   "items": [
+    {
+      "id": "note-20260410-mnsqljla",
+      "title": "生存的退让与传承的变形",
+      "author": "Nautilus + 首都之窗",
+      "category": "science",
+      "summary": "从鹦鹉螺到秋千：适应性改变如何让形式存活",
+      "highlights": [
+        "Modern nautiloids have evolved to find food using chemoreception in the darker ocean depths instead of vision.",
+        "发源于北方山戎人的荡秋千，其源泉应上溯到早期人类采摘食物的生产活动。"
+      ],
+      "thoughts": "存活不是不变，是找到新的理由存在",
+      "rating": 5,
+      "date": "2026-04-10",
+      "createdAt": "2026-04-10T10:02:11.950Z"
+    },
     {
       "id": "note-20260409-mnrb6622",
       "title": "死去的假说与不死的蛇",
