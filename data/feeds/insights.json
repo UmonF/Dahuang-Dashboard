@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-10T10:32:57.610Z",
+  "updatedAt": "2026-04-11T00:01:28.396Z",
   "items": [
+    {
+      "id": "insight-20260411-mntkkuvg",
+      "title": "混沌中的筛选：AI 的 1% 法则与行业断代",
+      "summary": "Keywords Studios 测试 500+ AI 工具只留下 6 个，隐性知识传承面临断裂。",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Layoffs",
+        "Keywords Studios"
+      ],
+      "date": "2026-04-11",
+      "createdAt": "2026-04-11T00:01:28.396Z"
+    },
     {
       "id": "insight-20260410-mnsrp3pm",
       "title": "Nine To Five Studio — 书脊即导航",
