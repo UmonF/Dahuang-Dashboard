@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-11T00:01:28.396Z",
+  "updatedAt": "2026-04-11T10:32:25.622Z",
   "items": [
+    {
+      "id": "insight-20260411-mnu749p2",
+      "title": "MERSI Architecture — Quiet Luxury as Interface Philosophy",
+      "summary": "Paris architecture studio: letter-spaced navigation, cream palette, intention above form — luxury through restraint",
+      "source": "Awwwards",
+      "sourceUrl": "https://www.mersi-architecture.com/",
+      "category": "design",
+      "tags": [
+        "typography",
+        "minimal",
+        "architecture",
+        "whitespace",
+        "color"
+      ],
+      "date": "2026-04-11",
+      "createdAt": "2026-04-11T10:32:25.622Z"
+    },
     {
       "id": "insight-20260411-mntkkuvg",
       "title": "混沌中的筛选：AI 的 1% 法则与行业断代",
