@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-11T10:02:34.827Z",
+  "updatedAt": "2026-04-16T10:03:09.079Z",
   "items": [
+    {
+      "id": "note-20260416-mo1b9vo6",
+      "title": "变化的规律：AI 与志怪中的同一命题",
+      "author": "Quanta Magazine + 搜神记",
+      "category": "science",
+      "summary": "从万物化生到神经网络：变化需要规则，但规则不是变化本身",
+      "highlights": [
+        "It's a structure that's been sitting there for 50 years in front of our nose. We just hadn't noticed it.",
+        "方其为人，不知其将为虎也；方其为虎，不知其常为人也。",
+        "农夫止麦之化者，沤之以灰；圣人理万物之化者，济之以道。"
+      ],
+      "thoughts": "变化的规律可以被发现，但变化本身不可预测——AI 和古人的智慧在这一点上达成了共识",
+      "rating": 5,
+      "date": "2026-04-16",
+      "createdAt": "2026-04-16T10:03:09.078Z"
+    },
     {
       "id": "note-20260411-mnu61vwr",
       "title": "退让即生存",
