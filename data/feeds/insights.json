@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-16T00:02:20.173Z",
+  "updatedAt": "2026-04-16T00:32:13.182Z",
   "items": [
+    {
+      "id": "insight-20260416-mo0qvnni",
+      "title": "Boss 设计的系统对齐问题",
+      "summary": "Crimson Desert Boss 战为什么感觉怪？核心问题不是难度，是玩家和 Boss 不在同一套规则下运作。当你承诺动作、受动画约束时，Boss 却能随意打断逻辑。",
+      "source": "Dopamine Hunter",
+      "sourceUrl": "https://www.youtube.com/watch?v=okLqiVDjRus",
+      "category": "game-ux",
+      "tags": [
+        "Boss Design",
+        "System Alignment",
+        "Difficulty Design",
+        "Player Psychology",
+        "Crimson Desert"
+      ],
+      "date": "2026-04-16",
+      "createdAt": "2026-04-16T00:32:13.182Z"
+    },
     {
       "id": "insight-20260416-mo0pt85p",
       "title": "AI 工具的 1% 法则",
