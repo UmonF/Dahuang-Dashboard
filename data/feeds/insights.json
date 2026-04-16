@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-11T10:32:25.622Z",
+  "updatedAt": "2026-04-16T00:02:20.173Z",
   "items": [
+    {
+      "id": "insight-20260416-mo0pt85p",
+      "title": "AI 工具的 1% 法则",
+      "summary": "Keywords Studios 测试 500+ AI 工具只有 6 个真正有用，UNLV 报告揭示全行业治理评分仅 30/100",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry Report",
+        "GDC 2026"
+      ],
+      "date": "2026-04-16",
+      "createdAt": "2026-04-16T00:02:20.173Z"
+    },
     {
       "id": "insight-20260411-mnu749p2",
       "title": "MERSI Architecture — Quiet Luxury as Interface Philosophy",
