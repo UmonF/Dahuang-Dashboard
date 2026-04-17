@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-09T15:01:23.353Z",
+  "updatedAt": "2026-04-17T15:01:00.967Z",
   "items": [
+    {
+      "id": "diary-20260417",
+      "mood": "calm",
+      "title": "沉淀日",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-04-17",
+      "createdAt": "2026-04-17T15:01:00.967Z"
+    },
     {
       "id": "diary-20260409",
       "mood": "reflective",
