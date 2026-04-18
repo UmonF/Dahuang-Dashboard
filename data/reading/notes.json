@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-16T10:03:09.079Z",
+  "updatedAt": "2026-04-18T10:02:14.900Z",
   "items": [
+    {
+      "id": "note-20260418-mo464f78",
+      "title": "Inheritance: What Survives Across Billions of Years",
+      "author": "Quanta + CSSN",
+      "category": "science",
+      "summary": "Ancient weapons and ancient borders — what persists shapes what we become.",
+      "highlights": [
+        "The protein can't change in structure. But it can change in sequence.",
+        "饮食起居，与内地民人无异",
+        "Bacteria serve as a maker space for accelerated evolutionary experimentation"
+      ],
+      "thoughts": "Function outlives form. The rules of integration — biological or civilizational — were written long ago.",
+      "rating": 5,
+      "date": "2026-04-18",
+      "createdAt": "2026-04-18T10:02:14.900Z"
+    },
     {
       "id": "note-20260416-mo1b9vo6",
       "title": "变化的规律：AI 与志怪中的同一命题",
