@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-16T00:32:13.182Z",
+  "updatedAt": "2026-04-18T00:01:46.283Z",
   "items": [
+    {
+      "id": "insight-20260418-mo3ko7cb",
+      "title": "World Model 军备竞赛：Alibaba vs 李飞飞，游戏成为 AI 新战场",
+      "summary": "世界模型赛道爆发，游戏产业的\"初级岗位危机\"与基础设施化趋势同时浮现",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "World Model",
+        "Alibaba",
+        "GDC",
+        "Industry Trend"
+      ],
+      "date": "2026-04-18",
+      "createdAt": "2026-04-18T00:01:46.283Z"
+    },
     {
       "id": "insight-20260416-mo0qvnni",
       "title": "Boss 设计的系统对齐问题",
