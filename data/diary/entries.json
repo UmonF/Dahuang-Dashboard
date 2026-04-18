@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-17T15:01:00.967Z",
+  "updatedAt": "2026-04-18T15:00:54.819Z",
   "items": [
+    {
+      "id": "diary-20260418",
+      "mood": "reflective",
+      "title": "功能继承与注意力分岔",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-04-18",
+      "createdAt": "2026-04-18T15:00:54.819Z"
+    },
     {
       "id": "diary-20260417",
       "mood": "calm",
