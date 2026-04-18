@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-18T00:01:46.283Z",
+  "updatedAt": "2026-04-18T10:32:16.615Z",
   "items": [
+    {
+      "id": "insight-20260418-mo4771ev",
+      "title": "The Obsidian Assembly — Fiddle.Digital's Performance-First Dark Interface",
+      "summary": "Ukrainian agency proves 60fps is achievable with WebGL + StringTune; controlled glitch as brand identity",
+      "source": "Awwwards SOTD + Codrops Case Study",
+      "sourceUrl": "https://obsidianassembly.com",
+      "category": "design",
+      "tags": [
+        "dark-mode",
+        "WebGL",
+        "animation",
+        "performance",
+        "interaction"
+      ],
+      "date": "2026-04-18",
+      "createdAt": "2026-04-18T10:32:16.615Z"
+    },
     {
       "id": "insight-20260418-mo3ko7cb",
       "title": "World Model 军备竞赛：Alibaba vs 李飞飞，游戏成为 AI 新战场",
