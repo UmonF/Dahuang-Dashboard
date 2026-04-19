@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-19T00:32:55.427Z",
+  "updatedAt": "2026-04-19T10:33:03.137Z",
   "items": [
+    {
+      "id": "insight-20260419-mo5mnvz5",
+      "title": "Studio X (thisisstudiox.com) — Architecture Portfolio as Experience",
+      "summary": "Hong Kong-based interior design studio. SOTD Apr 18. Webflow + GSAP + barba.js. Portfolio-driven narrative with seamless transitions.",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://www.thisisstudiox.com",
+      "category": "design",
+      "tags": [
+        "portfolio",
+        "animation",
+        "architecture",
+        "whitespace",
+        "minimal",
+        "dark-mode"
+      ],
+      "date": "2026-04-19",
+      "createdAt": "2026-04-19T10:33:03.137Z"
+    },
     {
       "id": "insight-20260419-mo51848z",
       "title": "Marathon的「图形现实主义」：世界观设计的产品化思维",
