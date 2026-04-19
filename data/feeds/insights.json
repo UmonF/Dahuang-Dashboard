@@ -1,7 +1,40 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-18T10:32:16.615Z",
+  "updatedAt": "2026-04-19T00:32:55.427Z",
   "items": [
+    {
+      "id": "insight-20260419-mo51848z",
+      "title": "Marathon的「图形现实主义」：世界观设计的产品化思维",
+      "summary": "从Bungie艺术总监Joseph Cross的视角拆解Marathon的视觉设计哲学——如何用产品设计思维构建游戏世界。",
+      "source": "Mixed Signals [MXD]",
+      "sourceUrl": "https://www.youtube.com/watch?v=IpRkNYyObBw",
+      "category": "game-ux",
+      "tags": [
+        "World Building",
+        "Art Direction",
+        "Visual Design",
+        "Product Design",
+        "Brand Identity"
+      ],
+      "date": "2026-04-19",
+      "createdAt": "2026-04-19T00:32:55.427Z"
+    },
+    {
+      "id": "insight-20260419-mo504ei6",
+      "title": "AI 时代的生存法则：法律、裁员与新准则",
+      "summary": "游戏律师警告 AI 生成内容的 IP 风险；Panic 为 Playdate 划定 AI 红线；Iron Galaxy 宣布永久接受行业新常态",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Legal",
+        "Layoffs",
+        "Platform Policy"
+      ],
+      "date": "2026-04-19",
+      "createdAt": "2026-04-19T00:02:02.478Z"
+    },
     {
       "id": "insight-20260418-mo4771ev",
       "title": "The Obsidian Assembly — Fiddle.Digital's Performance-First Dark Interface",
