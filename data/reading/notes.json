@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-18T10:02:14.900Z",
+  "updatedAt": "2026-04-19T10:03:42.492Z",
   "items": [
+    {
+      "id": "note-20260419-mo5lm5g7",
+      "title": "信与因果",
+      "author": "Quanta Magazine + 搜神记",
+      "category": "science",
+      "summary": "从量子密码学的因果原则到古代友谊的信义之约",
+      "highlights": [
+        "巨卿信士，必不乖违。",
+        "若二子者，吾生友耳。山阳范巨卿，所谓死友也。",
+        "In terms of these cryptographic protocols, it is good to be paranoid."
+      ],
+      "thoughts": "最稳固的信任建立在最底层的原则上——无论是因果律还是对一个人本性的认知。",
+      "rating": 5,
+      "date": "2026-04-19",
+      "createdAt": "2026-04-19T10:03:42.487Z"
+    },
     {
       "id": "note-20260418-mo464f78",
       "title": "Inheritance: What Survives Across Billions of Years",
