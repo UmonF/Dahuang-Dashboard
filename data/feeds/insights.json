@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-20T00:32:15.569Z",
+  "updatedAt": "2026-04-20T10:34:31.772Z",
   "items": [
+    {
+      "id": "insight-20260420-mo725n13",
+      "title": "LOLO Agency — Love × Logic as Brand Framework",
+      "summary": "Female-led Toronto branding agency rebrand: typographic rhythm, narrative duality, Astro + Sanity architecture",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://loloagency.com",
+      "category": "design",
+      "tags": [
+        "typography",
+        "minimal",
+        "animation",
+        "branding",
+        "astro"
+      ],
+      "date": "2026-04-20",
+      "createdAt": "2026-04-20T10:34:31.767Z"
+    },
     {
       "id": "insight-20260420-mo6gn45t",
       "title": "透明度作为生存策略：Digital Extremes 的 Live Service 方法论",
