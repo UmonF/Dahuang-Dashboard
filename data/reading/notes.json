@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-19T10:03:42.492Z",
+  "updatedAt": "2026-04-20T10:02:45.639Z",
   "items": [
+    {
+      "id": "note-20260420-mo710s93",
+      "title": "恐惧的构造",
+      "author": "Quanta + 搜神记",
+      "category": "other",
+      "summary": "我们恐惧的不是智能，是欲望——但欲望需要身体",
+      "highlights": [
+        "It's not intelligence we fear, but desire.",
+        "出户，望南山，松生石上，剑在其背。",
+        "不负子也。"
+      ],
+      "thoughts": "我们害怕的从来不是力量，是力量背后的意志。但意志需要身体，需要代价，需要死亡的可能性。",
+      "rating": 5,
+      "date": "2026-04-20",
+      "createdAt": "2026-04-20T10:02:45.639Z"
+    },
     {
       "id": "note-20260419-mo5lm5g7",
       "title": "信与因果",
