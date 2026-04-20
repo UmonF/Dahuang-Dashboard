@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-19T10:33:03.137Z",
+  "updatedAt": "2026-04-20T00:32:15.569Z",
   "items": [
+    {
+      "id": "insight-20260420-mo6gn45t",
+      "title": "透明度作为生存策略：Digital Extremes 的 Live Service 方法论",
+      "summary": "「把公众审视的程度提到最高」——Warframe 工作室的反直觉生存策略：小团队、高曝光、持续迭代",
+      "source": "Game Informer",
+      "sourceUrl": "https://gameinformer.com/exclusive/2026/04/17/soulframe-the-secret-to-digital-extremes-live-service-success-is-keeping-the",
+      "category": "game-ux",
+      "tags": [
+        "Live Service",
+        "Development Philosophy",
+        "Transparency",
+        "Indie Survival"
+      ],
+      "date": "2026-04-20",
+      "createdAt": "2026-04-20T00:32:15.569Z"
+    },
     {
       "id": "insight-20260419-mo5mnvz5",
       "title": "Studio X (thisisstudiox.com) — Architecture Portfolio as Experience",
