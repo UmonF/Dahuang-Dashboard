@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-21T00:01:06.855Z",
+  "updatedAt": "2026-04-21T00:33:48.887Z",
   "items": [
+    {
+      "id": "insight-20260421-mo7w4ytz",
+      "title": "Duke Playdate 约束驱动设计教育",
+      "summary": "Duke 大学用 Playdate 掌机重新定义游戏设计教学：约束不是限制，是催化剂。1-bit 屏幕 + crank 输入迫使学生专注核心机制。",
+      "source": "Playdate News",
+      "sourceUrl": "https://news.play.date/news/duke-playdate-education/",
+      "category": "game-ux",
+      "tags": [
+        "Design Education",
+        "Constraints",
+        "Prototyping",
+        "Hardware Design",
+        "Indie Dev"
+      ],
+      "date": "2026-04-21",
+      "createdAt": "2026-04-21T00:33:48.887Z"
+    },
     {
       "id": "insight-20260421-mo7uywx3",
       "title": "The Talent Pipeline Collapse",
