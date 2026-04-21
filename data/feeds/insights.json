@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-21T00:33:48.887Z",
+  "updatedAt": "2026-04-21T10:32:37.702Z",
   "items": [
+    {
+      "id": "insight-20260421-mo8hj1om",
+      "title": "Shader Development Studio — 工匠名即方法论",
+      "summary": "Sweden 3D/AI studio; studio name as design philosophy; modular team structure; technical capability as brand identity",
+      "source": "Awwwards",
+      "sourceUrl": "https://www.shader.se",
+      "category": "design",
+      "tags": [
+        "3D",
+        "WebGL",
+        "studio",
+        "branding",
+        "motion"
+      ],
+      "date": "2026-04-21",
+      "createdAt": "2026-04-21T10:32:37.702Z"
+    },
     {
       "id": "insight-20260421-mo7w4ytz",
       "title": "Duke Playdate 约束驱动设计教育",
