@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-20T10:34:31.772Z",
+  "updatedAt": "2026-04-21T00:01:06.855Z",
   "items": [
+    {
+      "id": "insight-20260421-mo7uywx3",
+      "title": "The Talent Pipeline Collapse",
+      "summary": "44% of game developers considering exit as layoffs and AI fears converge — two data points that predict the same crisis.",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Talent Crisis",
+        "AI Labor Impact",
+        "Industry Trends"
+      ],
+      "date": "2026-04-21",
+      "createdAt": "2026-04-21T00:01:06.855Z"
+    },
     {
       "id": "insight-20260420-mo725n13",
       "title": "LOLO Agency — Love × Logic as Brand Framework",
