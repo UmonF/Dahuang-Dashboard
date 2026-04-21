@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-20T10:02:45.639Z",
+  "updatedAt": "2026-04-21T10:01:48.833Z",
   "items": [
+    {
+      "id": "note-20260421-mo8gff35",
+      "title": "动力的来源",
+      "author": "Quanta + 中国青年报",
+      "category": "science",
+      "summary": "质子动力与天雨粟——从细菌鞭毛马达到谷雨祭仓颉",
+      "highlights": [
+        "It's a really elegant way of turning a unidirectional power into bidirectional rotation.",
+        "昔者仓颉作书，而天雨粟，鬼夜哭。"
+      ],
+      "thoughts": "秩序从混沌中涌现——无论是质子流转化成鞭毛旋转，还是声音符号化成文字",
+      "rating": 5,
+      "date": "2026-04-21",
+      "createdAt": "2026-04-21T10:01:48.833Z"
+    },
     {
       "id": "note-20260420-mo710s93",
       "title": "恐惧的构造",
