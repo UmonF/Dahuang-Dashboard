@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-21T10:32:37.702Z",
+  "updatedAt": "2026-04-22T00:01:45.751Z",
   "items": [
+    {
+      "id": "insight-20260422-mo9afllj",
+      "title": "The Great Bifurcation: AI as Infrastructure vs. AI as Replacement",
+      "summary": "Industry divides along \"AI saves jobs\" vs \"AI takes jobs\" — Google and Ubisoft push mandatory adoption while Take-Two defends human craft.",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry Trends",
+        "Labor",
+        "Ubisoft",
+        "Google Cloud",
+        "Take-Two"
+      ],
+      "date": "2026-04-22",
+      "createdAt": "2026-04-22T00:01:45.751Z"
+    },
     {
       "id": "insight-20260421-mo8hj1om",
       "title": "Shader Development Studio — 工匠名即方法论",
