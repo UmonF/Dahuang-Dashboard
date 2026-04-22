@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-22T00:33:07.556Z",
+  "updatedAt": "2026-04-22T10:32:17.574Z",
   "items": [
+    {
+      "id": "insight-20260422-mo9wygth",
+      "title": "Ruinart Digital Fresco — Heritage as Interface",
+      "summary": "World's first champagne house (1729) transforms hand-illustrated fresco into explorable digital panorama, marrying art preservation with brand storytelling.",
+      "source": "Awwwards SOTD Apr 22",
+      "sourceUrl": "https://fresque.ruinart.com/",
+      "category": "design",
+      "tags": [
+        "luxury",
+        "illustration",
+        "panorama",
+        "heritage",
+        "AR",
+        "storytelling"
+      ],
+      "date": "2026-04-22",
+      "createdAt": "2026-04-22T10:32:17.573Z"
+    },
     {
       "id": "insight-20260422-mo9bjxlw",
       "title": "Blue Prince: 当约束成为设计语言",
