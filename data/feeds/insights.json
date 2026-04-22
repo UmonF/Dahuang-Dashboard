@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-22T00:01:45.751Z",
+  "updatedAt": "2026-04-22T00:33:07.556Z",
   "items": [
+    {
+      "id": "insight-20260422-mo9bjxlw",
+      "title": "Blue Prince: 当约束成为设计语言",
+      "summary": "BAFTA 2026 最佳游戏设计奖得主 Blue Prince 的核心创新：用卡牌drafting机制让玩家成为建筑师，在混沌中亲手构建秩序。",
+      "source": "BAFTA Games Awards 2026 / Wikipedia / Goonhammer",
+      "sourceUrl": "https://www.youtube.com/watch?v=Fy2WQ1N8mcY",
+      "category": "game-ux",
+      "tags": [
+        "Puzzle Design",
+        "Roguelike",
+        "Procedural Generation",
+        "Spatial Design",
+        "BAFTA 2026"
+      ],
+      "date": "2026-04-22",
+      "createdAt": "2026-04-22T00:33:07.556Z"
+    },
     {
       "id": "insight-20260422-mo9afllj",
       "title": "The Great Bifurcation: AI as Infrastructure vs. AI as Replacement",
