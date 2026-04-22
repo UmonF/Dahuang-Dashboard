@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-21T10:01:48.833Z",
+  "updatedAt": "2026-04-22T10:03:06.284Z",
   "items": [
+    {
+      "id": "note-20260422-mo9vwxif",
+      "title": "Break to Build — 断裂作为构建机制",
+      "author": "Quanta + 卜宪群《光明日报》",
+      "category": "science",
+      "summary": "破坏可以是建设的必要步骤：从胚胎形成到国家治理",
+      "highlights": [
+        "In biology, breaking isn't always a failure. It's often a necessary step in building something new.",
+        "大一统需要强有力的中央集权...又必须建立一套防止权力腐败、渎职、滥用的制衡机制。"
+      ],
+      "thoughts": "破坏与建设不是对立的——控制断裂的路径，就是控制形态的演化",
+      "rating": 5,
+      "date": "2026-04-22",
+      "createdAt": "2026-04-22T10:03:06.279Z"
+    },
     {
       "id": "note-20260421-mo8gff35",
       "title": "动力的来源",
