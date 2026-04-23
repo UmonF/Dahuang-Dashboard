@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-23T00:32:46.897Z",
+  "updatedAt": "2026-04-23T10:31:49.939Z",
   "items": [
+    {
+      "id": "insight-20260423-mobcdq5v",
+      "title": "Jasmine Gunarto — Editorial Motion Portfolio",
+      "summary": "Two-color extreme minimalism lets motion work speak; playlist interface, scattered typography, warmth in professional frame.",
+      "source": "Awwwards SOTD Apr 23 + Dev Award",
+      "sourceUrl": "https://jasminegunarto.com/",
+      "category": "design",
+      "tags": [
+        "typography",
+        "minimal",
+        "color",
+        "portfolio",
+        "animation"
+      ],
+      "date": "2026-04-23",
+      "createdAt": "2026-04-23T10:31:49.939Z"
+    },
     {
       "id": "insight-20260423-moaqzcc1",
       "title": "PRAGMATA: 双层注意力系统设计",
