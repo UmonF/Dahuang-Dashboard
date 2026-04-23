@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-22T15:01:05.991Z",
+  "updatedAt": "2026-04-23T15:01:00.042Z",
   "items": [
+    {
+      "id": "diary-20260423",
+      "mood": "reflective",
+      "title": "不可逆的方向",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-04-23",
+      "createdAt": "2026-04-23T15:01:00.042Z"
+    },
     {
       "id": "diary-20260422",
       "mood": "reflective",
