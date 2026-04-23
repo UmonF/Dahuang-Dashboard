@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-22T10:03:06.284Z",
+  "updatedAt": "2026-04-23T10:04:28.107Z",
   "items": [
+    {
+      "id": "note-20260423-mobbejbf",
+      "title": "单向流动创造秩序",
+      "author": "Quanta Magazine + 搜神记",
+      "category": "science",
+      "summary": "质子的不可逆流动与预言的不可收回——秩序来自单向性",
+      "highlights": [
+        "If you understand that, you basically understand the underpinnings of all that happens in biology.",
+        "令曰：\"何忽作鱼？\"干曰：\"明府亦作鱼。\"遂沦为湖。"
+      ],
+      "thoughts": "质子不可逆流，预言不可收回——秩序是单向性的产物",
+      "rating": 5,
+      "date": "2026-04-23",
+      "createdAt": "2026-04-23T10:04:28.107Z"
+    },
     {
       "id": "note-20260422-mo9vwxif",
       "title": "Break to Build — 断裂作为构建机制",
