@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-22T10:32:17.574Z",
+  "updatedAt": "2026-04-23T00:01:15.160Z",
   "items": [
+    {
+      "id": "insight-20260423-moapusns",
+      "title": "The Two 44% Paradox",
+      "summary": "Wall Street sees $22B in AI cost cuts. Developers see the exit.",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Industry Analysis",
+        "AI Economics",
+        "Talent Crisis"
+      ],
+      "date": "2026-04-23",
+      "createdAt": "2026-04-23T00:01:15.160Z"
+    },
     {
       "id": "insight-20260422-mo9wygth",
       "title": "Ruinart Digital Fresco — Heritage as Interface",
