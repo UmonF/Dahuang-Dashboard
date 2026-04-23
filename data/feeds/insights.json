@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-23T00:01:15.160Z",
+  "updatedAt": "2026-04-23T00:32:46.897Z",
   "items": [
+    {
+      "id": "insight-20260423-moaqzcc1",
+      "title": "PRAGMATA: 双层注意力系统设计",
+      "summary": "Capcom 的拼图射击新作用 Snake 式黑客小游戏叠加在战斗流程上，创造出需要同时管理两种技能的战术深度。",
+      "source": "Game Developer",
+      "sourceUrl": "https://www.gamedeveloper.com/design/how-capcom-s-pragmata-blends-puzzle-solving-with-sci-fi-combat",
+      "category": "game-ux",
+      "tags": [
+        "Attention Management",
+        "Dual-layer Design",
+        "Combat UX",
+        "Capcom"
+      ],
+      "date": "2026-04-23",
+      "createdAt": "2026-04-23T00:32:46.897Z"
+    },
     {
       "id": "insight-20260423-moapusns",
       "title": "The Two 44% Paradox",
