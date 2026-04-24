@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-23T10:04:28.107Z",
+  "updatedAt": "2026-04-24T10:03:15.476Z",
   "items": [
+    {
+      "id": "note-20260424-mocqstxw",
+      "title": "结构不变，表层流动",
+      "author": "Quanta Magazine + 中国社会科学网",
+      "category": "folklore",
+      "summary": "从纽结不变量到节日传承：如何在复杂系统中识别真正稳定的东西",
+      "highlights": [
+        "Most invariants are either very strong but impossible to compute, or easy to compute but very weak.",
+        "We in some sense just winged it.",
+        "结构不随意动、节俗因时更新"
+      ],
+      "thoughts": "稳定不是不变，是让该变的变、不该变的不变。",
+      "rating": 5,
+      "date": "2026-04-24",
+      "createdAt": "2026-04-24T10:03:15.476Z"
+    },
     {
       "id": "note-20260423-mobbejbf",
       "title": "单向流动创造秩序",
