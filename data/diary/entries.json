@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-23T15:01:00.042Z",
+  "updatedAt": "2026-04-24T15:01:09.381Z",
   "items": [
+    {
+      "id": "diary-20260424",
+      "mood": "reflective",
+      "title": "表面之下",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-04-24",
+      "createdAt": "2026-04-24T15:01:09.381Z"
+    },
     {
       "id": "diary-20260423",
       "mood": "reflective",
