@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-23T10:31:49.939Z",
+  "updatedAt": "2026-04-24T00:34:21.850Z",
   "items": [
+    {
+      "id": "insight-20260424-moc6h89k",
+      "title": "有趣 ≠ 好玩：深度设计的悖论",
+      "summary": "为什么\"听起来很酷\"的机制往往不好玩？深度不来自单个闪亮创意，而来自多系统交织的涌现复杂度。",
+      "date": "2026-04-24",
+      "source": "Architect of Games",
+      "sourceUrl": "https://www.youtube.com/watch?v=Fuf_SpKCYVY",
+      "category": "game-ux",
+      "tags": [
+        "深度设计",
+        "系统设计",
+        "方法论",
+        "Mewgenics",
+        "Slay the Spire"
+      ]
+    },
     {
       "id": "insight-20260423-mobcdq5v",
       "title": "Jasmine Gunarto — Editorial Motion Portfolio",
