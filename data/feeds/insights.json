@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-24T00:34:21.850Z",
+  "updatedAt": "2026-04-24T10:32:43.392Z",
   "items": [
+    {
+      "id": "insight-20260424-mocruq2o",
+      "title": "Off Menu — AI时代设计公司的自我定位",
+      "summary": "AI-native studio 的完整表达：从定位、方法论到界面设计的一致性",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://www.offmenu.design",
+      "category": "design",
+      "tags": [
+        "animation",
+        "layout",
+        "dark-mode",
+        "ai",
+        "minimal",
+        "interaction"
+      ],
+      "date": "2026-04-24",
+      "createdAt": "2026-04-24T10:32:43.392Z"
+    },
     {
       "id": "insight-20260424-moc6h89k",
       "title": "有趣 ≠ 好玩：深度设计的悖论",
