@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-25T00:01:16.336Z",
+  "updatedAt": "2026-04-25T00:31:51.491Z",
   "items": [
+    {
+      "id": "insight-20260425-modltuwz",
+      "title": "游戏设计批评的元反思：YouTuber-Pilled 陷阱",
+      "summary": "Snoman Gaming 回顾自己早期视频，发现一个关键陷阱：把游戏硬塞进自己想要的类型框架，然后批评它不符合那个框架。设计批评的方法论问题。",
+      "source": "Snoman Gaming",
+      "sourceUrl": "https://www.youtube.com/watch?v=b5LWsJGEOSU",
+      "category": "game-ux",
+      "tags": [
+        "Design Criticism",
+        "Methodology",
+        "Self-Reflection",
+        "Bias"
+      ],
+      "date": "2026-04-25",
+      "createdAt": "2026-04-25T00:31:51.491Z"
+    },
     {
       "id": "insight-20260425-modkqiwg",
       "title": "游戏 AI 的面纱揭开：沉默的 90% 与两个 B",
