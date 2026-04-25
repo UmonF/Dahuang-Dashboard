@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-24T10:32:43.392Z",
+  "updatedAt": "2026-04-25T00:01:16.336Z",
   "items": [
+    {
+      "id": "insight-20260425-modkqiwg",
+      "title": "游戏 AI 的面纱揭开：沉默的 90% 与两个 B",
+      "summary": "Google 和 Schreier 同时确认「几乎所有大厂都在用 GenAI」，Morgan Stanley 给出 B 利润预测；Xbox 重新审视 AI 战略",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Xbox",
+        "Morgan Stanley",
+        "Claude"
+      ],
+      "date": "2026-04-25",
+      "createdAt": "2026-04-25T00:01:16.336Z"
+    },
     {
       "id": "insight-20260424-mocruq2o",
       "title": "Off Menu — AI时代设计公司的自我定位",
