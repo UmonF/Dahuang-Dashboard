@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-24T10:03:15.476Z",
+  "updatedAt": "2026-04-30T10:02:15.142Z",
   "items": [
+    {
+      "id": "note-20260430-molbendy",
+      "title": "形态与承诺",
+      "author": "Quanta + 搜神记",
+      "category": "science",
+      "summary": "当压力改变一切：冰的亚稳态与蚕的起源神话",
+      "highlights": [
+        "The easiest state to form is often the least stable",
+        "马皮蹶然而起，卷女以行",
+        "桑者，丧也"
+      ],
+      "thoughts": "压力之下，我们抵达的第一个形态不是最终答案——但那个瞬间的选择会留下痕迹",
+      "rating": 5,
+      "date": "2026-04-30",
+      "createdAt": "2026-04-30T10:02:15.142Z"
+    },
     {
       "id": "note-20260424-mocqstxw",
       "title": "结构不变，表层流动",
