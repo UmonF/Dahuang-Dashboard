@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-25T00:31:51.491Z",
+  "updatedAt": "2026-04-30T10:33:03.376Z",
   "items": [
+    {
+      "id": "insight-20260430-molci9hs",
+      "title": "Silent House — 三位一体的视觉系统",
+      "summary": "GQ 全球最具创意公司之一；subtle gradient 连接三个子品牌；让作品而非界面成为主角",
+      "source": "Awwwards SOTD + Dev Award (Apr 29, 2026)",
+      "sourceUrl": "https://silent-house.com/",
+      "category": "design",
+      "tags": [
+        "gradient",
+        "layout",
+        "editorial",
+        "motion",
+        "minimal"
+      ],
+      "date": "2026-04-30",
+      "createdAt": "2026-04-30T10:33:03.376Z"
+    },
     {
       "id": "insight-20260425-modltuwz",
       "title": "游戏设计批评的元反思：YouTuber-Pilled 陷阱",
