@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-01T00:32:32.203Z",
+  "updatedAt": "2026-05-01T10:32:34.894Z",
   "items": [
+    {
+      "id": "insight-20260501-momrxi6m",
+      "title": "Studio375 — Numeric Identity as Brand Language",
+      "summary": "Italian agency uses circled number typography (➂➆➄) as core identity, demonstrating how constraints create recognition.",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://375.studio/en",
+      "category": "design",
+      "tags": [
+        "typography",
+        "minimal",
+        "brand-identity",
+        "animation"
+      ],
+      "date": "2026-05-01",
+      "createdAt": "2026-05-01T10:32:34.894Z"
+    },
     {
       "id": "insight-20260501-mom6hubv",
       "title": "有趣≠好玩：深度的悖论",
