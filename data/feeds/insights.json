@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-30T10:33:03.376Z",
+  "updatedAt": "2026-05-01T00:32:32.203Z",
   "items": [
+    {
+      "id": "insight-20260501-mom6hubv",
+      "title": "有趣≠好玩：深度的悖论",
+      "summary": "Mark Rosewater 25年前的洞察——\"不要把有趣和好玩混为一谈\"——揭示了游戏深度的本质：深度不是来自炫目的单一创意，而是来自多个系统间的相互作用与平衡。",
+      "source": "Architect of Games",
+      "sourceUrl": "https://www.youtube.com/watch?v=Fuf_SpKCYVY",
+      "category": "game-ux",
+      "tags": [
+        "Game Design",
+        "Depth vs Complexity",
+        "System Design",
+        "Balance"
+      ],
+      "date": "2026-05-01",
+      "createdAt": "2026-05-01T00:32:32.203Z"
+    },
     {
       "id": "insight-20260430-molci9hs",
       "title": "Silent House — 三位一体的视觉系统",
