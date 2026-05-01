@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-30T10:02:15.142Z",
+  "updatedAt": "2026-05-01T10:02:37.837Z",
   "items": [
+    {
+      "id": "note-20260501-momquzkd",
+      "title": "边界与本位",
+      "author": "Quanta + 中华网",
+      "category": "science",
+      "summary": "无限的信仰与劳动的根基——两种看待世界的方式",
+      "highlights": [
+        "There's so much beauty in the trees and in the ground. You don't have to look toward fiction.",
+        "夫稼，为之者人也，生之者地也，养之者天也。"
+      ],
+      "thoughts": "可构造性决定存在——数字如此，劳动的价值亦如此",
+      "rating": 5,
+      "date": "2026-05-01",
+      "createdAt": "2026-05-01T10:02:37.837Z"
+    },
     {
       "id": "note-20260430-molbendy",
       "title": "形态与承诺",
