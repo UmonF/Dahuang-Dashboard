@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-01T10:02:37.837Z",
+  "updatedAt": "2026-05-02T10:01:40.981Z",
   "items": [
+    {
+      "id": "note-20260502-moo69md1",
+      "title": "避难所与流通：生命的两种延续策略",
+      "author": "Quanta Magazine + 光明日报",
+      "category": "history",
+      "summary": "5亿年前的深海化石与5000年前的贸易网络，说的是同一件事",
+      "highlights": [
+        "Having these kinds of fossils is incredibly useful for understanding evolutionary trajectories. — Doug Erwin",
+        "南佐遗址的发现说明，在五千年前，黄河流域并非文明发展的边缘地带。— 赵辉"
+      ],
+      "thoughts": "孤立的系统会死，连接的系统会活——无论是 5 亿年前的海洋还是 5000 年前的贸易网络",
+      "rating": 5,
+      "date": "2026-05-02",
+      "createdAt": "2026-05-02T10:01:40.981Z"
+    },
     {
       "id": "note-20260501-momquzkd",
       "title": "边界与本位",
