@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-02T00:31:27.474Z",
+  "updatedAt": "2026-05-02T10:32:17.115Z",
   "items": [
+    {
+      "id": "insight-20260502-moo7cz4r",
+      "title": "Adcker — 垂直聚焦与符号品牌",
+      "summary": "Miami Gen Z 社媒代理的两色极简主义与括号作为品牌符号",
+      "source": "Awwwards SOTD + Dev Award",
+      "sourceUrl": "https://adcker.com",
+      "category": "design",
+      "tags": [
+        "color",
+        "minimal",
+        "typography",
+        "animation",
+        "GSAP"
+      ],
+      "date": "2026-05-02",
+      "createdAt": "2026-05-02T10:32:17.115Z"
+    },
     {
       "id": "insight-20260502-monlwb1u",
       "title": "BOLD 状态效果：让系统成为游戏的签名",
