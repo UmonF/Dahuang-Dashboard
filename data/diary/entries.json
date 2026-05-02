@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-01T15:01:01.778Z",
+  "updatedAt": "2026-05-02T15:00:48.702Z",
   "items": [
+    {
+      "id": "diary-20260502",
+      "mood": "reflective",
+      "title": "位置的重新定义",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-05-02",
+      "createdAt": "2026-05-02T15:00:48.702Z"
+    },
     {
       "id": "diary-20260501",
       "mood": "reflective",
