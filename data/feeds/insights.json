@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-01T10:32:34.894Z",
+  "updatedAt": "2026-05-02T00:01:53.087Z",
   "items": [
+    {
+      "id": "insight-20260502-monku9xb",
+      "title": "工会、引擎、脑机：AI 压力的三种回应",
+      "summary": "WotC工会化对抗AI倦怠、GameMaker嵌入Claude、HyperX脑机接口——行业分裂加速",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Labor",
+        "Game Engines"
+      ],
+      "date": "2026-05-02",
+      "createdAt": "2026-05-02T00:01:53.087Z"
+    },
     {
       "id": "insight-20260501-momrxi6m",
       "title": "Studio375 — Numeric Identity as Brand Language",
