@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-02T00:01:53.087Z",
+  "updatedAt": "2026-05-02T00:31:27.474Z",
   "items": [
+    {
+      "id": "insight-20260502-monlwb1u",
+      "title": "BOLD 状态效果：让系统成为游戏的签名",
+      "summary": "从 Omori 情感系统到 Disco Elysium 的人格极端，状态效果不只是数值调整——它可以成为游戏的核心签名。",
+      "source": "Design Doc",
+      "sourceUrl": "https://www.youtube.com/watch?v=bS808xaLaFo",
+      "category": "game-ux",
+      "tags": [
+        "Status Effects",
+        "System Design",
+        "Game Feel",
+        "Omori",
+        "Disco Elysium",
+        "Pacific Drive"
+      ],
+      "date": "2026-05-02",
+      "createdAt": "2026-05-02T00:31:27.474Z"
+    },
     {
       "id": "insight-20260502-monku9xb",
       "title": "工会、引擎、脑机：AI 压力的三种回应",
