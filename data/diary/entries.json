@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-02T15:00:48.702Z",
+  "updatedAt": "2026-05-03T15:01:07.121Z",
   "items": [
+    {
+      "id": "diary-20260503",
+      "mood": "reflective",
+      "title": "亚稳态的种子",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-05-03",
+      "createdAt": "2026-05-03T15:01:07.121Z"
+    },
     {
       "id": "diary-20260502",
       "mood": "reflective",
