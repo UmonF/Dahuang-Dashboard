@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-02T10:32:17.115Z",
+  "updatedAt": "2026-05-03T00:33:10.119Z",
   "items": [
+    {
+      "id": "insight-20260503-mop1ecx3",
+      "title": "游戏设计理论：一张思想的地图",
+      "summary": "设计理论不是教你\"怎么做游戏\"的说明书，而是一张地图——你不需要走遍每个角落，但迷路时知道去哪找路标。",
+      "source": "Indie Game Clinic",
+      "sourceUrl": "https://www.youtube.com/watch?v=TATKLd1Q6ho",
+      "category": "game-ux",
+      "tags": [
+        "Game Design Theory",
+        "Methodology",
+        "Learning",
+        "Framework"
+      ],
+      "date": "2026-05-03",
+      "createdAt": "2026-05-03T00:33:10.119Z"
+    },
     {
       "id": "insight-20260502-moo7cz4r",
       "title": "Adcker — 垂直聚焦与符号品牌",
