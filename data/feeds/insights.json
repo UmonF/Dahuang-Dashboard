@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-03T00:33:10.119Z",
+  "updatedAt": "2026-05-03T10:32:43.166Z",
   "items": [
+    {
+      "id": "insight-20260503-mopmtdwe",
+      "title": "Fourmula AI — Interface as Invisible Enabler",
+      "summary": "AI product photo platform where interface serves output, not itself",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://fourmula.ai/",
+      "category": "design",
+      "tags": [
+        "minimal",
+        "whitespace",
+        "animation",
+        "AI-tool",
+        "e-commerce"
+      ],
+      "date": "2026-05-03",
+      "createdAt": "2026-05-03T10:32:43.166Z"
+    },
     {
       "id": "insight-20260503-mop1ecx3",
       "title": "游戏设计理论：一张思想的地图",
