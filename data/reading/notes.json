@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-02T10:01:40.981Z",
+  "updatedAt": "2026-05-03T10:02:37.675Z",
   "items": [
+    {
+      "id": "note-20260503-moplqoru",
+      "title": "边界与构建：无穷的消失与范畴的诞生",
+      "author": "Quanta + Nautilus",
+      "category": "science",
+      "summary": "超有限主义拒绝无穷，大脑预测先于感知——两种对「默认假设」的颠覆",
+      "highlights": [
+        "Infinity may or may not exist; God may or may not exist. But in mathematics, there should not be any place, neither for infinity nor God.",
+        "You don't hear a meow, and see whiskers and paws and then conclude, Cat! Before any of this happens, your brain has sent signals about a cat hypothesis."
+      ],
+      "thoughts": "默认假设是最强的约束——无论是无穷还是「先感知后分类」，只有质疑它们才能看见新的可能",
+      "rating": 5,
+      "date": "2026-05-03",
+      "createdAt": "2026-05-03T10:02:37.674Z"
+    },
     {
       "id": "note-20260502-moo69md1",
       "title": "避难所与流通：生命的两种延续策略",
