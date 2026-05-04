@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-04T00:01:44.016Z",
+  "updatedAt": "2026-05-04T00:33:37.550Z",
   "items": [
+    {
+      "id": "insight-20260504-moqgusr2",
+      "title": "机制即体验：《On Constant Delay》如何让玩家「活进」OCD",
+      "summary": "游戏机制可以成为共情工具——不是模拟条件，而是让玩家亲历那种感受。「上车」作为设计选择。",
+      "source": "Writing on Games",
+      "sourceUrl": "https://www.youtube.com/watch?v=XSBQUu-R5YE",
+      "category": "game-ux",
+      "tags": [
+        "Mental Health",
+        "Empathy Design",
+        "Mechanic as Metaphor",
+        "Accessibility",
+        "Indie"
+      ],
+      "date": "2026-05-04",
+      "createdAt": "2026-05-04T00:33:37.550Z"
+    },
     {
       "id": "insight-20260504-moqfps9c",
       "title": "大分裂：手工宣言与机器洪流的并行世界",
