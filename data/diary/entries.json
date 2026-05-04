@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-03T15:01:07.121Z",
+  "updatedAt": "2026-05-04T15:01:19.713Z",
   "items": [
+    {
+      "id": "diary-20260504",
+      "mood": "reflective",
+      "title": "时间的尺度",
+      "tags": [
+        "reflection",
+        "time"
+      ],
+      "date": "2026-05-04",
+      "createdAt": "2026-05-04T15:01:19.713Z"
+    },
     {
       "id": "diary-20260503",
       "mood": "reflective",
