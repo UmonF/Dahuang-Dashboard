@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-03T10:02:37.675Z",
+  "updatedAt": "2026-05-04T10:04:26.870Z",
   "items": [
+    {
+      "id": "note-20260504-mor18vp2",
+      "title": "时间的刻度与记忆的形态",
+      "author": "Quanta Magazine + 搜神记",
+      "category": "science",
+      "summary": "神经可塑性的秒级跃迁与古人对死生/记忆的想象，都在追问同一件事：经历如何被铭刻",
+      "highlights": [
+        "Sometimes you need to remember events you only have one chance to remember",
+        "非常之事，古则有之。今灵异至此，开棺之痛，孰与不开"
+      ],
+      "thoughts": "一次经历足以铭刻——神经科学和志怪都在说同一件事",
+      "rating": 5,
+      "date": "2026-05-04",
+      "createdAt": "2026-05-04T10:04:26.870Z"
+    },
     {
       "id": "note-20260503-moplqoru",
       "title": "边界与构建：无穷的消失与范畴的诞生",
