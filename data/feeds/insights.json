@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-04T00:33:37.550Z",
+  "updatedAt": "2026-05-04T10:31:45.251Z",
   "items": [
+    {
+      "id": "insight-20260504-mor27zvn",
+      "title": "Where Worlds Take Shape — From HM to SOTD + Dev Award",
+      "summary": "Jérôme Reynet's playable portfolio evolves from March Honorable Mention to May 4 Site of the Day + Developer Award. The mini-game integration that earned the Dev Award: play is not decoration, it's architecture.",
+      "source": "Awwwards SOTD + Developer Award",
+      "sourceUrl": "https://paodao.fr/",
+      "category": "design",
+      "tags": [
+        "3D",
+        "webgl",
+        "animation",
+        "portfolio",
+        "interaction",
+        "game-design"
+      ],
+      "date": "2026-05-04",
+      "createdAt": "2026-05-04T10:31:45.251Z"
+    },
     {
       "id": "insight-20260504-moqgusr2",
       "title": "机制即体验：《On Constant Delay》如何让玩家「活进」OCD",
