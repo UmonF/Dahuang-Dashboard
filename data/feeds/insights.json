@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-03T10:32:43.166Z",
+  "updatedAt": "2026-05-04T00:01:44.016Z",
   "items": [
+    {
+      "id": "insight-20260504-moqfps9c",
+      "title": "大分裂：手工宣言与机器洪流的并行世界",
+      "summary": "五一档期见证游戏行业AI态度的极化——高调拒绝GenAI的西方3A与批量产出AI内容的中国微短剧，两条路径正在同时加速。",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry Trends",
+        "GenAI Policy"
+      ],
+      "date": "2026-05-04",
+      "createdAt": "2026-05-04T00:01:44.016Z"
+    },
     {
       "id": "insight-20260503-mopmtdwe",
       "title": "Fourmula AI — Interface as Invisible Enabler",
