@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-04T10:04:26.870Z",
+  "updatedAt": "2026-05-05T10:02:30.617Z",
   "items": [
+    {
+      "id": "note-20260505-mosgm8nt",
+      "title": "堆叠与涵养",
+      "author": "Quanta Magazine + 中国社会科学网",
+      "category": "science",
+      "summary": "数学最优解与哲学最优解的共鸣：植物细胞叶绿体的自组织堆叠与小满节气的「善处盈满」",
+      "highlights": [
+        "Light is the best friend and worst enemy of chloroplasts.",
+        "守持阳刚正大之性，努力追求圆满；同时谨慎戒惧，善处盈满。"
+      ],
+      "thoughts": "数学最优解与哲学最优解在「最好的状态能自如切换」这个点上共鸣",
+      "rating": 5,
+      "date": "2026-05-05",
+      "createdAt": "2026-05-05T10:02:30.617Z"
+    },
     {
       "id": "note-20260504-mor18vp2",
       "title": "时间的刻度与记忆的形态",
