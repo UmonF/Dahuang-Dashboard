@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-04T10:31:45.251Z",
+  "updatedAt": "2026-05-05T00:02:30.389Z",
   "items": [
+    {
+      "id": "insight-20260505-morv6mph",
+      "title": "边界模糊：当游戏公司买电商，当引擎内置AI",
+      "summary": "GameStop $56B 收购 eBay；GameMaker 内置 Claude；Neverness to Everness AI艺术争议——行业边界正在模糊",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Infrastructure",
+        "M&A"
+      ],
+      "date": "2026-05-05",
+      "createdAt": "2026-05-05T00:02:30.389Z"
+    },
     {
       "id": "insight-20260504-mor27zvn",
       "title": "Where Worlds Take Shape — From HM to SOTD + Dev Award",
