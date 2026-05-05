@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-05T00:02:30.389Z",
+  "updatedAt": "2026-05-05T00:32:11.901Z",
   "items": [
+    {
+      "id": "insight-20260505-morw8tbx",
+      "title": "主动 vs 被动：塞尔达 40 年设计哲学的范式转移",
+      "summary": "从线性引导到系统驱动——GMTK 深度剖析《旷野之息》为何永久改变了塞尔达设计，以及新旧范式各自的取舍",
+      "source": "Game Makers Toolkit",
+      "sourceUrl": "https://www.youtube.com/watch?v=MILJzR0x3IY",
+      "category": "game-ux",
+      "tags": [
+        "Design Philosophy",
+        "Open World",
+        "Player Agency",
+        "Zelda"
+      ],
+      "date": "2026-05-05",
+      "createdAt": "2026-05-05T00:32:11.901Z"
+    },
     {
       "id": "insight-20260505-morv6mph",
       "title": "边界模糊：当游戏公司买电商，当引擎内置AI",
