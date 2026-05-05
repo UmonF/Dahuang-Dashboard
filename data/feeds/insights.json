@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-05T00:32:11.901Z",
+  "updatedAt": "2026-05-05T10:33:51.874Z",
   "items": [
+    {
+      "id": "insight-20260505-moshqk8y",
+      "title": "Obys — Modernist Absolutism",
+      "summary": "Two-color extremism as design philosophy: when black and white become the entire visual system",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://obys.agency",
+      "category": "design",
+      "tags": [
+        "typography",
+        "minimal",
+        "dark-mode",
+        "animation",
+        "3D"
+      ],
+      "date": "2026-05-05",
+      "createdAt": "2026-05-05T10:33:51.874Z"
+    },
     {
       "id": "insight-20260505-morw8tbx",
       "title": "主动 vs 被动：塞尔达 40 年设计哲学的范式转移",
