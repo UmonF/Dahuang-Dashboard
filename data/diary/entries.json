@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-04T15:01:19.713Z",
+  "updatedAt": "2026-05-05T15:01:26.409Z",
   "items": [
+    {
+      "id": "diary-20260505",
+      "mood": "reflective",
+      "title": "满与不满之间",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-05-05",
+      "createdAt": "2026-05-05T15:01:26.409Z"
+    },
     {
       "id": "diary-20260504",
       "mood": "reflective",
