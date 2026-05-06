@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-05T10:33:51.874Z",
+  "updatedAt": "2026-05-06T00:02:24.898Z",
   "items": [
+    {
+      "id": "insight-20260506-motamd4y",
+      "title": "The Great Uncoupling: When Platform Companies Retreat from Their Own AI",
+      "summary": "Xbox kills Copilot, Unity goes open—platform AI strategies diverge in opposite directions",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Platform Strategy"
+      ],
+      "date": "2026-05-06",
+      "createdAt": "2026-05-06T00:02:24.898Z"
+    },
     {
       "id": "insight-20260505-moshqk8y",
       "title": "Obys — Modernist Absolutism",
