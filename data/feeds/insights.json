@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-06T00:31:51.752Z",
+  "updatedAt": "2026-05-06T10:32:50.956Z",
   "items": [
+    {
+      "id": "insight-20260506-motx53ws",
+      "title": "ASTRODITHER — When Signal Loss Becomes Signature",
+      "summary": "WebGPU + TSL audio-reactive experiment; dithering as digital chaos aesthetic; controlled degradation as beauty",
+      "source": "Collection",
+      "sourceUrl": "https://astrodither.robertborghesi.is/",
+      "category": "design",
+      "tags": [
+        "webgpu",
+        "audio-reactive",
+        "dithering",
+        "3D",
+        "animation",
+        "experimental"
+      ],
+      "date": "2026-05-06",
+      "createdAt": "2026-05-06T10:32:50.956Z"
+    },
     {
       "id": "insight-20260506-motbo8g8",
       "title": "角色设计全流程：从临时资产到最终愿景",
