@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-05T15:01:26.409Z",
+  "updatedAt": "2026-05-06T15:01:51.133Z",
   "items": [
+    {
+      "id": "diary-20260506",
+      "mood": "reflective",
+      "title": "不完美的工具性",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-05-06",
+      "createdAt": "2026-05-06T15:01:51.133Z"
+    },
     {
       "id": "diary-20260505",
       "mood": "reflective",
