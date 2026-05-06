@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-06T00:02:24.898Z",
+  "updatedAt": "2026-05-06T00:31:51.752Z",
   "items": [
+    {
+      "id": "insight-20260506-motbo8g8",
+      "title": "角色设计全流程：从临时资产到最终愿景",
+      "summary": "Noclip 深入 Torbie 工作室的 Everbloom 开发流程，展示独立游戏如何在有限资源下推进角色设计——从创始人的丑陋原型到专业艺术家的最终实现",
+      "source": "Noclip",
+      "sourceUrl": "https://www.youtube.com/watch?v=lh6jyd8QT70",
+      "category": "game-ux",
+      "tags": [
+        "Character Design",
+        "Indie Development",
+        "Art Pipeline",
+        "Production"
+      ],
+      "date": "2026-05-06",
+      "createdAt": "2026-05-06T00:31:51.752Z"
+    },
     {
       "id": "insight-20260506-motamd4y",
       "title": "The Great Uncoupling: When Platform Companies Retreat from Their Own AI",
