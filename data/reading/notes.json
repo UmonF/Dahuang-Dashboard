@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-05T10:02:30.617Z",
+  "updatedAt": "2026-05-06T10:03:47.909Z",
   "items": [
+    {
+      "id": "note-20260506-motw3qyt",
+      "title": "基础与选择：当公理遇见文明",
+      "author": "Quanta Magazine + 光明日报",
+      "category": "science",
+      "summary": "数学的基础是选择，文明的根基在连续",
+      "highlights": [
+        "Without choice, your tools are very limited. It is like doing math with your hands tied behind your back.",
+        "南佐遗址的发现说明，在五千年前，黄河流域并非文明发展的「边缘地带」。"
+      ],
+      "thoughts": "基础不是给定的，是选择的产物——数学如此，文明亦然",
+      "rating": 5,
+      "date": "2026-05-06",
+      "createdAt": "2026-05-06T10:03:47.909Z"
+    },
     {
       "id": "note-20260505-mosgm8nt",
       "title": "堆叠与涵养",
