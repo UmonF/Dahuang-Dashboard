@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-07T00:32:58.517Z",
+  "updatedAt": "2026-05-07T10:32:11.294Z",
   "items": [
+    {
+      "id": "insight-20260507-movck3z2",
+      "title": "T11 — Theatrical Scale Meets Digital Craft",
+      "summary": "Live entertainment agency portfolio; cinematic parallax, numbered category system, animated text reveals",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://t11.com",
+      "category": "design",
+      "tags": [
+        "portfolio",
+        "dark-mode",
+        "animation",
+        "parallax",
+        "entertainment"
+      ],
+      "date": "2026-05-07",
+      "createdAt": "2026-05-07T10:32:11.294Z"
+    },
     {
       "id": "insight-20260507-mour5imt",
       "title": "恋与深空设计哲学：战斗即浪漫，生活即浪漫",
