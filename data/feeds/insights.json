@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-07T00:01:18.627Z",
+  "updatedAt": "2026-05-07T00:32:58.517Z",
   "items": [
+    {
+      "id": "insight-20260507-mour5imt",
+      "title": "恋与深空设计哲学：战斗即浪漫，生活即浪漫",
+      "summary": "GDC 2026 演讲：$1B 收入的乙女游戏如何用「反常规」设计征服主流玩家",
+      "source": "GDC 2026 / Infold Games",
+      "sourceUrl": "https://automaton-media.com/en/column/love-and-deepspace-is-designed-to-make-players-love-themselves-and-the-male-lead-more-producer-explains-the-romance-sims-unorthodox-design-choices-and-r/",
+      "category": "game-ux",
+      "tags": [
+        "Romance Design",
+        "Combat UX",
+        "Mobile UX",
+        "Emotional Design",
+        "GDC 2026"
+      ],
+      "date": "2026-05-07",
+      "createdAt": "2026-05-07T00:32:58.517Z"
+    },
     {
       "id": "insight-20260507-mouq0so3",
       "title": "The Great Integration: When Infrastructure Absorbs Innovation",
