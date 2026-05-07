@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-06T10:32:50.956Z",
+  "updatedAt": "2026-05-07T00:01:18.627Z",
   "items": [
+    {
+      "id": "insight-20260507-mouq0so3",
+      "title": "The Great Integration: When Infrastructure Absorbs Innovation",
+      "summary": "Unity AI open beta sparks community panic, Anthropic-SpaceX deal reshapes compute hierarchy, Claude learns to dream",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Infrastructure"
+      ],
+      "date": "2026-05-07",
+      "createdAt": "2026-05-07T00:01:18.627Z"
+    },
     {
       "id": "insight-20260506-motx53ws",
       "title": "ASTRODITHER — When Signal Loss Becomes Signature",
