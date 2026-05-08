@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-07T10:32:11.294Z",
+  "updatedAt": "2026-05-08T00:01:48.100Z",
   "items": [
+    {
+      "id": "insight-20260508-mow5ha2s",
+      "title": "The Trust Stack Fractures: From AI Washing to AI Dreaming",
+      "summary": "Three stories reveal a trust crisis: companies fake AI reasons for cuts, Xbox abandons AI features, and Anthropic teaches AI to self-improve",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "AI Washing",
+        "Xbox Copilot",
+        "Anthropic Dreams",
+        "Trust",
+        "Industry Trends"
+      ],
+      "date": "2026-05-08",
+      "createdAt": "2026-05-08T00:01:48.100Z"
+    },
     {
       "id": "insight-20260507-movck3z2",
       "title": "T11 — Theatrical Scale Meets Digital Craft",
