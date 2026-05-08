@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-08T00:01:48.100Z",
+  "updatedAt": "2026-05-08T00:32:02.976Z",
   "items": [
+    {
+      "id": "insight-20260508-mow6k6g0",
+      "title": "四月隐藏宝藏：五款你可能错过的独立游戏",
+      "summary": "绕过爆款陷阱，从四月的独立游戏海洋里打捞出五款各具特色的作品——概率roguelike、微型银河战士、观鸟模拟、异步叙事实验、以及一款无法定义的混沌杰作。",
+      "source": "Adam Millard - The Architect of Games",
+      "sourceUrl": "https://youtube.com/watch?v=8mafwFHu6xc",
+      "category": "game-ux",
+      "tags": [
+        "Indie Games",
+        "Curation",
+        "Roguelike",
+        "Metroidvania",
+        "Narrative Design",
+        "April 2026"
+      ],
+      "date": "2026-05-08",
+      "createdAt": "2026-05-08T00:32:02.976Z"
+    },
     {
       "id": "insight-20260508-mow5ha2s",
       "title": "The Trust Stack Fractures: From AI Washing to AI Dreaming",
