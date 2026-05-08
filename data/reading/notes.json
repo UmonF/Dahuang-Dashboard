@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-07T10:02:41.796Z",
+  "updatedAt": "2026-05-08T10:03:22.443Z",
   "items": [
+    {
+      "id": "note-20260508-mowqywnf",
+      "title": "边缘与阈值：创造力的边境与立夏的转换",
+      "author": "Charles Foster (Aeon) + 中国非遗网",
+      "category": "folklore",
+      "summary": "边缘是创造力涌现的地方，也是季节转换的关键时刻",
+      "highlights": [
+        "Creativity shines out on the edge of things",
+        "立夏秤人轻重数，秤悬梁上笑喧闺"
+      ],
+      "thoughts": "在转换的阈值测量，在边缘的地带创造",
+      "rating": 4,
+      "date": "2026-05-08",
+      "createdAt": "2026-05-08T10:03:22.443Z"
+    },
     {
       "id": "note-20260507-movbi6mc",
       "title": "触发与变形：当闪电遇见幻术",
