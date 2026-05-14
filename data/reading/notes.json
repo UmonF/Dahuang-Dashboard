@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-08T10:03:22.443Z",
+  "updatedAt": "2026-05-14T10:04:21.154Z",
   "items": [
+    {
+      "id": "note-20260514-mp5bn9y5",
+      "title": "无氧之火",
+      "author": "Quanta + 搜神记",
+      "category": "science",
+      "summary": "鸟眼的无氧代谢与火浣布的矛盾存在：越不可能越真实",
+      "highlights": [
+        "Half of the retina lives in a chronic state of anoxia, where there is no oxygen present at all.",
+        "文帝以为火性酷裂，无含生之气，着之典论，明其不然之事，绝智者之听。",
+        "于是刊灭此论，而天下笑之。"
+      ],
+      "thoughts": "「不可能」往往只是「还没见过」的同义词",
+      "rating": 5,
+      "date": "2026-05-14",
+      "createdAt": "2026-05-14T10:04:21.149Z"
+    },
     {
       "id": "note-20260508-mowqywnf",
       "title": "边缘与阈值：创造力的边境与立夏的转换",
