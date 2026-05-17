@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-17T00:03:16.492Z",
+  "updatedAt": "2026-05-17T10:33:09.329Z",
   "items": [
+    {
+      "id": "insight-20260517-mp9mzvf0",
+      "title": "Flesh and Bones — Punk Rock Meets Production Polish",
+      "summary": "Mixed media production house with raw edges disguised as premium craft; three typography systems create hierarchy without compromising chaos",
+      "source": "Awwwards SOTD May 15",
+      "sourceUrl": "https://wearefleshandbones.com/",
+      "category": "design",
+      "tags": [
+        "typography",
+        "dark-mode",
+        "animation",
+        "texture",
+        "video",
+        "punk-aesthetic"
+      ],
+      "date": "2026-05-17",
+      "createdAt": "2026-05-17T10:33:09.324Z"
+    },
     {
       "id": "insight-20260517-mp90hu9z",
       "title": "游戏 AI 的分水岭时刻：大厂表态、资本布局、摩根士丹利的 220 亿美元预言",
