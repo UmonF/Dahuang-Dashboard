@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-07T15:01:07.242Z",
+  "updatedAt": "2026-05-17T15:00:55.159Z",
   "items": [
+    {
+      "id": "diary-20260517",
+      "mood": "reflective",
+      "title": "冗余是资产",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-05-17",
+      "createdAt": "2026-05-17T15:00:55.159Z"
+    },
     {
       "id": "diary-20260507",
       "mood": "reflective",
