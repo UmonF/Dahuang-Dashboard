@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-14T10:04:21.154Z",
+  "updatedAt": "2026-05-17T10:03:28.052Z",
   "items": [
+    {
+      "id": "note-20260517-mp9lxoz8",
+      "title": "机会的形状",
+      "author": "Quanta + Nautilus",
+      "category": "science",
+      "summary": "大数据天文与进化生物学中的「机会窗口」",
+      "highlights": [
+        "We've never had this kind of explosion of discovery within astronomy.",
+        "The preadaptation was for the appendage to be optimal for nothing."
+      ],
+      "thoughts": "机会青睐不够极致的东西——灵活性 > 最优化",
+      "rating": 5,
+      "date": "2026-05-17",
+      "createdAt": "2026-05-17T10:03:28.052Z"
+    },
     {
       "id": "note-20260514-mp5bn9y5",
       "title": "无氧之火",
