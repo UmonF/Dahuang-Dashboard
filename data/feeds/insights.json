@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-18T00:02:04.256Z",
+  "updatedAt": "2026-05-18T00:32:43.815Z",
   "items": [
+    {
+      "id": "insight-20260518-mpagzkmf",
+      "title": "连贯假象的设计技艺：Cyberpunk 2077 Montage 解构",
+      "summary": "GMTK 解析 Cyberpunk 2077 著名的六月 montage 如何用技术魔术创造无缝体验——假场景、克隆镜像、动画剪辑的协同。",
+      "source": "Game Maker's Toolkit",
+      "sourceUrl": "https://youtube.com/watch?v=NlAFWaa9UQo",
+      "category": "game-ux",
+      "tags": [
+        "Cutscene Design",
+        "Technical Tricks",
+        "Streaming Tech",
+        "Player Perception"
+      ],
+      "date": "2026-05-18",
+      "createdAt": "2026-05-18T00:32:43.815Z"
+    },
     {
       "id": "insight-20260518-mpafw57k",
       "title": "AI 边界的制度化",
