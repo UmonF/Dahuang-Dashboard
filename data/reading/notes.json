@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-17T10:03:28.052Z",
+  "updatedAt": "2026-05-18T10:03:07.114Z",
   "items": [
+    {
+      "id": "note-20260518-mpb1d3hh",
+      "title": "Survival Beyond Limits",
+      "author": "Quanta Magazine + 搜神记",
+      "category": "science",
+      "summary": "The bird retina survives without oxygen; ghosts survive without bodies. Both challenge the boundaries of existence.",
+      "highlights": [
+        "Half of the retina lives in a chronic state of anoxia, where there's no oxygen present at all.",
+        "I know the boundary between yin and yang. But after today, there will be no return."
+      ],
+      "thoughts": "Both cross boundaries others thought inviolable — one through evolution, one through longing.",
+      "rating": 5,
+      "date": "2026-05-18",
+      "createdAt": "2026-05-18T10:03:07.109Z"
+    },
     {
       "id": "note-20260517-mp9lxoz8",
       "title": "机会的形状",
