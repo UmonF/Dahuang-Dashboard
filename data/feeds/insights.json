@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-17T10:33:09.329Z",
+  "updatedAt": "2026-05-18T00:02:04.256Z",
   "items": [
+    {
+      "id": "insight-20260518-mpafw57k",
+      "title": "AI 边界的制度化",
+      "summary": "从工会合同到工作室政策，模糊地带正在被正式规则取代",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry Policy",
+        "AI Labor"
+      ],
+      "date": "2026-05-18",
+      "createdAt": "2026-05-18T00:02:04.256Z"
+    },
     {
       "id": "insight-20260517-mp9mzvf0",
       "title": "Flesh and Bones — Punk Rock Meets Production Polish",
