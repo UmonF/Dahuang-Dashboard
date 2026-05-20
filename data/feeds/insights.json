@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-20T00:01:51.843Z",
+  "updatedAt": "2026-05-20T00:33:14.482Z",
   "items": [
+    {
+      "id": "insight-20260520-mpdbvxm9",
+      "title": "GTA III 如何把整座城市塞进 32MB 内存",
+      "summary": "技术限制即设计语言：从 streaming 系统到车速上限，每一个「游戏设计决策」背后都是技术妥协。",
+      "source": "Game Maker's Toolkit",
+      "sourceUrl": "https://youtube.com/watch?v=cIbCxbrBCys",
+      "category": "game-ux",
+      "tags": [
+        "Technical Constraints",
+        "Open World",
+        "Memory Management",
+        "LOD"
+      ],
+      "date": "2026-05-20",
+      "createdAt": "2026-05-20T00:33:14.481Z"
+    },
     {
       "id": "insight-20260520-mpdarkyr",
       "title": "AI Mandate Paradox: When Forcing AI Kills Innovation",
