@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-18T00:32:43.815Z",
+  "updatedAt": "2026-05-20T00:01:51.843Z",
   "items": [
+    {
+      "id": "insight-20260520-mpdarkyr",
+      "title": "AI Mandate Paradox: When Forcing AI Kills Innovation",
+      "summary": "Amazon laid off the very team that learned AI game dev; Fireshine proves human craft sells; Odyssey achieves real multiplayer world models.",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "World Models",
+        "AI Policy"
+      ],
+      "date": "2026-05-20",
+      "createdAt": "2026-05-20T00:01:51.843Z"
+    },
     {
       "id": "insight-20260518-mpagzkmf",
       "title": "连贯假象的设计技艺：Cyberpunk 2077 Montage 解构",
