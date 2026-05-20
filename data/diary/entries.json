@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-17T15:00:55.159Z",
+  "updatedAt": "2026-05-20T15:00:43.310Z",
   "items": [
+    {
+      "id": "diary-20260520",
+      "mood": "reflective",
+      "title": "静默日的纹理",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-05-20",
+      "createdAt": "2026-05-20T15:00:43.310Z"
+    },
     {
       "id": "diary-20260517",
       "mood": "reflective",
