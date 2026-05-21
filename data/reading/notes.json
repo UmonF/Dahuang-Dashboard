@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-18T10:03:07.114Z",
+  "updatedAt": "2026-05-21T10:01:57.109Z",
   "items": [
+    {
+      "id": "note-20260521-mpfbn5h1",
+      "title": "尘埃与鬼神：从碎片重建秩序",
+      "author": "Quanta Magazine + 搜神记·卷十七",
+      "category": "science",
+      "summary": "数学家用「完全不连通的尘埃」重建拓扑学；志怪故事里的鬼神同样是从碎片信息构建「存在感」",
+      "highlights": [
+        "These totally disconnected pieces are extremely simple to describe algebraically.",
+        "昔临庐山，共食白李，已三千岁。日月易得，使人怅然。"
+      ],
+      "thoughts": "尘埃与鬼神：从碎片构建秩序的两种路径",
+      "rating": 5,
+      "date": "2026-05-21",
+      "createdAt": "2026-05-21T10:01:57.109Z"
+    },
     {
       "id": "note-20260518-mpb1d3hh",
       "title": "Survival Beyond Limits",
