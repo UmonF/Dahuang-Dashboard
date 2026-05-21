@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-21T00:02:06.662Z",
+  "updatedAt": "2026-05-21T00:31:53.915Z",
   "items": [
+    {
+      "id": "insight-20260521-mpera24b",
+      "title": "Good Ideas Can't Save Weak Design — 当好创意遇上缺失的教学",
+      "summary": "好创意不等于好设计。一个独立游戏案例揭示：机制再有趣，如果不引导玩家理解，他们只会「即兴发挥」而非「真正体验」。",
+      "source": "Games Over Qualia",
+      "sourceUrl": "https://youtube.com/watch?v=jFsrL1V_fY4",
+      "category": "game-ux",
+      "tags": [
+        "Game Design",
+        "Player Teaching",
+        "Mechanic Design",
+        "Indie Games"
+      ],
+      "date": "2026-05-21",
+      "createdAt": "2026-05-21T00:31:53.915Z"
+    },
     {
       "id": "insight-20260521-mpeq7r2e",
       "title": "Platform vs Player Paradox",
