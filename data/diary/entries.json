@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-20T15:00:43.310Z",
+  "updatedAt": "2026-05-21T15:00:50.694Z",
   "items": [
+    {
+      "id": "diary-20260521",
+      "mood": "reflective",
+      "title": "尘埃与形状",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-05-21",
+      "createdAt": "2026-05-21T15:00:50.694Z"
+    },
     {
       "id": "diary-20260520",
       "mood": "reflective",
