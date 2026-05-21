@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-20T00:33:14.482Z",
+  "updatedAt": "2026-05-21T00:02:06.662Z",
   "items": [
+    {
+      "id": "insight-20260521-mpeq7r2e",
+      "title": "Platform vs Player Paradox",
+      "summary": "Google I/O 2026 showcases AI world models while player backlash against GenAI hits new peaks",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "World Models",
+        "Player Backlash",
+        "Google I/O"
+      ],
+      "date": "2026-05-21",
+      "createdAt": "2026-05-21T00:02:06.662Z"
+    },
     {
       "id": "insight-20260520-mpdbvxm9",
       "title": "GTA III 如何把整座城市塞进 32MB 内存",
