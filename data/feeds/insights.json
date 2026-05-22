@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-22T00:31:27.239Z",
+  "updatedAt": "2026-05-22T10:32:03.143Z",
   "items": [
+    {
+      "id": "insight-20260522-mpgs5pon",
+      "title": "Aino.agency — Text as Pure Medium",
+      "summary": "Swedish agency proves 30kb JS can outperform megabytes: ASCII, physics, morphing — all from a grid of characters",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://aino.agency",
+      "category": "design",
+      "tags": [
+        "typography",
+        "animation",
+        "minimal",
+        "performance",
+        "monospace",
+        "ascii"
+      ],
+      "date": "2026-05-22",
+      "createdAt": "2026-05-22T10:32:03.143Z"
+    },
     {
       "id": "insight-20260522-mpg6pc7b",
       "title": "Depth vs Interest: Why Cool Mechanics Don't Always Equal Fun",
