@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-22T00:01:17.785Z",
+  "updatedAt": "2026-05-22T00:31:27.239Z",
   "items": [
+    {
+      "id": "insight-20260522-mpg6pc7b",
+      "title": "Depth vs Interest: Why Cool Mechanics Don't Always Equal Fun",
+      "summary": "Mark Rosewater's 25-year-old wisdom: \"Don't confuse interesting with fun.\" Depth emerges from system interactions, not flashy individual features.",
+      "source": "Architect of Games",
+      "sourceUrl": "https://www.youtube.com/watch?v=Fuf_SpKCYVY",
+      "category": "game-ux",
+      "tags": [
+        "Game Design Theory",
+        "Depth vs Complexity",
+        "Systems Design",
+        "Mark Rosewater",
+        "Roguelikes"
+      ],
+      "date": "2026-05-22",
+      "createdAt": "2026-05-22T00:31:27.239Z"
+    },
     {
       "id": "insight-20260522-mpg5mk0p",
       "title": "The Handcrafted Hedge: GTA 6's Zero-AI Stance vs Industry Experiments",
