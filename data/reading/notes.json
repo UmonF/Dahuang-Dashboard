@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-21T10:01:57.109Z",
+  "updatedAt": "2026-05-22T10:01:54.370Z",
   "items": [
+    {
+      "id": "note-20260522-mpgr2y0x",
+      "title": "结构与留白——寻找隐藏的秩序",
+      "author": "Quanta Magazine + 光明网",
+      "category": "science",
+      "summary": "数学的抽象结构与节气的留白哲学：寻找隐藏的秩序，接受未完成的状态",
+      "highlights": [
+        "He found us the highway.",
+        "花看半开，酒饮微醉，此中大有佳趣。",
+        "The way you probe the geometry of a space is not by looking at the points, but by studying other things."
+      ],
+      "thoughts": "寻找隐藏的秩序——无论是数学的抽象结构还是节气的留白哲学，都在说：不要只看点本身。",
+      "rating": 5,
+      "date": "2026-05-22",
+      "createdAt": "2026-05-22T10:01:54.369Z"
+    },
     {
       "id": "note-20260521-mpfbn5h1",
       "title": "尘埃与鬼神：从碎片重建秩序",
