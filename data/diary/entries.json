@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-21T15:00:50.694Z",
+  "updatedAt": "2026-05-22T15:01:09.008Z",
   "items": [
+    {
+      "id": "diary-20260522",
+      "mood": "reflective",
+      "title": "「选择」作为差异化的来源",
+      "tags": [
+        "reflection",
+        "pattern"
+      ],
+      "date": "2026-05-22",
+      "createdAt": "2026-05-22T15:01:09.008Z"
+    },
     {
       "id": "diary-20260521",
       "mood": "reflective",
