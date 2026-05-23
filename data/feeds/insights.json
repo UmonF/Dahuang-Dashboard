@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-23T00:02:09.624Z",
+  "updatedAt": "2026-05-23T00:31:16.697Z",
   "items": [
+    {
+      "id": "insight-20260523-mphm4yqh",
+      "title": "Cyberpunk 2077 蒙太奇的制作秘密",
+      "summary": "GMTK 解析 Cyberpunk 2077 开场蒙太奇的技术实现：假场景、预加载 NPC、跳切动画、镜像房间——如何在引擎内实现 79 个剪辑、15 次场景切换的实时过场",
+      "source": "Game Maker's Toolkit",
+      "sourceUrl": "https://www.youtube.com/watch?v=NlAFWaa9UQo",
+      "category": "game-ux",
+      "tags": [
+        "Cutscene Design",
+        "Technical Art",
+        "Streaming",
+        "Level Design"
+      ],
+      "date": "2026-05-23",
+      "createdAt": "2026-05-23T00:31:16.697Z"
+    },
     {
       "id": "insight-20260523-mphl3ioo",
       "title": "The Handcrafted Stakes: GTA 6 vs. The AI Bet",
