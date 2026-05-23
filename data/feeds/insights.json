@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-23T00:31:16.697Z",
+  "updatedAt": "2026-05-23T10:31:55.978Z",
   "items": [
+    {
+      "id": "insight-20260523-mpi7letm",
+      "title": "La Revoltosa — Heritage Brand Speaks in First Person",
+      "summary": "Spanish heritage brand uses first-person voice to transform 70+ years of bar culture into intimate storytelling",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://larevoltosa.es/",
+      "category": "design",
+      "tags": [
+        "brand-voice",
+        "heritage",
+        "video",
+        "typography",
+        "spanish"
+      ],
+      "date": "2026-05-23",
+      "createdAt": "2026-05-23T10:31:55.978Z"
+    },
     {
       "id": "insight-20260523-mphm4yqh",
       "title": "Cyberpunk 2077 蒙太奇的制作秘密",
