@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-22T15:01:09.008Z",
+  "updatedAt": "2026-05-23T15:01:11.695Z",
   "items": [
+    {
+      "id": "diary-20260523",
+      "mood": "reflective",
+      "title": "拒绝被打散的工具包",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-05-23",
+      "createdAt": "2026-05-23T15:01:11.695Z"
+    },
     {
       "id": "diary-20260522",
       "mood": "reflective",
