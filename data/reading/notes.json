@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-22T10:01:54.370Z",
+  "updatedAt": "2026-05-23T10:01:49.008Z",
   "items": [
+    {
+      "id": "note-20260523-mpi6iok0",
+      "title": "遗传记忆与知识体系：适应的两种建构",
+      "author": "Quanta + 光明日报",
+      "category": "science",
+      "summary": "自然与人类如何用「记住」来实现「快速适应」",
+      "highlights": [
+        "It's almost like populations have a genetic memory of their time spent in different environments.",
+        "四大体系一体化：学科、学术、话语、育人——四者协同赋能。",
+        "倒位就像扑克牌里「拒绝被洗的那部分」——你永远改变不了里面的顺序。"
+      ],
+      "thoughts": "记住是为了能忘——结构化的记忆让快速适应成为可能，无论对物种还是学科",
+      "rating": 5,
+      "date": "2026-05-23",
+      "createdAt": "2026-05-23T10:01:49.008Z"
+    },
     {
       "id": "note-20260522-mpgr2y0x",
       "title": "结构与留白——寻找隐藏的秩序",
