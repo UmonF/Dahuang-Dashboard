@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-24T00:02:11.559Z",
+  "updatedAt": "2026-05-24T00:32:18.328Z",
   "items": [
+    {
+      "id": "insight-20260524-mpj1m4yg",
+      "title": "「烂游戏」里的宝藏机制：为什么失败之作值得被研究",
+      "summary": "Razbuten 深度拆解六款商业失败游戏中的优秀机制——Bionic Commando 的抓钩、Fracture 的地形枪、Quest 64 的战斗系统等。核心洞察：在创意领域，「好」的反面不是「坏」，是「无聊」。",
+      "source": "Razbuten",
+      "sourceUrl": "https://youtube.com/watch?v=MNPDDH8Ap9Y",
+      "category": "game-ux",
+      "tags": [
+        "Mechanics",
+        "Game Preservation",
+        "Design Archaeology",
+        "Failure Analysis"
+      ],
+      "date": "2026-05-24",
+      "createdAt": "2026-05-24T00:32:18.328Z"
+    },
     {
       "id": "insight-20260524-mpj0jeuf",
       "title": "Week 21 Synthesis: The Handcrafted Premium Hardens",
