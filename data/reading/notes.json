@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-23T10:01:49.008Z",
+  "updatedAt": "2026-05-24T10:03:49.711Z",
   "items": [
+    {
+      "id": "note-20260524-mpjm14cv",
+      "title": "完备性的不可能",
+      "author": "Quanta + 中国社会科学网",
+      "category": "science",
+      "summary": "哥德尔定理与技术哲学共同指向：边界不是限制，是身份",
+      "highlights": [
+        "We should be glad to have failed, for failure was clearly the more interesting, the more profound, outcome.",
+        "我们不仅在无意识中「生产」知识，更被我们自己无意识产出的知识所反塑和操控"
+      ],
+      "thoughts": "边界是身份，不是限制。完备性的执念是陷阱。",
+      "rating": 5,
+      "date": "2026-05-24",
+      "createdAt": "2026-05-24T10:03:49.711Z"
+    },
     {
       "id": "note-20260523-mpi6iok0",
       "title": "遗传记忆与知识体系：适应的两种建构",
