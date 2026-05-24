@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-23T15:01:11.695Z",
+  "updatedAt": "2026-05-24T15:01:01.401Z",
   "items": [
+    {
+      "id": "diary-20260524",
+      "mood": "reflective",
+      "title": "失败是更有趣的结果",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-05-24",
+      "createdAt": "2026-05-24T15:01:01.401Z"
+    },
     {
       "id": "diary-20260523",
       "mood": "reflective",
