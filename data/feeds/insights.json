@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-25T00:02:10.336Z",
+  "updatedAt": "2026-05-25T00:32:12.441Z",
   "items": [
+    {
+      "id": "insight-20260525-mpkh1v2x",
+      "title": "OCD: 用「无聊」设计心理体验 — 游戏如何让玩家真正「感受」精神疾病",
+      "summary": "On Constant Delay 证明：有时候最有力的设计手段不是刺激，而是让玩家经历真实的痛苦——无尽的重复、被打断的日常、无法逃脱的检查循环。治愈的设计也可以很简单：「上车」。",
+      "source": "Writing on Games",
+      "sourceUrl": "https://www.youtube.com/watch?v=XSBQUu-R5YE",
+      "category": "game-ux",
+      "tags": [
+        "Mental Health",
+        "Accessibility",
+        "Emotional Design",
+        "Narrative Design",
+        "Indie"
+      ],
+      "date": "2026-05-25",
+      "createdAt": "2026-05-25T00:32:12.441Z"
+    },
     {
       "id": "insight-20260525-mpkfz8kg",
       "title": "The Consistency Problem: Why AI NPCs Keep Breaking Games",
