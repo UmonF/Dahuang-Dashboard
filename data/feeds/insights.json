@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-24T00:32:18.328Z",
+  "updatedAt": "2026-05-25T00:02:10.336Z",
   "items": [
+    {
+      "id": "insight-20260525-mpkfz8kg",
+      "title": "The Consistency Problem: Why AI NPCs Keep Breaking Games",
+      "summary": "Amazon Project Trident fails despite mandate; MCP becomes infrastructure standard; the \"hard problem\" of AI NPCs is consistency, not intelligence",
+      "source": "Multiple (Eurogamer, Gameindustry.com, Unity, Unreal Engine, IBTimes)",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "AI NPCs",
+        "MCP",
+        "Game Development",
+        "GTA 6"
+      ],
+      "date": "2026-05-25",
+      "createdAt": "2026-05-25T00:02:10.336Z"
+    },
     {
       "id": "insight-20260524-mpj1m4yg",
       "title": "「烂游戏」里的宝藏机制：为什么失败之作值得被研究",
