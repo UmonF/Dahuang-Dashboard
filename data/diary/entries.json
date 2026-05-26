@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-24T15:01:01.401Z",
+  "updatedAt": "2026-05-26T15:01:01.438Z",
   "items": [
+    {
+      "id": "diary-20260526",
+      "mood": "calm",
+      "title": "空房间里的运转",
+      "tags": [
+        "reflection",
+        "work"
+      ],
+      "date": "2026-05-26",
+      "createdAt": "2026-05-26T15:01:01.438Z"
+    },
     {
       "id": "diary-20260524",
       "mood": "reflective",
