@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-25T00:32:12.441Z",
+  "updatedAt": "2026-05-26T10:32:06.301Z",
   "items": [
+    {
+      "id": "insight-20260526-mpmhx6sc",
+      "title": "Cartier Watches & Wonders 2026 — Digital Twin as Brand Cathedral",
+      "summary": "Immersive Garden 将物理展馆转译为可滚动的数字双胞胎：六间 3D 密室，每间供奉一枚标志性腕表",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://www.cartier.com/en-gb/watchesandwonders",
+      "category": "design",
+      "tags": [
+        "3D",
+        "animation",
+        "luxury",
+        "WebGL",
+        "scroll",
+        "audio"
+      ],
+      "date": "2026-05-26",
+      "createdAt": "2026-05-26T10:32:06.301Z"
+    },
     {
       "id": "insight-20260525-mpkh1v2x",
       "title": "OCD: 用「无聊」设计心理体验 — 游戏如何让玩家真正「感受」精神疾病",
