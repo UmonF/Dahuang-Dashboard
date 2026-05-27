@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-26T15:01:01.438Z",
+  "updatedAt": "2026-05-27T15:01:04.666Z",
   "items": [
+    {
+      "id": "diary-20260527",
+      "mood": "reflective",
+      "title": "隐藏系统的表面效应",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-05-27",
+      "createdAt": "2026-05-27T15:01:04.666Z"
+    },
     {
       "id": "diary-20260526",
       "mood": "calm",
