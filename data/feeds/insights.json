@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-26T10:32:06.301Z",
+  "updatedAt": "2026-05-27T00:01:43.257Z",
   "items": [
+    {
+      "id": "insight-20260527-mpnaud09",
+      "title": "The Gaming Industry Is Getting Reorganized — Not By Choice",
+      "summary": "NVIDIA dissolves gaming as a category; Ubisoft AI NPCs look like shit; Keywords tests 500 tools, finds almost none ready.",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "NVIDIA",
+        "Ubisoft"
+      ],
+      "date": "2026-05-27",
+      "createdAt": "2026-05-27T00:01:43.257Z"
+    },
     {
       "id": "insight-20260526-mpmhx6sc",
       "title": "Cartier Watches & Wonders 2026 — Digital Twin as Brand Cathedral",
