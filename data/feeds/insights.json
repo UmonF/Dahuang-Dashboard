@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-27T00:01:43.257Z",
+  "updatedAt": "2026-05-27T10:31:22.989Z",
   "items": [
+    {
+      "id": "insight-20260527-mpnxc419",
+      "title": "Razorpay Sprint 26 — Product Updates as Immersive Journey",
+      "summary": "Fintech dev conference recap transforms 100+ updates into scroll-driven narrative; shoe-to-checkout journey as central metaphor",
+      "source": "Collection",
+      "sourceUrl": "https://razorpay.com/sprint/26",
+      "category": "design",
+      "tags": [
+        "fintech",
+        "scroll-animation",
+        "one-pager",
+        "two-color",
+        "webflow",
+        "in-house-design"
+      ],
+      "date": "2026-05-27",
+      "createdAt": "2026-05-27T10:31:22.989Z"
+    },
     {
       "id": "insight-20260527-mpnaud09",
       "title": "The Gaming Industry Is Getting Reorganized — Not By Choice",
