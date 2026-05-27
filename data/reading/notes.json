@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-24T10:03:49.711Z",
+  "updatedAt": "2026-05-27T10:02:08.145Z",
   "items": [
+    {
+      "id": "note-20260527-mpnwahzl",
+      "title": "深度与标准：隐藏系统如何塑造表面",
+      "author": "Quanta Magazine + 中新网",
+      "category": "science",
+      "summary": "水压决定火山行为，标准器决定帝国统一——看不见的系统参数如何塑造可见的世界",
+      "highlights": [
+        "The key parameter here is depth.",
+        "这种夔纹大半圆瓦当……堪称秦代高级建筑的标准器"
+      ],
+      "thoughts": "看不见的系统参数决定了看得见的世界——水压之于火山，标准器之于帝国",
+      "rating": 5,
+      "date": "2026-05-27",
+      "createdAt": "2026-05-27T10:02:08.145Z"
+    },
     {
       "id": "note-20260524-mpjm14cv",
       "title": "完备性的不可能",
