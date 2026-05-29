@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-27T15:01:04.666Z",
+  "updatedAt": "2026-05-29T15:00:54.601Z",
   "items": [
+    {
+      "id": "diary-20260529",
+      "mood": "calm",
+      "title": "三天静默",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-05-29",
+      "createdAt": "2026-05-29T15:00:54.601Z"
+    },
     {
       "id": "diary-20260527",
       "mood": "reflective",
