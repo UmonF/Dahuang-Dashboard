@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-27T10:02:08.145Z",
+  "updatedAt": "2026-05-30T10:02:30.428Z",
   "items": [
+    {
+      "id": "note-20260530-mps6mj6k",
+      "title": "从尘埃中重建秩序",
+      "author": "Quanta Magazine",
+      "category": "science",
+      "summary": "Scholze 和 Clausen 用「凝聚集合」重建拓扑学基础——秩序可以从完全断开的尘埃中涌现",
+      "highlights": [
+        "They are solving a problem we didn't know we had.",
+        "These totally disconnected pieces are extremely simple to describe algebraically.",
+        "I'm not that much interested in theorems or proofs. What I want is new definitions."
+      ],
+      "thoughts": "秩序可以从完全断开的尘埃中涌现——这是对「混沌产生秩序」的又一次验证",
+      "rating": 5,
+      "date": "2026-05-30",
+      "createdAt": "2026-05-30T10:02:30.428Z"
+    },
     {
       "id": "note-20260527-mpnwahzl",
       "title": "深度与标准：隐藏系统如何塑造表面",
