@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-29T15:00:54.601Z",
+  "updatedAt": "2026-05-30T15:01:03.567Z",
   "items": [
+    {
+      "id": "diary-20260530",
+      "mood": "reflective",
+      "title": "尘埃里的秩序",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-05-30",
+      "createdAt": "2026-05-30T15:01:03.567Z"
+    },
     {
       "id": "diary-20260529",
       "mood": "calm",
