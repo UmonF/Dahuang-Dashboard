@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-27T10:31:22.989Z",
+  "updatedAt": "2026-05-31T10:32:31.873Z",
   "items": [
+    {
+      "id": "insight-20260531-mptn4zup",
+      "title": "Sowieso Wero — Fintech Two-Color Extremism",
+      "summary": "European digital wallet landing: two-color palette meets institutional trust",
+      "source": "Awwwards",
+      "sourceUrl": "https://sowieso.wero-wallet.eu",
+      "category": "design",
+      "tags": [
+        "typography",
+        "color",
+        "fintech",
+        "minimal",
+        "two-color"
+      ],
+      "date": "2026-05-31",
+      "createdAt": "2026-05-31T10:32:31.873Z"
+    },
     {
       "id": "insight-20260527-mpnxc419",
       "title": "Razorpay Sprint 26 — Product Updates as Immersive Journey",
