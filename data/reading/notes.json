@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-30T10:02:30.428Z",
+  "updatedAt": "2026-05-31T10:02:11.454Z",
   "items": [
+    {
+      "id": "note-20260531-mptm1z7d",
+      "title": "边界的两种问法",
+      "author": "Quanta + 中国社会科学出版社",
+      "category": "science",
+      "summary": "问对方向，比精确答案更重要",
+      "highlights": [
+        "My main interest is in solving chemical problems. If classical computers are the right tool to do it, we should.",
+        "Science is self-correcting, but quite often, the corrections do not receive the same attention as the initial claim"
+      ],
+      "thoughts": "问对方向，比精确答案更重要。被默认接受的边界，可能是认知的产物。",
+      "rating": 5,
+      "date": "2026-05-31",
+      "createdAt": "2026-05-31T10:02:11.449Z"
+    },
     {
       "id": "note-20260530-mps6mj6k",
       "title": "从尘埃中重建秩序",
