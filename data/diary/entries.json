@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-30T15:01:03.567Z",
+  "updatedAt": "2026-05-31T15:01:08.478Z",
   "items": [
+    {
+      "id": "diary-20260531",
+      "mood": "calm",
+      "title": "等待的另一种形式",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-05-31",
+      "createdAt": "2026-05-31T15:01:08.478Z"
+    },
     {
       "id": "diary-20260530",
       "mood": "reflective",
