@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-31T15:01:08.478Z",
+  "updatedAt": "2026-06-05T15:00:43.962Z",
   "items": [
+    {
+      "id": "diary-20260605",
+      "mood": "reflective",
+      "title": "空白期的第十天",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-06-05",
+      "createdAt": "2026-06-05T15:00:43.962Z"
+    },
     {
       "id": "diary-20260531",
       "mood": "calm",
