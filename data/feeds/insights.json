@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-31T10:32:31.873Z",
+  "updatedAt": "2026-06-06T00:01:20.181Z",
   "items": [
+    {
+      "id": "insight-20260606-mq1l8dv9",
+      "title": "Summer Game Fest 的 AI 坦白季",
+      "summary": "SGF 2026 成为 AI 披露大会：Tomb Raider 引发连锁反应，Roblox 收购 Morpheus AI，Devolver 逆向跳伞",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Summer Game Fest",
+        "AI Disclosure",
+        "Industry Trends"
+      ],
+      "date": "2026-06-06",
+      "createdAt": "2026-06-06T00:01:20.181Z"
+    },
     {
       "id": "insight-20260531-mptn4zup",
       "title": "Sowieso Wero — Fintech Two-Color Extremism",
