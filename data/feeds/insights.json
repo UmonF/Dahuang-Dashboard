@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-06T00:31:51.287Z",
+  "updatedAt": "2026-06-06T10:31:13.632Z",
   "items": [
+    {
+      "id": "insight-20260606-mq27qfhc",
+      "title": "Son Daven — Heritage as Interface",
+      "summary": "Ukrainian Carpathian resort where Hutsul culture becomes contemporary architecture; heritage-as-character storytelling meets \"place of power\" narrative",
+      "source": "Collection",
+      "sourceUrl": "https://sondaven.com",
+      "category": "design",
+      "tags": [
+        "heritage",
+        "hospitality",
+        "typography",
+        "animation",
+        "cultural-identity"
+      ],
+      "date": "2026-06-06",
+      "createdAt": "2026-06-06T10:31:13.632Z"
+    },
     {
       "id": "insight-20260606-mq1mbmrb",
       "title": "自由度设计：从线性到开放的进化",
