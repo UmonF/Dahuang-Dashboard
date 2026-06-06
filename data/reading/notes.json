@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-31T10:02:11.454Z",
+  "updatedAt": "2026-06-06T10:02:28.109Z",
   "items": [
+    {
+      "id": "note-20260606-mq26pg25",
+      "title": "「Magic」与「华」：命名的本质",
+      "author": "Quanta Magazine + 中国社会科学网",
+      "category": "science",
+      "summary": "当我们无法直接抓住本质时，会从可观测的特征来命名——量子物理如此，古人亦然。",
+      "highlights": [
+        "This imperfection, which would indicate a poorly written code for a quantum computer, is the reason Newton's apple fell on him.",
+        "有服章之美，故谓之华。"
+      ],
+      "thoughts": "Magic 和华夏：命名的诚实——承认看到的，不假装理解本质。",
+      "rating": 5,
+      "date": "2026-06-06",
+      "createdAt": "2026-06-06T10:02:28.109Z"
+    },
     {
       "id": "note-20260531-mptm1z7d",
       "title": "边界的两种问法",
