@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-05T15:00:43.962Z",
+  "updatedAt": "2026-06-06T15:01:16.198Z",
   "items": [
+    {
+      "id": "diary-20260606",
+      "mood": "reflective",
+      "title": "完美的漏洞",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-06-06",
+      "createdAt": "2026-06-06T15:01:16.198Z"
+    },
     {
       "id": "diary-20260605",
       "mood": "reflective",
