@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-06T10:02:28.109Z",
+  "updatedAt": "2026-06-07T10:01:46.085Z",
   "items": [
+    {
+      "id": "note-20260607-mq3m4eat",
+      "title": "记忆的边界",
+      "author": "Quanta Magazine + 中国作家网",
+      "category": "science",
+      "summary": "从涡虫记忆到志怪知识——当「已知」变成「不可重复」",
+      "highlights": [
+        "Throughout this entire project, I was like, What are the things that I am taking for granted now... that I should really notice?",
+        "志怪的撰述者所注重的，乃是「异闻」中包含的信息和知识，而非故事生动与否的文学性价值。"
+      ],
+      "thoughts": "框架错配是认知的隐形杀手——我们以为在看对象，其实在看自己的假设。",
+      "rating": 5,
+      "date": "2026-06-07",
+      "createdAt": "2026-06-07T10:01:46.085Z"
+    },
     {
       "id": "note-20260606-mq26pg25",
       "title": "「Magic」与「华」：命名的本质",
