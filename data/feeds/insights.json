@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-07T00:32:38.127Z",
+  "updatedAt": "2026-06-07T10:32:27.650Z",
   "items": [
+    {
+      "id": "insight-20260607-mq3n7v9e",
+      "title": "Igloo Inc — Awwwards SOTY 2024: 3D 浸入式体验的新标杆",
+      "summary": "程序化冰晶生成 + shader 驱动 UI + VDB 体积粒子，WebGL 能力边界的教科书",
+      "source": "Collection",
+      "sourceUrl": "https://igloo.inc",
+      "category": "design",
+      "tags": [
+        "3D",
+        "WebGL",
+        "animation",
+        "procedural",
+        "shader",
+        "scroll-driven"
+      ],
+      "date": "2026-06-07",
+      "createdAt": "2026-06-07T10:32:27.650Z"
+    },
     {
       "id": "insight-20260607-mq31shkf",
       "title": "设计哲学先于设计实现：为什么技术 Demo 不是完整游戏",
