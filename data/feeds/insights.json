@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-07T00:01:36.247Z",
+  "updatedAt": "2026-06-07T00:32:38.127Z",
   "items": [
+    {
+      "id": "insight-20260607-mq31shkf",
+      "title": "设计哲学先于设计实现：为什么技术 Demo 不是完整游戏",
+      "summary": "当你问「为什么这个游戏是这样的」得不到答案时，说明设计哲学缺失了。Games Over Qualia 用一个「不能输」的体育游戏案例，揭示了 post-hoc 设计的核心问题。",
+      "source": "Games Over Qualia",
+      "sourceUrl": "https://www.youtube.com/watch?v=j5P9BPJvLA8",
+      "category": "game-ux",
+      "tags": [
+        "Design Philosophy",
+        "Tech Demo vs Game",
+        "Post-hoc Design",
+        "Fail States",
+        "Theme-Mechanic Alignment"
+      ],
+      "date": "2026-06-07",
+      "createdAt": "2026-06-07T00:32:38.127Z"
+    },
     {
       "id": "insight-20260607-mq30okxj",
       "title": "SGF 2026: AI 披露季的三层真相",
