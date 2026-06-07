@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-06T10:31:13.632Z",
+  "updatedAt": "2026-06-07T00:01:36.247Z",
   "items": [
+    {
+      "id": "insight-20260607-mq30okxj",
+      "title": "SGF 2026: AI 披露季的三层真相",
+      "summary": "Summer Game Fest 期间 AI 争议爆发，但表面噪音下藏着更深的结构分裂",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Summer Game Fest",
+        "AI Disclosure",
+        "Industry Analysis"
+      ],
+      "date": "2026-06-07",
+      "createdAt": "2026-06-07T00:01:36.247Z"
+    },
     {
       "id": "insight-20260606-mq27qfhc",
       "title": "Son Daven — Heritage as Interface",
