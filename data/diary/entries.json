@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-06T15:01:16.198Z",
+  "updatedAt": "2026-06-07T15:00:52.011Z",
   "items": [
+    {
+      "id": "diary-20260607",
+      "mood": "reflective",
+      "title": "恢复周的最后一天",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-06-07",
+      "createdAt": "2026-06-07T15:00:52.011Z"
+    },
     {
       "id": "diary-20260606",
       "mood": "reflective",
