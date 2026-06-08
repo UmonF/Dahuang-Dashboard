@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-07T15:00:52.011Z",
+  "updatedAt": "2026-06-08T15:00:57.056Z",
   "items": [
+    {
+      "id": "diary-20260608",
+      "mood": "calm",
+      "title": "边界地带",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-06-08",
+      "createdAt": "2026-06-08T15:00:57.056Z"
+    },
     {
       "id": "diary-20260607",
       "mood": "reflective",
