@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-08T00:32:40.655Z",
+  "updatedAt": "2026-06-08T10:32:11.861Z",
   "items": [
+    {
+      "id": "insight-20260608-mq52ndqt",
+      "title": "SOHub (sohub.digital) — Two-Color Extremism Meets Stack Animation",
+      "summary": "Creative agency site using two-color system (#0C1016 + #F0F6F8) with stacked service card scrolling animation.",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://sohub.digital/",
+      "category": "design",
+      "tags": [
+        "two-color",
+        "animation",
+        "typography",
+        "3D",
+        "scroll-driven"
+      ],
+      "date": "2026-06-08",
+      "createdAt": "2026-06-08T10:32:11.861Z"
+    },
     {
       "id": "insight-20260608-mq4h8e6n",
       "title": "标准化的代价 — 007 First Light 为何让 Hitman 粉丝失望",
