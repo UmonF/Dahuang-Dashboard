@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-08T00:01:11.092Z",
+  "updatedAt": "2026-06-08T00:32:40.655Z",
   "items": [
+    {
+      "id": "insight-20260608-mq4h8e6n",
+      "title": "标准化的代价 — 007 First Light 为何让 Hitman 粉丝失望",
+      "summary": "当即兴变成预设：IO Interactive 的 007 在商业成功的同时，用「电影化」换掉了「涌现式」设计",
+      "source": "Writing on Games",
+      "sourceUrl": "https://youtube.com/watch?v=WI_5h1Px0vM",
+      "category": "game-ux",
+      "tags": [
+        "Design Philosophy",
+        "Emergent Design",
+        "Brand Constraints",
+        "Player Agency"
+      ],
+      "date": "2026-06-08",
+      "createdAt": "2026-06-08T00:32:40.655Z"
+    },
     {
       "id": "insight-20260608-mq4g3w6s",
       "title": "SGF Week 结语：三条路径的最终表态",
