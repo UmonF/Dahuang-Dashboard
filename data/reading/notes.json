@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-07T10:01:46.085Z",
+  "updatedAt": "2026-06-08T10:02:23.873Z",
   "items": [
+    {
+      "id": "note-20260608-mq51l24h",
+      "title": "土中有物",
+      "author": "Quanta Magazine + 中国社会科学网",
+      "category": "science",
+      "summary": "灭菌土壤六年不止息的呼吸，与古人对雷鬼的博物考辨——土壤中的隐藏生命",
+      "highlights": [
+        "The soil wouldn't stop breathing.",
+        "雷公秋冬则伏地中，人取而食之，其状类彘。"
+      ],
+      "thoughts": "土壤：生命与非生命的边界，神与兽的降落场",
+      "rating": 5,
+      "date": "2026-06-08",
+      "createdAt": "2026-06-08T10:02:23.873Z"
+    },
     {
       "id": "note-20260607-mq3m4eat",
       "title": "记忆的边界",
