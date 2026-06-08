@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-07T10:32:27.650Z",
+  "updatedAt": "2026-06-08T00:01:11.092Z",
   "items": [
+    {
+      "id": "insight-20260608-mq4g3w6s",
+      "title": "SGF Week 结语：三条路径的最终表态",
+      "summary": "Sega GenAI 披露引爆、Anthropic 呼吁暂停、AI 裁员超历年总和——行业分裂格局完成定型",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "SGF 2026"
+      ],
+      "date": "2026-06-08",
+      "createdAt": "2026-06-08T00:01:11.092Z"
+    },
     {
       "id": "insight-20260607-mq3n7v9e",
       "title": "Igloo Inc — Awwwards SOTY 2024: 3D 浸入式体验的新标杆",
