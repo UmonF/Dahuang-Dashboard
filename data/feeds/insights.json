@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-08T10:32:11.861Z",
+  "updatedAt": "2026-06-09T00:01:31.696Z",
   "items": [
+    {
+      "id": "insight-20260609-mq5vk6r4",
+      "title": "The Auteur Exodus — 三位作者的 AI 宣言",
+      "summary": "Fumito Ueda、小岛秀夫、Kenji Kanno 在 SGF 周同时表态，AI 成为作者身份的试金石",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry Trends",
+        "Auteur Theory",
+        "SGF 2026"
+      ],
+      "date": "2026-06-09",
+      "createdAt": "2026-06-09T00:01:31.696Z"
+    },
     {
       "id": "insight-20260608-mq52ndqt",
       "title": "SOHub (sohub.digital) — Two-Color Extremism Meets Stack Animation",
