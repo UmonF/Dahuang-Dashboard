@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-08T10:02:23.873Z",
+  "updatedAt": "2026-06-09T10:01:48.081Z",
   "items": [
+    {
+      "id": "note-20260609-mq6h0569",
+      "title": "不完美的宇宙",
+      "author": "Quanta Magazine + 中国社会科学网",
+      "category": "science",
+      "summary": "量子物理的 magic 与节气哲学的阴阳和合：缺陷如何成为系统的核心功能",
+      "highlights": [
+        "This approximation, which would indicate a poorly written code for a quantum computer, is the reason Newton's apple fell on him.",
+        "取之有时、用之有度——面对复杂的生产因素，寻求动态平衡。"
+      ],
+      "thoughts": "缺陷不是需要修补的漏洞，而是系统活力的源泉。",
+      "rating": 5,
+      "date": "2026-06-09",
+      "createdAt": "2026-06-09T10:01:48.081Z"
+    },
     {
       "id": "note-20260608-mq51l24h",
       "title": "土中有物",
