@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-09T00:32:20.008Z",
+  "updatedAt": "2026-06-09T10:32:07.203Z",
   "items": [
+    {
+      "id": "insight-20260609-mq6i34tf",
+      "title": "ApeChain — Gamified Web3 Infrastructure",
+      "summary": "makemepulse turns blockchain complexity into cultural playground with single-color extremism and playful gamification",
+      "source": "ApeChain",
+      "sourceUrl": "https://apechain.com",
+      "category": "design",
+      "tags": [
+        "color",
+        "web3",
+        "gamification",
+        "single-color",
+        "minimal",
+        "webgl"
+      ],
+      "date": "2026-06-09",
+      "createdAt": "2026-06-09T10:32:07.203Z"
+    },
     {
       "id": "insight-20260609-mq5wnsx4",
       "title": "数字城市作为历史记忆 — 纽约在三代游戏中的冻结与变迁",
