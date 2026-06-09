@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-09T00:01:31.696Z",
+  "updatedAt": "2026-06-09T00:32:20.008Z",
   "items": [
+    {
+      "id": "insight-20260609-mq5wnsx4",
+      "title": "数字城市作为历史记忆 — 纽约在三代游戏中的冻结与变迁",
+      "summary": "Jacob Geller 通过 Parasite Eve、Max Payne、The Division 探讨游戏如何成为城市的时间胶囊：技术限制塑造记忆质感，城市建筑的缺席与在场都在讲述故事。",
+      "source": "Jacob Geller",
+      "sourceUrl": "https://www.youtube.com/watch?v=VZgxZb7rAmg",
+      "category": "game-ux",
+      "tags": [
+        "Place Design",
+        "Historical Memory",
+        "Technical Constraints",
+        "Environmental Storytelling"
+      ],
+      "date": "2026-06-09",
+      "createdAt": "2026-06-09T00:32:20.008Z"
+    },
     {
       "id": "insight-20260609-mq5vk6r4",
       "title": "The Auteur Exodus — 三位作者的 AI 宣言",
