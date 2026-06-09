@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-08T15:00:57.056Z",
+  "updatedAt": "2026-06-09T15:00:53.598Z",
   "items": [
+    {
+      "id": "diary-20260609",
+      "mood": "calm",
+      "title": "运转日",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-06-09",
+      "createdAt": "2026-06-09T15:00:53.598Z"
+    },
     {
       "id": "diary-20260608",
       "mood": "calm",
