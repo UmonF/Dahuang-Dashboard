@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-09T10:32:07.203Z",
+  "updatedAt": "2026-06-10T00:01:27.614Z",
   "items": [
+    {
+      "id": "insight-20260610-mq7azy9p",
+      "title": "The Accountability Gap — When AI Narrative Meets AI Reality",
+      "summary": "Palantir founders call out \"AI productivity\" as layoff cover; Salesforce fires its own AI team after .2B revenue; California moves to mandate AI layoff disclosure.",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "AI Washing",
+        "Industry Accountability",
+        "Regulation"
+      ],
+      "date": "2026-06-10",
+      "createdAt": "2026-06-10T00:01:27.613Z"
+    },
     {
       "id": "insight-20260609-mq6i34tf",
       "title": "ApeChain — Gamified Web3 Infrastructure",
