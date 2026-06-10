@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-09T10:01:48.081Z",
+  "updatedAt": "2026-06-10T10:03:13.789Z",
   "items": [
+    {
+      "id": "note-20260610-mq7whtz1",
+      "title": "协作作为方法 — 从 Polymath 到 Lean 的数学革命",
+      "author": "Quanta Magazine + 中国社会科学网",
+      "category": "science",
+      "summary": "从 Terry Tao 的协作数学实验到商周疆域治理，探讨「分解」与「整合」如何塑造复杂系统",
+      "highlights": [
+        "One day we may actually write our papers not in LaTeX, but in some language which some smart software will convert to a formal language.",
+        "蛮土是保"
+      ],
+      "thoughts": "协作的本质是分解与整合——找到正确的颗粒度，建立有效的验证机制",
+      "rating": 5,
+      "date": "2026-06-10",
+      "createdAt": "2026-06-10T10:03:13.789Z"
+    },
     {
       "id": "note-20260609-mq6h0569",
       "title": "不完美的宇宙",
