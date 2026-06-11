@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-10T10:03:13.789Z",
+  "updatedAt": "2026-06-11T10:02:51.338Z",
   "items": [
+    {
+      "id": "note-20260611-mq9bx7be",
+      "title": "核心不变，接口演化",
+      "author": "Quanta + 搜神记",
+      "category": "science",
+      "summary": "从光合作用到民间信仰：解决方案一旦找到就不再改变，但接口持续演化",
+      "highlights": [
+        "Once nature came on with the solution, it didn't change very much. It kept the basic framework.",
+        "不尔，将有大咎。"
+      ],
+      "thoughts": "解决方案一旦有效就被锁定，创新发生在接口层——这个模式从20亿年的光合作用到1700年前的志怪故事都成立。",
+      "rating": 5,
+      "date": "2026-06-11",
+      "createdAt": "2026-06-11T10:02:51.338Z"
+    },
     {
       "id": "note-20260610-mq7whtz1",
       "title": "协作作为方法 — 从 Polymath 到 Lean 的数学革命",
