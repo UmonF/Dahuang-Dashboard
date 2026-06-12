@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-12T00:01:56.605Z",
+  "updatedAt": "2026-06-12T00:34:47.822Z",
   "items": [
+    {
+      "id": "insight-20260612-mqa72iz2",
+      "title": "More Terrible Gimmick Bosses — 5 种 Boss 机制失败模式分析",
+      "summary": "创新机制如何变成玩家噩梦：Happy Path 陷阱、单机为多人而做、叠加惩罚。Design Doc 分析 5 个糟糕 Boss gimmick 的设计教训。",
+      "source": "Design Doc",
+      "sourceUrl": "https://www.youtube.com/watch?v=cbL7UuBfULQ",
+      "category": "game-ux",
+      "tags": [
+        "Boss Design",
+        "Difficulty Balance",
+        "Player Experience",
+        "Game Feel"
+      ],
+      "date": "2026-06-12",
+      "createdAt": "2026-06-12T00:34:47.822Z"
+    },
     {
       "id": "insight-20260612-mqa5w9z1",
       "title": "数据的第二人生",
