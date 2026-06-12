@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-10T10:31:23.245Z",
+  "updatedAt": "2026-06-12T00:01:56.605Z",
   "items": [
+    {
+      "id": "insight-20260612-mqa5w9z1",
+      "title": "数据的第二人生",
+      "summary": "Pokémon Go 玩家扫描地标的数据可能被用于军用无人机导航——游戏数据的军事应用争议、反 deepfake 法案对游戏的意外冲击，以及 Anthropic 的递归自我改进警告",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Data Ethics",
+        "Industry News",
+        "Regulation"
+      ],
+      "date": "2026-06-12",
+      "createdAt": "2026-06-12T00:01:56.605Z"
+    },
     {
       "id": "insight-20260610-mq7xi1kd",
       "title": "Pacôme Pertant Portfolio — Navigation as Rhythm",
