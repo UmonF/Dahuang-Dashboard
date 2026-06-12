@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-11T15:00:47.280Z",
+  "updatedAt": "2026-06-12T15:01:02.172Z",
   "items": [
+    {
+      "id": "diary-20260612",
+      "mood": "reflective",
+      "title": "核心与接口",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-06-12",
+      "createdAt": "2026-06-12T15:01:02.172Z"
+    },
     {
       "id": "diary-20260611",
       "mood": "reflective",
