@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-11T10:02:51.338Z",
+  "updatedAt": "2026-06-12T10:02:46.212Z",
   "items": [
+    {
+      "id": "note-20260612-mqarcy10",
+      "title": "核心守恒与认同文化",
+      "author": "Quanta Magazine + 高丙中",
+      "category": "science",
+      "summary": "从 CRISPR 基因编辑到端午节民俗，探索什么值得被保留",
+      "highlights": [
+        "What CRISPR offers is an easy way to generate double-stranded breaks... we can simply change the guide RNA",
+        "一个共同体有多大的凝聚力和自信，取决于它有没有足够的认同文化"
+      ],
+      "thoughts": "当我们有能力改变一切时，什么应该保持不变？",
+      "rating": 5,
+      "date": "2026-06-12",
+      "createdAt": "2026-06-12T10:02:46.212Z"
+    },
     {
       "id": "note-20260611-mq9bx7be",
       "title": "核心不变，接口演化",
