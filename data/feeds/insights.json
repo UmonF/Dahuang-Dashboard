@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-12T10:31:56.874Z",
+  "updatedAt": "2026-06-13T00:01:27.022Z",
   "items": [
+    {
+      "id": "insight-20260613-mqblbhta",
+      "title": "AI Detection Arms Race: When Slop Becomes Evidence",
+      "summary": "三起 SGF 争议揭示新动态：AI 检测已成全民运动，「无意中混入」成标准辩护词",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "SGF 2026",
+        "AI Detection"
+      ],
+      "date": "2026-06-13",
+      "createdAt": "2026-06-13T00:01:27.022Z"
+    },
     {
       "id": "insight-20260612-mqasegui",
       "title": "Tresmares Capital — Name as Destiny",
