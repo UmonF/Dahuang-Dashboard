@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-13T00:01:27.022Z",
+  "updatedAt": "2026-06-13T00:32:21.793Z",
   "items": [
+    {
+      "id": "insight-20260613-mqbmf8yp",
+      "title": "Character Design Pipeline: From Ugly Prototype to Polished Art",
+      "summary": "Noclip 揭示 Everbloom 团队如何在无专业美术的情况下构建角色设计流程。核心洞察：丑陋原型的价值在于验证而非展示，scale 错误的代价是全系统连锁反应。",
+      "source": "Noclip",
+      "sourceUrl": "https://youtube.com/watch?v=lh6jyd8QT70",
+      "category": "game-ux",
+      "tags": [
+        "Character Design",
+        "Prototyping",
+        "Art Pipeline",
+        "Scale Design",
+        "Indie Dev"
+      ],
+      "date": "2026-06-13",
+      "createdAt": "2026-06-13T00:32:21.793Z"
+    },
     {
       "id": "insight-20260613-mqblbhta",
       "title": "AI Detection Arms Race: When Slop Becomes Evidence",
