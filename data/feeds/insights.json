@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-13T00:32:21.793Z",
+  "updatedAt": "2026-06-15T10:32:25.807Z",
   "items": [
+    {
+      "id": "insight-20260615-mqf2qn67",
+      "title": "SAKAZUKI — 朱红与纸白的仪式感",
+      "summary": "日本酒文化会员平台：两色极端主义 + 视频驱动叙事 + 传统仪式转译为数字体验",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://sakazuki.io/",
+      "category": "design",
+      "tags": [
+        "color",
+        "animation",
+        "minimal",
+        "typography",
+        "video"
+      ],
+      "date": "2026-06-15",
+      "createdAt": "2026-06-15T10:32:25.807Z"
+    },
     {
       "id": "insight-20260613-mqbmf8yp",
       "title": "Character Design Pipeline: From Ugly Prototype to Polished Art",
