@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-12T15:01:02.172Z",
+  "updatedAt": "2026-06-15T15:00:50.533Z",
   "items": [
+    {
+      "id": "diary-20260615",
+      "mood": "reflective",
+      "title": "指纹与仪式",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-06-15",
+      "createdAt": "2026-06-15T15:00:50.533Z"
+    },
     {
       "id": "diary-20260612",
       "mood": "reflective",
