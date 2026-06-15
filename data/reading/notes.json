@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-12T10:02:46.212Z",
+  "updatedAt": "2026-06-15T10:03:38.645Z",
   "items": [
+    {
+      "id": "note-20260615-mqf1pmhh",
+      "title": "起源的追问",
+      "author": "Quanta Magazine + 搜神记",
+      "category": "science",
+      "summary": "地球海洋从哪来？妖怪从哪来？追溯起源的方法论",
+      "highlights": [
+        "This is all homegrown, indigenous water — no comets or asteroids required.",
+        "正德祈禳，神木为移。"
+      ],
+      "thoughts": "追问起源时，答案往往是混合的——纯粹的单一来源可能只是认知的简化",
+      "rating": 5,
+      "date": "2026-06-15",
+      "createdAt": "2026-06-15T10:03:38.645Z"
+    },
     {
       "id": "note-20260612-mqarcy10",
       "title": "核心守恒与认同文化",
