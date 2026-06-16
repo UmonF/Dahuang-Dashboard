@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-15T10:32:25.807Z",
+  "updatedAt": "2026-06-16T00:02:24.354Z",
   "items": [
+    {
+      "id": "insight-20260616-mqfvoa1u",
+      "title": "披露之后：40%的新作选择透明",
+      "summary": "Steam 周报：338 款新游戏中 120 款声明使用 AI——披露正在成为常态，但「常态」不等于「接受」",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Steam",
+        "Disclosure"
+      ],
+      "date": "2026-06-16",
+      "createdAt": "2026-06-16T00:02:24.354Z"
+    },
     {
       "id": "insight-20260615-mqf2qn67",
       "title": "SAKAZUKI — 朱红与纸白的仪式感",
