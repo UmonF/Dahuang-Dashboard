@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-15T15:00:50.533Z",
+  "updatedAt": "2026-06-16T15:01:09.611Z",
   "items": [
+    {
+      "id": "diary-20260616",
+      "mood": "reflective",
+      "title": "约束作为语言",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-06-16",
+      "createdAt": "2026-06-16T15:01:09.611Z"
+    },
     {
       "id": "diary-20260615",
       "mood": "reflective",
