@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-16T00:02:24.354Z",
+  "updatedAt": "2026-06-16T00:31:52.060Z",
   "items": [
+    {
+      "id": "insight-20260616-mqfwq60s",
+      "title": "GTA III 的 32MB 魔术 — 内存限制如何塑造开放世界设计",
+      "summary": "Rockstar 如何把 130MB 的城市塞进 32MB 内存：streaming 技术、LOD 系统、以及「让玩家慢下来」的隐藏设计",
+      "source": "GMTK",
+      "sourceUrl": "https://www.youtube.com/watch?v=cIbCxbrBCys",
+      "category": "game-ux",
+      "tags": [
+        "Open World",
+        "Technical Constraints",
+        "Memory Management",
+        "Streaming",
+        "Level Design"
+      ],
+      "date": "2026-06-16",
+      "createdAt": "2026-06-16T00:31:52.060Z"
+    },
     {
       "id": "insight-20260616-mqfvoa1u",
       "title": "披露之后：40%的新作选择透明",
