@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-16T00:31:52.060Z",
+  "updatedAt": "2026-06-17T00:01:41.812Z",
   "items": [
+    {
+      "id": "insight-20260617-mqhb37w4",
+      "title": "「临界质量」周：20% 披露、2000 裁员、Context 反叙事",
+      "summary": "Steam Next Fest 20% AI 披露成新常态；Xbox 2000 人裁员撞上工会；Nexon CEO「Context > Implementation」反主流叙事",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Steam",
+        "Xbox",
+        "Nexon",
+        "Layoffs",
+        "Industry Trends"
+      ],
+      "date": "2026-06-17",
+      "createdAt": "2026-06-17T00:01:41.812Z"
+    },
     {
       "id": "insight-20260616-mqfwq60s",
       "title": "GTA III 的 32MB 魔术 — 内存限制如何塑造开放世界设计",
