@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-16T10:01:50.134Z",
+  "updatedAt": "2026-07-01T10:01:48.080Z",
   "items": [
+    {
+      "id": "note-20260701-mr1wovu8",
+      "title": "位置的意外",
+      "author": "Quanta Magazine + 光明日报",
+      "category": "science",
+      "summary": "数学家用高维球面找到 80 年找不到的图——圣山昆仑在「化外」而非中华",
+      "highlights": [
+        "It was hidden in plain view.",
+        "禹出西羌。——《史记·六国年表》",
+        "我们找不到的，可能只是因为我们在错误的地方找。"
+      ],
+      "thoughts": "维度决定可见性——数学上如此，历史上亦然",
+      "rating": 5,
+      "date": "2026-07-01",
+      "createdAt": "2026-07-01T10:01:48.080Z"
+    },
     {
       "id": "note-20260616-mqgh35f9",
       "title": "演化与仪式：在时间长河中找到自己的位置",
