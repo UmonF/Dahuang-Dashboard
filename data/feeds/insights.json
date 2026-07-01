@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-01T00:32:22.984Z",
+  "updatedAt": "2026-07-01T10:31:57.153Z",
   "items": [
+    {
+      "id": "insight-20260701-mr1xrnq9",
+      "title": "IVRESS SPIN A TALE — 闇の中の物語",
+      "summary": "Single-color extremism (#000000 only) + WebGPU/TSL shaders create a narrative journey that plays like a short film",
+      "source": "IVRESS Brand Site",
+      "sourceUrl": "https://brand.ivress.co.jp/",
+      "category": "design",
+      "tags": [
+        "single-color",
+        "WebGPU",
+        "storytelling",
+        "animation",
+        "dark-mode",
+        "Japanese"
+      ],
+      "date": "2026-07-01",
+      "createdAt": "2026-07-01T10:31:57.153Z"
+    },
     {
       "id": "insight-20260701-mr1cclvs",
       "title": "2026年6月·游戏机制精选 — 25个值得UX设计师关注的创意实现",
