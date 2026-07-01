@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-01T00:01:16.979Z",
+  "updatedAt": "2026-07-01T00:32:22.984Z",
   "items": [
+    {
+      "id": "insight-20260701-mr1cclvs",
+      "title": "2026年6月·游戏机制精选 — 25个值得UX设计师关注的创意实现",
+      "summary": "Game Design Library 月度精选：从 Trails in the Sky 的实时/回合切换，到 Superhot 的「动即时流」，25个机制如何用「约束」创造「自由感」",
+      "source": "Game Design Library",
+      "sourceUrl": "https://www.youtube.com/watch?v=nMCzUo-uOIg",
+      "category": "game-ux",
+      "tags": [
+        "Game Mechanics",
+        "Puzzle Design",
+        "Time Mechanics",
+        "Death Design",
+        "Constraint Design",
+        "June 2026"
+      ],
+      "date": "2026-07-01",
+      "createdAt": "2026-07-01T00:32:22.984Z"
+    },
     {
       "id": "insight-20260701-mr1b8m2b",
       "title": "Black Tuesday: Xbox's Extinction-Level Event",
