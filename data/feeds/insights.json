@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-18T00:01:25.293Z",
+  "updatedAt": "2026-07-01T00:01:16.979Z",
   "items": [
+    {
+      "id": "insight-20260701-mr1b8m2b",
+      "title": "Black Tuesday: Xbox's Extinction-Level Event",
+      "summary": "Xbox finalizes layoffs starting July 6; 5+ studios at risk; IO Interactive loses funding; vibe coding floods 181K mobile games",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry Layoffs",
+        "Xbox",
+        "Vibe Coding"
+      ],
+      "date": "2026-07-01",
+      "createdAt": "2026-07-01T00:01:16.979Z"
+    },
     {
       "id": "insight-20260618-mqiqipt9",
       "title": "June 30 Countdown: The Great Contraction Accelerates",
