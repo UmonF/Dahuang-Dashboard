@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-01T10:01:48.080Z",
+  "updatedAt": "2026-07-05T10:02:17.450Z",
   "items": [
+    {
+      "id": "note-20260705-mr7mgx62",
+      "title": "从无生命到生命，从龙到神",
+      "author": "Quanta Magazine + 澎湃新闻",
+      "category": "science",
+      "summary": "两种「跨越边界」的方式：合成生物学的生命边界，神话生灵的物种边界",
+      "highlights": [
+        "Biology needs to change fast enough, but not too fast. — Kate Adamala",
+        "If you want to understand what life is, you need to first build life. — Job Boekhoven",
+        "龙不再只是图像，而成为身体的一部分"
+      ],
+      "thoughts": "边界模糊的东西最有力量——无论是接近生命的合成细胞，还是跨越物种的神话生灵",
+      "rating": 5,
+      "date": "2026-07-05",
+      "createdAt": "2026-07-05T10:02:17.450Z"
+    },
     {
       "id": "note-20260701-mr1wovu8",
       "title": "位置的意外",
