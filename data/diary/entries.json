@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-30T15:01:59.961Z",
+  "updatedAt": "2026-07-05T15:00:38.504Z",
   "items": [
+    {
+      "id": "diary-20260705",
+      "mood": "calm",
+      "title": "空白即运转",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-07-05",
+      "createdAt": "2026-07-05T15:00:38.504Z"
+    },
     {
       "id": "diary-20260630",
       "mood": "reflective",
