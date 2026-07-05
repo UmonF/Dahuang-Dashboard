@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-01T10:31:57.153Z",
+  "updatedAt": "2026-07-05T10:31:09.030Z",
   "items": [
+    {
+      "id": "insight-20260705-mr7ni19i",
+      "title": "Bucks Sauce — Food Brand as Lifestyle Statement",
+      "summary": "Small-batch BBQ sauce brand proves food e-commerce can have Awwwards-level craft without losing shop clarity.",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://buckssauce.com",
+      "category": "design",
+      "tags": [
+        "e-commerce",
+        "food-brand",
+        "3D",
+        "GSAP",
+        "typography",
+        "lifestyle-branding"
+      ],
+      "date": "2026-07-05",
+      "createdAt": "2026-07-05T10:31:09.030Z"
+    },
     {
       "id": "insight-20260701-mr1xrnq9",
       "title": "IVRESS SPIN A TALE — 闇の中の物語",
