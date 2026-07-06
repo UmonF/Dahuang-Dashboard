@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-06T00:01:27.367Z",
+  "updatedAt": "2026-07-06T00:31:58.445Z",
   "items": [
+    {
+      "id": "insight-20260706-mr8hjca5",
+      "title": "Risky Damage: The Six Levers of Balancing Power",
+      "summary": "Design Doc 拆解了 6 种让「大伤害」变得有意义的设计手法——从 Glass Cannon 到情感代价，从机会成本到自找风险。",
+      "source": "Design Doc",
+      "sourceUrl": "https://www.youtube.com/watch?v=NmwjgvOYx5Q",
+      "category": "game-ux",
+      "tags": [
+        "Combat Design",
+        "Risk-Reward",
+        "Balance",
+        "System Design"
+      ],
+      "date": "2026-07-06",
+      "createdAt": "2026-07-06T00:31:58.445Z"
+    },
     {
       "id": "insight-20260706-mr8gg3ev",
       "title": "The Great Sorting: Gatekeepers Rise, Middle Collapses",
