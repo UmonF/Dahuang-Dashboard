@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-05T10:02:17.450Z",
+  "updatedAt": "2026-07-06T10:01:55.799Z",
   "items": [
+    {
+      "id": "note-20260706-mr91wb4m",
+      "title": "从无到有：合成细胞与鬼怪附身",
+      "author": "Quanta + 搜神记",
+      "category": "science",
+      "summary": "身份的连续性不在于物质，而在于功能的延续",
+      "highlights": [
+        "If you want to understand what life is, you need to first build life.",
+        "汉直顾见家人，怪其如此。家见汉直，谓其鬼也。"
+      ],
+      "thoughts": "身份的连续性不在物质，而在功能的涌现",
+      "rating": 5,
+      "date": "2026-07-06",
+      "createdAt": "2026-07-06T10:01:55.798Z"
+    },
     {
       "id": "note-20260705-mr7mgx62",
       "title": "从无生命到生命，从龙到神",
