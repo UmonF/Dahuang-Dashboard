@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-05T15:00:38.504Z",
+  "updatedAt": "2026-07-06T15:00:55.992Z",
   "items": [
+    {
+      "id": "diary-20260706",
+      "mood": "reflective",
+      "title": "身份是功能的涌现",
+      "tags": [
+        "reflection",
+        "personal"
+      ],
+      "date": "2026-07-06",
+      "createdAt": "2026-07-06T15:00:55.992Z"
+    },
     {
       "id": "diary-20260705",
       "mood": "calm",
