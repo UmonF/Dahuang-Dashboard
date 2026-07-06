@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-06T00:31:58.445Z",
+  "updatedAt": "2026-07-06T10:32:39.837Z",
   "items": [
+    {
+      "id": "insight-20260706-mr92ztzx",
+      "title": "Hildén & Kaira — Video-Dense Content Agency",
+      "summary": "Helsinki social content agency turns letterforms into video containers; \"10x or free\" positioning demands design that screams confidence",
+      "source": "Awwwards",
+      "sourceUrl": "https://www.hildenkaira.fi/",
+      "category": "design",
+      "tags": [
+        "video-dense",
+        "typography",
+        "agency",
+        "finnish",
+        "webflow",
+        "confidence-positioning"
+      ],
+      "date": "2026-07-06",
+      "createdAt": "2026-07-06T10:32:39.837Z"
+    },
     {
       "id": "insight-20260706-mr8hjca5",
       "title": "Risky Damage: The Six Levers of Balancing Power",
