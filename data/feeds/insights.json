@@ -1,7 +1,26 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-07T00:31:41.448Z",
+  "updatedAt": "2026-07-07T10:32:13.791Z",
   "items": [
+    {
+      "id": "insight-20260707-mraif4kf",
+      "title": "Radian — Product Launch as Journey",
+      "summary": "Dutch electric motorcycle site blends scroll storytelling with configurator; Webflow + GSAP execution proves no-code can deliver premium product experiences",
+      "source": "Awwwards",
+      "sourceUrl": "https://www.awwwards.com/sites/radian",
+      "category": "design",
+      "tags": [
+        "product",
+        "configurator",
+        "scroll",
+        "motion",
+        "dark-mode",
+        "webflow",
+        "gsap"
+      ],
+      "date": "2026-07-07",
+      "createdAt": "2026-07-07T10:32:13.791Z"
+    },
     {
       "id": "insight-20260707-mr9wytu0",
       "title": "From Jam to Steam: 100 Games 的进化密码",
