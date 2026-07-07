@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-06T10:01:55.799Z",
+  "updatedAt": "2026-07-07T10:02:37.949Z",
   "items": [
+    {
+      "id": "note-20260707-mrahd2bh",
+      "title": "证明的形态",
+      "author": "Quanta Magazine + 搜神记",
+      "category": "science",
+      "summary": "证明不只是逻辑推演——它的形态本身就是力量的来源",
+      "highlights": [
+        "Measurement disturbance could be relevant.",
+        "日月易得，使人怅然。",
+        "曹公气盛，宜避之。",
+        "庙神乃绝。"
+      ],
+      "thoughts": "证明的力量不在内容，在于形态——量子态因不可复制而强大，神格因不可识破而延续",
+      "rating": 5,
+      "date": "2026-07-07",
+      "createdAt": "2026-07-07T10:02:37.949Z"
+    },
     {
       "id": "note-20260706-mr91wb4m",
       "title": "从无到有：合成细胞与鬼怪附身",
