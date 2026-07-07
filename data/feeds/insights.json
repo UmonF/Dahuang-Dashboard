@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-06T10:32:39.837Z",
+  "updatedAt": "2026-07-07T00:01:48.719Z",
   "items": [
+    {
+      "id": "insight-20260707-mr9vwejz",
+      "title": "The Great Reset: 3200 Jobs, Two Philosophies",
+      "summary": "Xbox executes largest gaming layoff in history; Sweeney and Clair Obscur founder embody AI divide",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Xbox",
+        "Layoffs"
+      ],
+      "date": "2026-07-07",
+      "createdAt": "2026-07-07T00:01:48.719Z"
+    },
     {
       "id": "insight-20260706-mr92ztzx",
       "title": "Hildén & Kaira — Video-Dense Content Agency",
