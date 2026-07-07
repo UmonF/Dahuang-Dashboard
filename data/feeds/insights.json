@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-07T00:01:48.719Z",
+  "updatedAt": "2026-07-07T00:31:41.448Z",
   "items": [
+    {
+      "id": "insight-20260707-mr9wytu0",
+      "title": "From Jam to Steam: 100 Games 的进化密码",
+      "summary": "GMTK 盘点 100 个从 48 小时 Jam 到 Steam 发售的游戏，揭示原型进化的成功模式：找到 sauce → 扩展深度 → 保留核心",
+      "source": "GMTK",
+      "sourceUrl": "https://youtube.com/watch?v=usF4cpcxbZc",
+      "category": "game-ux",
+      "tags": [
+        "Game Jam",
+        "Prototyping",
+        "Indie Development",
+        "Design Patterns"
+      ],
+      "date": "2026-07-07",
+      "createdAt": "2026-07-07T00:31:41.448Z"
+    },
     {
       "id": "insight-20260707-mr9vwejz",
       "title": "The Great Reset: 3200 Jobs, Two Philosophies",
