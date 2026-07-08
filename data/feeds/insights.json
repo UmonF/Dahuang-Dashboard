@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-08T00:31:27.703Z",
+  "updatedAt": "2026-07-08T10:31:57.161Z",
   "items": [
+    {
+      "id": "insight-20260708-mrbxumeh",
+      "title": "Depo Luxe — Cinematic Restraint for Luxury Production",
+      "summary": "Two-color absolutism + video-dense architecture: when your work is visually stunning, interface becomes invisible frame.",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://depoluxe.xyz",
+      "category": "design",
+      "tags": [
+        "two-color",
+        "video",
+        "minimal",
+        "11ty",
+        "luxury",
+        "typography"
+      ],
+      "date": "2026-07-08",
+      "createdAt": "2026-07-08T10:31:57.161Z"
+    },
     {
       "id": "insight-20260708-mrbcedw7",
       "title": "高风险伤害设计的六种杠杆",
