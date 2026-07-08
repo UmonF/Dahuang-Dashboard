@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-08T00:01:32.957Z",
+  "updatedAt": "2026-07-08T00:31:27.703Z",
   "items": [
+    {
+      "id": "insight-20260708-mrbcedw7",
+      "title": "高风险伤害设计的六种杠杆",
+      "summary": "Design Doc 拆解游戏中「高风险伤害」的六种设计模式：玻璃炮、稀缺资源、动作锁定、情感代价、反击机制、玩家自驱",
+      "source": "Design Doc",
+      "sourceUrl": "https://www.youtube.com/watch?v=NmwjgvOYx5Q",
+      "category": "game-ux",
+      "tags": [
+        "Combat Design",
+        "Risk-Reward",
+        "Player Agency",
+        "Game Feel"
+      ],
+      "date": "2026-07-08",
+      "createdAt": "2026-07-08T00:31:27.703Z"
+    },
     {
       "id": "insight-20260708-mrbbbx24",
       "title": "Xbox Reset Day 2: Anatomy of an Empire Hollowed",
