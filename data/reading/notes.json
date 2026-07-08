@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-07T10:02:37.949Z",
+  "updatedAt": "2026-07-08T10:02:07.491Z",
   "items": [
+    {
+      "id": "note-20260708-mrbws9hf",
+      "title": "构建即理解",
+      "author": "Quanta Magazine + 光明日报",
+      "category": "science",
+      "summary": "从合成细胞到 AI 考古——构建不是取代，是理解的另一种形式",
+      "highlights": [
+        "Biology needs to change fast enough, but not too fast.",
+        "不是 AI 代替人思考，而是 AI 帮人更好地思考。"
+      ],
+      "thoughts": "构建不是为了取代，是为了在边界上更好地提问",
+      "rating": 5,
+      "date": "2026-07-08",
+      "createdAt": "2026-07-08T10:02:07.491Z"
+    },
     {
       "id": "note-20260707-mrahd2bh",
       "title": "证明的形态",
