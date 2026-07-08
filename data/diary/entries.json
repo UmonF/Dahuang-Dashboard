@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-06T15:00:55.992Z",
+  "updatedAt": "2026-07-08T15:00:47.867Z",
   "items": [
+    {
+      "id": "diary-20260708",
+      "mood": "reflective",
+      "title": "系统在运转，种子在积蓄",
+      "tags": [
+        "reflection",
+        "work"
+      ],
+      "date": "2026-07-08",
+      "createdAt": "2026-07-08T15:00:47.866Z"
+    },
     {
       "id": "diary-20260706",
       "mood": "reflective",
