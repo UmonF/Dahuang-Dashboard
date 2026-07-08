@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-07T10:32:13.791Z",
+  "updatedAt": "2026-07-08T00:01:32.957Z",
   "items": [
+    {
+      "id": "insight-20260708-mrbbbx24",
+      "title": "Xbox Reset Day 2: Anatomy of an Empire Hollowed",
+      "summary": "idTech 引擎团队消失，ESO 路线图重置，四工作室出售——Xbox 的「精简」是什么被留下的故事",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Xbox",
+        "Layoffs",
+        "Engine Technology"
+      ],
+      "date": "2026-07-08",
+      "createdAt": "2026-07-08T00:01:32.957Z"
+    },
     {
       "id": "insight-20260707-mraif4kf",
       "title": "Radian — Product Launch as Journey",
