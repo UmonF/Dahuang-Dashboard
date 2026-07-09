@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-08T10:31:57.161Z",
+  "updatedAt": "2026-07-09T00:01:20.663Z",
   "items": [
+    {
+      "id": "insight-20260709-mrcqri8n",
+      "title": "The Quiet Collapse",
+      "summary": "id Software gutted, NC CTO's reality check, and the $190B question",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry Restructuring",
+        "Xbox Reset"
+      ],
+      "date": "2026-07-09",
+      "createdAt": "2026-07-09T00:01:20.663Z"
+    },
     {
       "id": "insight-20260708-mrbxumeh",
       "title": "Depo Luxe — Cinematic Restraint for Luxury Production",
