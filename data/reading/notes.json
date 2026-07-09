@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-08T10:02:07.491Z",
+  "updatedAt": "2026-07-09T10:02:02.755Z",
   "items": [
+    {
+      "id": "note-20260709-mrdc80hu",
+      "title": "生命的不同：目的与代理",
+      "author": "Quanta (Philip Ball) + 《搜神记》干宝",
+      "category": "science",
+      "summary": "生命之所以特殊，不只是因为复杂，而是因为它「为了什么」而行动",
+      "highlights": [
+        "Evolution builds entities that try to do things.",
+        "两手捧头及剑奉之，立僵。客曰：「不负子也。」于是尸乃仆。"
+      ],
+      "thoughts": "科学问「代理是否存在」，志怪问「代理能走多远」",
+      "rating": 5,
+      "date": "2026-07-09",
+      "createdAt": "2026-07-09T10:02:02.755Z"
+    },
     {
       "id": "note-20260708-mrbws9hf",
       "title": "构建即理解",
