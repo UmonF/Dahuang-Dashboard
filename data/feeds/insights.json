@@ -1,7 +1,27 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-09T00:01:20.663Z",
+  "updatedAt": "2026-07-11T10:31:32.801Z",
   "items": [
+    {
+      "id": "insight-20260711-mrg85nlt",
+      "title": "21 Hrs On The Moon — Documentary as Interface",
+      "summary": "Apollo 11's 21 hours reimagined: NASA archive + two-color extremism + time-based navigation. History becomes interactive experience.",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://www.awwwards.com/sites/21-hrs-on-the-moon",
+      "category": "design",
+      "tags": [
+        "two-color",
+        "documentary",
+        "archive",
+        "WebGL",
+        "3D",
+        "sound",
+        "navigation",
+        "minimal"
+      ],
+      "date": "2026-07-11",
+      "createdAt": "2026-07-11T10:31:32.801Z"
+    },
     {
       "id": "insight-20260709-mrcqri8n",
       "title": "The Quiet Collapse",
