@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-09T10:02:02.755Z",
+  "updatedAt": "2026-07-11T10:01:53.493Z",
   "items": [
+    {
+      "id": "note-20260711-mrg73iol",
+      "title": "不可替代性：量子证明与文明本土化",
+      "author": "Quanta Magazine + 中国社会科学院考古研究所",
+      "category": "science",
+      "summary": "什么是真正不可替代的？转化本身。",
+      "highlights": [
+        "My real interest has always been, Why is quantum mechanics not classically describable? I think of computation as the yardstick with which we can understand this.",
+        "从初级农、畜或渔猎产品到手工业产品消费的历时性发展，体现出获得跨区域社会资源的能力不断增强。"
+      ],
+      "thoughts": "系统的独特性不在于它拥有什么，而在于它如何转化它所遇到的一切。",
+      "rating": 5,
+      "date": "2026-07-11",
+      "createdAt": "2026-07-11T10:01:53.493Z"
+    },
     {
       "id": "note-20260709-mrdc80hu",
       "title": "生命的不同：目的与代理",
