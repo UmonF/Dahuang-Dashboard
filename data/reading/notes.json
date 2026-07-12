@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-11T10:01:53.493Z",
+  "updatedAt": "2026-07-12T10:02:44.612Z",
   "items": [
+    {
+      "id": "note-20260712-mrhmkgsk",
+      "title": "假设的边界：流体断裂与端午粽子",
+      "author": "Quanta Magazine + 中国社会科学网",
+      "category": "science",
+      "summary": "当「必然」被证明只是「当前状态」",
+      "highlights": [
+        "Nobody expected that this would be possible in this kind of simple fluid because viscosity usually just rearranges the molecules.",
+        "传统并非静态的延续，而是跟随着时代发展而更替，新的传统代替旧的传统。"
+      ],
+      "thoughts": "当我们说「不可能」，也许只是条件还不够极端。",
+      "rating": 5,
+      "date": "2026-07-12",
+      "createdAt": "2026-07-12T10:02:44.612Z"
+    },
     {
       "id": "note-20260711-mrg73iol",
       "title": "不可替代性：量子证明与文明本土化",
