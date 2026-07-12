@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-11T10:31:32.801Z",
+  "updatedAt": "2026-07-12T10:32:30.119Z",
   "items": [
+    {
+      "id": "insight-20260712-mrhnmqhz",
+      "title": "Cuchillo — Studio DNA Analysis",
+      "summary": "Spanish studio with 11+ SOTDs: video-dense architecture + cinematic restraint = timeless brand identities",
+      "category": "design",
+      "source": "Collection",
+      "sourceUrl": "https://www.somoscuchillo.com/",
+      "tags": [
+        "studio-analysis",
+        "video",
+        "cinematic",
+        "brand-identity",
+        "spanish-design"
+      ],
+      "date": "2026-07-12",
+      "createdAt": "2026-07-12T10:32:30.119Z"
+    },
     {
       "id": "insight-20260711-mrg85nlt",
       "title": "21 Hrs On The Moon — Documentary as Interface",
