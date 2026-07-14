@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-12T10:02:44.612Z",
+  "updatedAt": "2026-07-14T10:01:47.327Z",
   "items": [
+    {
+      "id": "note-20260714-mrkhexxb",
+      "title": "结构与信号：不变中的变",
+      "author": "Quanta Magazine + 中国社会科学网",
+      "category": "folklore",
+      "summary": "节日的仪式结构与外星信号的统计方法——如何在混沌中识别稳定的模式",
+      "highlights": [
+        "The actual number of extant civilizations ends up being dominated by purely the ratio of the birth and the death rate. That's it.",
+        "节俗的更新调适，是在延续节日框架前提下进行的创新",
+        "Aliens did it is like God did it. It can explain anything you want."
+      ],
+      "thoughts": "混沌中找秩序，变化中识不变——无论是节日传承还是宇宙探索，方法论殊途同归",
+      "rating": 5,
+      "date": "2026-07-14",
+      "createdAt": "2026-07-14T10:01:47.327Z"
+    },
     {
       "id": "note-20260712-mrhmkgsk",
       "title": "假设的边界：流体断裂与端午粽子",
