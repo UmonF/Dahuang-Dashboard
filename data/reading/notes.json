@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-14T10:01:47.327Z",
+  "updatedAt": "2026-07-15T10:02:46.077Z",
   "items": [
+    {
+      "id": "note-20260715-mrlww1x9",
+      "title": "边界与偏差",
+      "author": "Quanta + 光明日报",
+      "category": "science",
+      "summary": "不对称的起源：从左手到盐井",
+      "highlights": [
+        "Handedness is decided in the spinal cord before the brain connects to the limbs.",
+        "一把盐，竟曾是区域文明博弈的砝码。"
+      ],
+      "thoughts": "初始偏差 × 制度放大 = 稳定不对称",
+      "rating": 5,
+      "date": "2026-07-15",
+      "createdAt": "2026-07-15T10:02:46.077Z"
+    },
     {
       "id": "note-20260714-mrkhexxb",
       "title": "结构与信号：不变中的变",
