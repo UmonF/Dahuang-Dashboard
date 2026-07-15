@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-15T00:01:42.985Z",
+  "updatedAt": "2026-07-15T00:31:47.878Z",
   "items": [
+    {
+      "id": "insight-20260715-mrlchs4m",
+      "title": "审美欺骗：游戏视觉的诚实与谎言",
+      "summary": "Matthewmatosis 提出「aesthetic deception」概念——当游戏视觉与底层机制产生矛盾时的设计代价，涉及 40+ 游戏案例深度剖析",
+      "source": "Matthewmatosis",
+      "sourceUrl": "https://www.youtube.com/watch?v=IuBIW9h4qw4",
+      "category": "game-ux",
+      "tags": [
+        "视觉设计",
+        "信息设计",
+        "机制与表现",
+        "设计诚实"
+      ],
+      "date": "2026-07-15",
+      "createdAt": "2026-07-15T00:31:47.878Z"
+    },
     {
       "id": "insight-20260715-mrlbf3gp",
       "title": "AI 的双面镜：100% 采纳 vs 50% 提升 vs 无限克隆",
