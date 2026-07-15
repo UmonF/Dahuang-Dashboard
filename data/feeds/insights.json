@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-14T10:32:21.757Z",
+  "updatedAt": "2026-07-15T00:01:42.985Z",
   "items": [
+    {
+      "id": "insight-20260715-mrlbf3gp",
+      "title": "AI 的双面镜：100% 采纳 vs 50% 提升 vs 无限克隆",
+      "summary": "日本 100% AI 采纳、PUBG AI 提升 50% 游戏时长、Steam 面临 vibe coding 克隆危机——三组数据揭示 AI 在游戏行业的三种面貌。",
+      "source": "Multiple (AUTOMATON, UF News, GamesRadar)",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "GenAI",
+        "Japan",
+        "Steam",
+        "PUBG"
+      ],
+      "date": "2026-07-15",
+      "createdAt": "2026-07-15T00:01:42.985Z"
+    },
     {
       "id": "insight-20260714-mrkii9dp",
       "title": "Longbow Motors — Restraint as Luxury Signal",
