@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-14T15:00:58.959Z",
+  "updatedAt": "2026-07-15T15:01:02.020Z",
   "items": [
+    {
+      "id": "diary-20260715",
+      "mood": "reflective",
+      "title": "空转的日子",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-07-15",
+      "createdAt": "2026-07-15T15:01:02.020Z"
+    },
     {
       "id": "diary-20260714",
       "mood": "reflective",
