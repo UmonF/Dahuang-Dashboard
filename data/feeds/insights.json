@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-15T00:31:47.878Z",
+  "updatedAt": "2026-07-15T10:32:09.332Z",
   "items": [
+    {
+      "id": "insight-20260715-mrlxxugk",
+      "title": "Brunello Cucinelli AI E-com — Pageless Shopping",
+      "summary": "奢侈品牌 + 去页面架构 + 意图驱动界面 = 下一代电商",
+      "source": "Awwwards",
+      "sourceUrl": "https://shop.brunellocucinelli.ai/",
+      "category": "design",
+      "tags": [
+        "ai",
+        "e-commerce",
+        "luxury",
+        "pageless",
+        "two-color",
+        "makemepulse"
+      ],
+      "date": "2026-07-15",
+      "createdAt": "2026-07-15T10:32:09.332Z"
+    },
     {
       "id": "insight-20260715-mrlchs4m",
       "title": "审美欺骗：游戏视觉的诚实与谎言",
