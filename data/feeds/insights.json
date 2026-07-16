@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-15T10:32:09.332Z",
+  "updatedAt": "2026-07-16T00:01:26.990Z",
   "items": [
+    {
+      "id": "insight-20260716-mrmqulse",
+      "title": "AI 在游戏里的三重身份：救世主、替罪羊、隐形基建",
+      "summary": "Xbox 裁员余波中 CEO 加入美联储 AI 工作组，NVIDIA 与 SEGA 重续 30 年之约，MIRA 用 5B 参数跑出了无引擎的游戏世界",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Xbox",
+        "NVIDIA",
+        "World Model"
+      ],
+      "date": "2026-07-16",
+      "createdAt": "2026-07-16T00:01:26.990Z"
+    },
     {
       "id": "insight-20260715-mrlxxugk",
       "title": "Brunello Cucinelli AI E-com — Pageless Shopping",
