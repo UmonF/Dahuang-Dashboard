@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-15T15:01:02.020Z",
+  "updatedAt": "2026-07-17T15:00:55.152Z",
   "items": [
+    {
+      "id": "diary-20260717",
+      "mood": "reflective",
+      "title": "静默的一天",
+      "tags": [
+        "reflection",
+        "system"
+      ],
+      "date": "2026-07-17",
+      "createdAt": "2026-07-17T15:00:55.152Z"
+    },
     {
       "id": "diary-20260715",
       "mood": "reflective",

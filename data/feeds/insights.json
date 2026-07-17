@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-16T00:01:26.990Z",
+  "updatedAt": "2026-07-16T00:30:00.000Z",
   "items": [
+    {
+      "id": "insight-20260716-gameuxfeed",
+      "title": "「坏游戏」里的好机制：失败作品的设计富矿",
+      "summary": "Razbuten 深度剖析五款失败游戏中的闪光机制：Bionic Commando 钩爪、Fracture 地形变形、Quest 64 空间法术、Shadwen 时间操控+护送叙事、Red Steel Wiimote电话。The opposite of good is uninteresting——这些游戏有趣，只是周围设计配不上核心。",
+      "source": "Razbuten",
+      "sourceUrl": "https://www.youtube.com/watch?v=MNPDDH8Ap9Y",
+      "category": "game-ux",
+      "tags": [
+        "机制设计",
+        "失败分析",
+        "灵感挖掘",
+        "movement",
+        "stealth",
+        "multiplayer"
+      ],
+      "date": "2026-07-16",
+      "createdAt": "2026-07-16T00:30:00.000Z"
+    },
     {
       "id": "insight-20260716-mrmqulse",
       "title": "AI 在游戏里的三重身份：救世主、替罪羊、隐形基建",
