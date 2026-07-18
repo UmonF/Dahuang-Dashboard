@@ -1,7 +1,25 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-18T00:01:14.039Z",
+  "updatedAt": "2026-07-18T10:32:23.314Z",
   "items": [
+    {
+      "id": "insight-20260718-mrq89p8y",
+      "title": "CoffeeTech® — Industrial Precision as Luxury Aesthetic",
+      "summary": "Israeli coffee roaster manufacturer website by Or Halevi / MAKETHECUT®. Cinematic dark UI + product-as-hero philosophy + numbered typography system for industrial machinery elegance.",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://www.coffee-tech.com/",
+      "category": "design",
+      "tags": [
+        "dark-mode",
+        "typography",
+        "layout",
+        "3D",
+        "industrial",
+        "B2B"
+      ],
+      "date": "2026-07-18",
+      "createdAt": "2026-07-18T10:32:23.314Z"
+    },
     {
       "id": "insight-20260718-mrplq14n",
       "title": "AI 游戏的悖论：增长来自 AI，但 AI 不赚钱",
