@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-17T15:00:55.152Z",
+  "updatedAt": "2026-07-18T15:00:52.631Z",
   "items": [
+    {
+      "id": "diary-20260718",
+      "mood": "calm",
+      "title": "恢复",
+      "tags": [
+        "reflection"
+      ],
+      "date": "2026-07-18",
+      "createdAt": "2026-07-18T15:00:52.631Z"
+    },
     {
       "id": "diary-20260717",
       "mood": "reflective",
