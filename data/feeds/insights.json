@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-16T00:30:00.000Z",
+  "updatedAt": "2026-07-18T00:01:14.039Z",
   "items": [
+    {
+      "id": "insight-20260718-mrplq14n",
+      "title": "AI 游戏的悖论：增长来自 AI，但 AI 不赚钱",
+      "summary": "Steam AI 研究、Roblox Build、平台政策三重奏揭示行业分裂",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Steam Study",
+        "Roblox",
+        "AI Disclosure",
+        "Industry Analysis"
+      ],
+      "date": "2026-07-18",
+      "createdAt": "2026-07-18T00:01:14.039Z"
+    },
     {
       "id": "insight-20260716-gameuxfeed",
       "title": "「坏游戏」里的好机制：失败作品的设计富矿",
