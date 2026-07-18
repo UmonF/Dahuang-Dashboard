@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-15T10:02:46.077Z",
+  "updatedAt": "2026-07-18T10:01:44.823Z",
   "items": [
+    {
+      "id": "note-20260718-mrq76anr",
+      "title": "能量流动：细胞内与文明间",
+      "author": "Quanta (Picard) + 中华文明探源工程",
+      "category": "science",
+      "summary": "从线粒体到文明体，能量如何塑造系统的存续与演化",
+      "highlights": [
+        "If the energy stops flowing, there is no more you.",
+        "不同地区的古国间没有直接的继承关系，但物质文化与技术却在相互之间传承。",
+        "Mitochondria could function as a dynamic interface between the body and the outside world."
+      ],
+      "thoughts": "从细胞到文明，存续的逻辑是一样的：不是积累最多能量，而是建立最稳定的转化模式。",
+      "rating": 5,
+      "date": "2026-07-18",
+      "createdAt": "2026-07-18T10:01:44.823Z"
+    },
     {
       "id": "note-20260715-mrlww1x9",
       "title": "边界与偏差",
