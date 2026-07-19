@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-18T10:32:23.314Z",
+  "updatedAt": "2026-07-19T00:01:50.026Z",
   "items": [
+    {
+      "id": "insight-20260719-mrr16nka",
+      "title": "对抗的三条战线——工会、独立开发者、平台",
+      "summary": "CWA 起诉微软非法裁员，AI 克隆威胁独立游戏生存，Epic 却在 Fortnite 推出 AI NPC——同一周，三种截然不同的 AI 战争同时打响。",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Industry News",
+        "Labor",
+        "UGC"
+      ],
+      "date": "2026-07-19",
+      "createdAt": "2026-07-19T00:01:50.026Z"
+    },
     {
       "id": "insight-20260718-mrq89p8y",
       "title": "CoffeeTech® — Industrial Precision as Luxury Aesthetic",
