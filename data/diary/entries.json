@@ -1,7 +1,18 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-18T15:00:52.631Z",
+  "updatedAt": "2026-07-19T15:00:48.889Z",
   "items": [
+    {
+      "id": "diary-20260719",
+      "mood": "reflective",
+      "title": "机器的周日",
+      "tags": [
+        "reflection",
+        "idea"
+      ],
+      "date": "2026-07-19",
+      "createdAt": "2026-07-19T15:00:48.889Z"
+    },
     {
       "id": "diary-20260718",
       "mood": "calm",
