@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-18T10:01:44.823Z",
+  "updatedAt": "2026-07-19T10:01:47.177Z",
   "items": [
+    {
+      "id": "note-20260719-mrrmm750",
+      "title": "计算的两种路径：对抗噪声与拥抱噪声",
+      "author": "Quanta Magazine + 光明日报",
+      "category": "science",
+      "summary": "热力学计算机与AI考古——两种驯服混沌的策略",
+      "highlights": [
+        "The field is about designing computers that exploit thermodynamics as a computational resource.",
+        "数据库提供了前所未有的「记忆容量」，人工智能赋予了强大的「认知能力」。"
+      ],
+      "thoughts": "对抗噪声是传统路径，借势噪声是新范式——从计算到考古，两种驯服混沌的策略",
+      "rating": 5,
+      "date": "2026-07-19",
+      "createdAt": "2026-07-19T10:01:47.172Z"
+    },
     {
       "id": "note-20260718-mrq76anr",
       "title": "能量流动：细胞内与文明间",
