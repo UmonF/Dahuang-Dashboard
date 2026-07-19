@@ -1,7 +1,26 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-19T00:01:50.026Z",
+  "updatedAt": "2026-07-19T10:32:41.097Z",
   "items": [
+    {
+      "id": "insight-20260719-mrrnpxmx",
+      "title": "Hiroto Sato Portfolio — Scroll as Physical Metaphor",
+      "summary": "Japanese creative dev portfolio: scroll-driven reveals paced to \"distance\" not viewport, turning interaction into earned experience",
+      "source": "Awwwards SOTD + Developer Award",
+      "sourceUrl": "https://www.hirotos.com",
+      "category": "design",
+      "tags": [
+        "portfolio",
+        "WebGL",
+        "animation",
+        "scroll",
+        "two-color",
+        "Three.js",
+        "GSAP"
+      ],
+      "date": "2026-07-19",
+      "createdAt": "2026-07-19T10:32:41.097Z"
+    },
     {
       "id": "insight-20260719-mrr16nka",
       "title": "对抗的三条战线——工会、独立开发者、平台",
