@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-19T10:01:47.177Z",
+  "updatedAt": "2026-07-20T10:01:45.274Z",
   "items": [
+    {
+      "id": "note-20260720-mrt220c4",
+      "title": "混沌中的秩序：洗牌与仙术",
+      "author": "Quanta Magazine + 搜神记",
+      "category": "science",
+      "summary": "cutoff phenomenon——渐变，然后突变",
+      "highlights": [
+        "The deck suddenly tips into a highly unstructured state",
+        "蒙君之惠，父丧收藏，永虽小人，必欲服勤致力，以报厚德"
+      ],
+      "thoughts": "cutoff phenomenon 和志怪的「至孝」都在回答同一个问题：什么是真正的约束条件？",
+      "rating": 5,
+      "date": "2026-07-20",
+      "createdAt": "2026-07-20T10:01:45.268Z"
+    },
     {
       "id": "note-20260719-mrrmm750",
       "title": "计算的两种路径：对抗噪声与拥抱噪声",
