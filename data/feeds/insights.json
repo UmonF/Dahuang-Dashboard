@@ -1,7 +1,26 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-20T00:32:23.498Z",
+  "updatedAt": "2026-07-20T10:31:52.389Z",
   "items": [
+    {
+      "id": "insight-20260720-mrt34qpx",
+      "title": "IZANAMI — Wa as Design Philosophy",
+      "summary": "Japanese harmony (和) translated into digital experience: video-driven architecture, two-color restraint, philosophy-first narrative",
+      "source": "Awwwards SOTD",
+      "sourceUrl": "https://izanami-official.com/",
+      "category": "design",
+      "tags": [
+        "typography",
+        "color",
+        "animation",
+        "minimal",
+        "japanese",
+        "video",
+        "philosophy"
+      ],
+      "date": "2026-07-20",
+      "createdAt": "2026-07-20T10:31:52.389Z"
+    },
     {
       "id": "insight-20260720-mrshpsy2",
       "title": "推荐系统的设计困境：Wax Heads 如何把「品味」变成谜题",
