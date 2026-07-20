@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-20T00:01:31.818Z",
+  "updatedAt": "2026-07-20T00:32:23.498Z",
   "items": [
+    {
+      "id": "insight-20260720-mrshpsy2",
+      "title": "推荐系统的设计困境：Wax Heads 如何把「品味」变成谜题",
+      "summary": "一款唱片店模拟游戏揭示了游戏设计中的深层矛盾——人类品味无法系统化，但游戏需要可预测的因果关系。解法：把推荐变成叙事推理谜题。",
+      "source": "Errant Signal",
+      "sourceUrl": "https://youtube.com/watch?v=drs34VeHjoY",
+      "category": "game-ux",
+      "tags": [
+        "Recommendation Design",
+        "Narrative Sim",
+        "Taste Systemization",
+        "Cozy Games"
+      ],
+      "date": "2026-07-20",
+      "createdAt": "2026-07-20T00:32:23.498Z"
+    },
     {
       "id": "insight-20260720-mrsgm46i",
       "title": "资本流向与价值真空",
