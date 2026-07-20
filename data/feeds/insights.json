@@ -1,7 +1,24 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-19T10:32:41.097Z",
+  "updatedAt": "2026-07-20T00:01:31.818Z",
   "items": [
+    {
+      "id": "insight-20260720-mrsgm46i",
+      "title": "资本流向与价值真空",
+      "summary": "Steam AI游戏研究揭示增长幻觉，而游戏投资创12个月新高——钱去哪了？",
+      "source": "Multiple",
+      "sourceUrl": null,
+      "category": "tech-ai",
+      "tags": [
+        "Gaming AI",
+        "Steam",
+        "Investment",
+        "Roblox",
+        "JOGA"
+      ],
+      "date": "2026-07-20",
+      "createdAt": "2026-07-20T00:01:31.818Z"
+    },
     {
       "id": "insight-20260719-mrrnpxmx",
       "title": "Hiroto Sato Portfolio — Scroll as Physical Metaphor",
